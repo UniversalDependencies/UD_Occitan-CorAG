@@ -10045,7 +10045,7 @@
 
 # sent_id = 1460_Bearn_1_1_134_1_2
 # len = 91
-# text = Et se trobe a tot jorn que ataus obligatz, per lors grans malesses et per fugir a justicie, en gran prejudici de partide et dampnament de las lors animes, no curantz ni actendentz a las renunciations ni au segrament qui an prestat, domanen per lors grans cavillations remission a lor cort et a lor vic de lor domicili et esser saubatz en lors priviledges, libertatz et franquesses et lettres d'estat a las segont la obligance de las cartes, auran expressementz renunciat.
+# text = Et se trobe a tot jorn que ataus obligatz, per lors grans malesses et per fugir a justicie, en gran prejudici de partide et dampnament de las lors animes, no curantz ni actendentz a las renunciations ni au segrament qui an prestat, domanen per lors grans cavillations remission a lor cort et a lor vic de lor domicili et esser saubatz en lors priviledges, libertatz et franquesses et lettres d'estat ausquoaus, segont la obligance de las cartes, auran expressementz renunciat.
 1	Et	_	CCONJ	_	_	3	cc	_	_
 2	se	_	PRON	_	_	3	expl	_	_
 3	trobe	_	VERB	_	_	0	root	_	_
@@ -10124,10 +10124,10 @@
 75	lettres	_	NOUN	_	_	69	conj	_	_
 76	d'	_	ADP	_	_	77	case	_	SpaceAfter=No
 77	estat	_	NOUN	_	_	75	nmod	_	_
-78	a	_	ADP	_	_	79	case	_	_
-79-80	las	_	_	_	_	_	_	_	_
-79	lasquoaus	_	PRON	_	_	90	obl	_	SpaceAfter=No
-80	,	_	PUNCT	_	_	79	punct	_	_
+78-79	ausquoaus	_	_	_	_	_	_	_	SpaceAfter=No
+78	a-	_	ADP	_	_	79	case	_	_
+79	-lasquoaus	_	PRON	_	_	90	obl	_	_
+80	,	_	PUNCT	_	_	90	punct	_	_
 81	segont	_	ADP	_	_	83	case	_	_
 82	la	_	DET	_	_	83	det	_	_
 83	obligance	_	NOUN	_	_	90	obl	_	_
@@ -23912,7 +23912,7 @@
 
 # sent_id = 1460_Bearn_1_1_267_1_3
 # len = 15
-# text = deu plus que pagui aus senhors deus locx sober los ;
+# text = deu plus que pagui aus senhors deus locx sober losquoaus padoira;
 1-2	deu	_	_	_	_	_	_	_	_
 1	de-	_	ADP	_	_	3	case	_	_
 2	-lo	_	DET	_	_	3	det	_	_
@@ -23928,7 +23928,6 @@
 10	-los	_	DET	_	_	11	det	_	_
 11	locx	_	NOUN	_	_	8	nmod	_	_
 12	sober	_	ADP	_	_	13	case	_	_
-13-14	los	_	_	_	_	_	_	_	_
 13	losquoaus	_	PRON	_	_	14	obl	_	_
 14	padoira	_	VERB	_	_	11	acl:relcl	_	SpaceAfter=No
 15	;	_	PUNCT	_	_	5	punct	_	_
