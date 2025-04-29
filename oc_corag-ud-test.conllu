@@ -11376,3 +11376,32 @@
 15	Rey	_	NOUN	_	_	14	flat	_	SpaceAfter=No
 16	;	_	PUNCT	_	_	3	punct	_	_
 
+# sent_id = 1214-1342_Deux_1_1_7_115_2
+# len = 24
+# text = en la parropia de Mayrinhac tenen Amaneu de Noalhan et B. d'Ornon per las lurs molhers X homes del seynhor Rey,
+1	en	_	ADP	_	_	3	case	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	parropia	_	NOUN	_	_	6	obl	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Mayrinhac	_	PROPN	_	_	3	nmod	_	_
+6	tenen	_	VERB	_	_	0	root	_	_
+7	Amaneu	_	PROPN	_	_	6	nsubj	_	_
+8	de	_	ADP	_	_	9	case	_	_
+9	Noalhan	_	PROPN	_	_	7	nmod	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	B.	_	PROPN	_	_	7	conj	_	_
+12	d'	_	ADP	_	_	13	case	_	SpaceAfter=No
+13	Ornon	_	PROPN	_	_	11	nmod	_	_
+14	per	_	ADP	_	_	17	case	_	_
+15	las	_	DET	_	_	17	det	_	_
+16	lurs	_	ADJ	_	_	17	amod	_	_
+17	molhers	_	NOUN	_	_	6	obl	_	_
+18	X	_	NUM	_	_	19	nummod	_	_
+19	homes	_	NOUN	_	_	6	obj	_	_
+20-21	del	_	_	_	_	_	_	_	_
+20	de-	_	ADP	_	_	22	case	_	_
+21	-lo	_	DET	_	_	22	det	_	_
+22	seynhor	_	NOUN	_	_	19	nmod	_	_
+23	Rey	_	NOUN	_	_	22	flat	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	6	punct	_	_
+
