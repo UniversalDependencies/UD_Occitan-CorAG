@@ -11126,7 +11126,7 @@
 
 # sent_id = 1460_Bearn_1_1_141_1_1
 # len = 64
-# text = Item, si nulhs hom penhere a d'autre, que lo bayle lo fasse reder o malhevar ades la penhere, si aqueg ditz que es forsat o raubat qui penherat sera et si atau cause es que davant luy se pusque judyar, que a-ffase , et si no, que a fasse judyar davant lo senhor et la cort.
+# text = Item, si nulhs hom penhere a d'autre, que lo bayle lo fasse reder o malhevar ades la penhere, si aqueg ditz que es forsat o raubat qui penherat sera et si atau cause es que davant luy se pusque judyar, que a-ffase, et si no, que a fasse judyar davant lo senhor et la cort.
 1	Item	_	ADV	_	_	15	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	si	_	SCONJ	_	_	6	mark	_	_
@@ -11173,9 +11173,9 @@
 44	judyar	_	VERB	_	_	43	xcomp	_	SpaceAfter=No
 45	,	_	PUNCT	_	_	37	punct	_	_
 46	que	_	PART	_	_	48	expl	_	_
-47-48	a-ffase	_	_	_	_	_	_	_	_
+47-48	a-ffase	_	_	_	_	_	_	_	SpaceAfter=No
 47	a-	_	PRON	_	_	48	obj	_	_
-48	-fasse	_	VERB	_	_	15	conj	_	SpaceAfter=No
+48	-fasse	_	VERB	_	_	15	conj	_	_
 49	,	_	PUNCT	_	_	48	punct	_	_
 50	et	_	CCONJ	_	_	56	cc	_	_
 51	si	_	SCONJ	_	_	52	mark	_	_
