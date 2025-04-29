@@ -1,0 +1,5150 @@
+# sent_id = 1214-1342_Deux_1_1_7_115_2
+# len = 24
+# text = en la parropia de Mayrinhac tenen Amaneu de Noalhan et B. d'Ornon per las lurs molhers X homes del seynhor Rey,
+1	en	_	ADP	_	_	3	case	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	parropia	_	NOUN	_	_	6	obl	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Mayrinhac	_	PROPN	_	_	3	nmod	_	_
+6	tenen	_	VERB	_	_	0	root	_	_
+7	Amaneu	_	PROPN	_	_	6	nsubj	_	_
+8	de	_	ADP	_	_	9	case	_	_
+9	Noalhan	_	PROPN	_	_	7	nmod	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	B.	_	PROPN	_	_	7	conj	_	_
+12	d'	_	ADP	_	_	13	case	_	SpaceAfter=No
+13	Ornon	_	PROPN	_	_	11	nmod	_	_
+14	per	_	ADP	_	_	17	case	_	_
+15	las	_	DET	_	_	17	det	_	_
+16	lurs	_	ADJ	_	_	17	amod	_	_
+17	molhers	_	NOUN	_	_	6	obl	_	_
+18	X	_	NUM	_	_	19	nummod	_	_
+19	homes	_	NOUN	_	_	6	obj	_	_
+20-21	del	_	_	_	_	_	_	_	_
+20	de-	_	ADP	_	_	22	case	_	_
+21	-lo	_	DET	_	_	22	det	_	_
+22	seynhor	_	NOUN	_	_	19	nmod	_	_
+23	Rey	_	NOUN	_	_	22	flat	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_115_3
+# len = 8
+# text = mas la maneyra de alienation fut questa:
+1	mas	_	CCONJ	_	_	7	cc	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	maneyra	_	NOUN	_	_	7	nsubj	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	alienation	_	NOUN	_	_	3	nmod	_	_
+6	fut	_	AUX	_	_	7	cop	_	_
+7	questa	_	PRON	_	_	0	root	_	SpaceAfter=No
+8	:	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_115_4
+# len = 21
+# text = Lo rey Ricart donet aquetz a Hugon Los cum ed aguessa balhat la dona de Correian a luy en molher,
+1	Lo	_	DET	_	_	2	det	_	_
+2	rey	_	NOUN	_	_	4	nsubj	_	_
+3	Ricart	_	PROPN	_	_	2	flat	_	_
+4	donet	_	VERB	_	_	0	root	_	_
+5	aquetz	_	PRON	_	_	4	obj	_	_
+6	a	_	ADP	_	_	7	case	_	_
+7	Hugon	_	PROPN	_	_	4	obl	_	_
+8	Los	_	PROPN	_	_	7	flat	_	_
+9	cum	_	SCONJ	_	_	12	mark	_	_
+10	ed	_	PRON	_	_	12	nsubj	_	_
+11	aguessa	_	AUX	_	_	12	aux	_	_
+12	balhat	_	VERB	_	_	4	advcl	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	dona	_	NOUN	_	_	12	obj	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	Correian	_	PROPN	_	_	14	nmod	_	_
+17	a	_	ADP	_	_	18	case	_	_
+18	luy	_	PRON	_	_	12	obl	_	_
+19	en	_	ADP	_	_	20	case	_	_
+20	molher	_	NOUN	_	_	12	obl	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_115_5
+# len = 13
+# text = loquau mort sens heretey, sa molher esposet Guilhem Ar. de Lamota,
+1	loquau	_	PRON	_	_	2	nsubj	_	_
+2	mort	_	VERB	_	_	8	advcl	_	_
+3	sens	_	ADP	_	_	4	case	_	_
+4	heretey	_	NOUN	_	_	2	obl	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	sa	_	DET	_	_	7	det	_	_
+7	molher	_	NOUN	_	_	8	nsubj	_	_
+8	esposet	_	VERB	_	_	0	root	_	_
+9	Guilhem	_	PROPN	_	_	8	obj	_	_
+10	Ar.	_	PROPN	_	_	9	flat	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	Lamota	_	PROPN	_	_	9	nmod	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_115_6
+# len = 52
+# text = loquau cum occupessa los homes a lendarey torneren à la man del rey de mandament de luy, sabuda la vertat; si que lo Rey mort, lo sobredeyt W. de Lamota occupet aquetz, los compellit jurar que no se partiren d’assi en arrey de la sua seynhoria
+1	loquau	_	PRON	_	_	3	nsubj	_	_
+2	cum	_	SCONJ	_	_	3	mark	_	_
+3	occupessa	_	VERB	_	_	8	advcl	_	_
+4	los	_	DET	_	_	5	det	_	_
+5	homes	_	NOUN	_	_	3	obj	_	_
+6	a	_	ADP	_	_	7	case	_	_
+7	lendarey	_	ADV	_	_	3	advmod	_	_
+8	torneren	_	VERB	_	_	0	root	_	_
+9	à	_	ADP	_	_	11	case	_	_
+10	la	_	DET	_	_	11	det	_	_
+11	man	_	NOUN	_	_	8	obl	_	_
+12-13	del	_	_	_	_	_	_	_	_
+12	de-	_	ADP	_	_	14	case	_	_
+13	-lo	_	DET	_	_	14	det	_	_
+14	rey	_	NOUN	_	_	11	nmod	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	mandament	_	NOUN	_	_	8	obl	_	_
+17	de	_	ADP	_	_	18	case	_	_
+18	luy	_	PRON	_	_	16	nmod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	8	punct	_	_
+20	sabuda	_	VERB	_	_	8	advcl	_	_
+21	la	_	DET	_	_	22	det	_	_
+22	vertat	_	NOUN	_	_	20	nsubj	_	SpaceAfter=No
+23	;	_	PUNCT	_	_	8	punct	_	_
+24	si	_	ADV	_	ExtPos=SCONJ	35	mark	_	_
+25	que	_	SCONJ	_	_	24	fixed	_	_
+26	lo	_	DET	_	_	27	det	_	_
+27	Rey	_	NOUN	_	_	28	nsubj	_	_
+28	mort	_	VERB	_	_	35	advcl	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	28	punct	_	_
+30	lo	_	DET	_	_	32	det	_	_
+31	sobredeyt	_	ADJ	_	_	32	amod	_	_
+32	W.	_	PROPN	_	_	35	nsubj	_	_
+33	de	_	ADP	_	_	34	case	_	_
+34	Lamota	_	PROPN	_	_	32	nmod	_	_
+35	occupet	_	VERB	_	_	8	advcl	_	_
+36	aquetz	_	PRON	_	_	35	obj	_	SpaceAfter=No
+37	,	_	PUNCT	_	_	35	punct	_	_
+38	los	_	PRON	_	_	39	obj	_	_
+39	compellit	_	VERB	_	_	35	conj	_	_
+40	jurar	_	VERB	_	_	39	xcomp	_	_
+41	que	_	SCONJ	_	_	44	mark	_	_
+42	no	_	ADV	_	_	44	advmod	_	_
+43	se	_	PRON	_	_	44	expl	_	_
+44	partiren	_	VERB	_	_	40	ccomp	_	_
+45	d’	_	ADP	_	_	46	case	_	SpaceAfter=No
+46	assi	_	ADV	_	_	44	advmod	_	_
+47	en	_	ADP	_	_	48	case	_	_
+48	arrey	_	ADV	_	_	46	obl	_	_
+49	de	_	ADP	_	_	52	case	_	_
+50	la	_	DET	_	_	52	det	_	_
+51	sua	_	ADJ	_	_	52	amod	_	_
+52	seynhoria	_	NOUN	_	_	44	obl	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_115_7
+# len = 9
+# text = et ayssi possediren aquetz edz et sous successors.
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	ayssi	_	ADV	_	_	3	advmod	_	_
+3	possediren	_	VERB	_	_	0	root	_	_
+4	aquetz	_	PRON	_	_	3	obj	_	_
+5	edz	_	PRON	_	_	3	nsubj	_	_
+6	et	_	CCONJ	_	_	8	cc	_	_
+7	sous	_	DET	_	_	8	det	_	_
+8	successors	_	NOUN	_	_	5	conj	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_116_1
+# len = 98
+# text = Nos inquisirem specialment de la persona de Arn. Guilhem Branion quar era diffamat espessament vert nostre aurelhas dels bailles del Rey sobre asso et troberem per aquetz qui avian jurat de la parropia det medeys de Sadirac, en loquau loc ed demora, so es assaber Vidau de Labarreyra et P. Olivey, que no avia occupat res violeument o frauduleument de la terra del Rey, loquau s'en anet en sa terra en Espanha et donet aquera a una capela en la parropia de Sadirac saup lo dreyt deu Rey.
+1	Nos	_	PRON	_	_	2	nsubj	_	_
+2	inquisirem	_	VERB	_	_	0	root	_	_
+3	specialment	_	ADV	_	_	2	advmod	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	la	_	DET	_	_	6	det	_	_
+6	persona	_	NOUN	_	_	2	obl	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Arn.	_	PROPN	_	_	6	nmod	_	_
+9	Guilhem	_	PROPN	_	_	8	flat	_	_
+10	Branion	_	PROPN	_	_	8	flat	_	_
+11	quar	_	SCONJ	_	_	13	mark	_	_
+12	era	_	AUX	_	_	13	aux:pass	_	_
+13	diffamat	_	VERB	_	_	2	advcl	_	_
+14	espessament	_	ADV	_	_	13	advmod	_	_
+15	vert	_	ADP	_	_	17	case	_	_
+16	nostre	_	DET	_	_	17	det	_	_
+17	aurelhas	_	NOUN	_	_	13	obl	_	_
+18-19	dels	_	_	_	_	_	_	_	_
+18	de-	_	ADP	_	_	20	case	_	_
+19	-los	_	DET	_	_	20	det	_	_
+20	bailles	_	NOUN	_	_	13	obl	_	_
+21-22	del	_	_	_	_	_	_	_	_
+21	de-	_	ADP	_	_	23	case	_	_
+22	-lo	_	DET	_	_	23	det	_	_
+23	Rey	_	NOUN	_	_	20	nmod	_	_
+24	sobre	_	ADP	_	_	25	case	_	_
+25	asso	_	PRON	_	_	13	obl	_	_
+26	et	_	CCONJ	_	_	27	cc	_	_
+27	troberem	_	VERB	_	_	2	conj	_	_
+28	per	_	ADP	_	_	29	case	_	_
+29	aquetz	_	PRON	_	_	27	obl	_	_
+30	qui	_	PRON	_	_	32	nsubj	_	_
+31	avian	_	AUX	_	_	32	aux	_	_
+32	jurat	_	VERB	_	_	29	acl:relcl	_	_
+33	de	_	ADP	_	_	35	case	_	_
+34	la	_	DET	_	_	35	det	_	_
+35	parropia	_	NOUN	_	_	29	nmod	_	_
+36	det	_	ADP	_	_	37	case	_	_
+37	medeys	_	PRON	_	_	35	nmod	_	_
+38	de	_	ADP	_	_	39	case	_	_
+39	Sadirac	_	PROPN	_	_	37	nmod	_	SpaceAfter=No
+40	,	_	PUNCT	_	_	39	punct	_	_
+41	en	_	ADP	_	_	43	case	_	_
+42	loquau	_	DET	_	_	43	det	_	_
+43	loc	_	NOUN	_	_	45	obl	_	_
+44	ed	_	PRON	_	_	45	nsubj	_	_
+45	demora	_	NOUN	_	_	39	acl:relcl	_	SpaceAfter=No
+46	,	_	PUNCT	_	_	50	punct	_	_
+47	so	_	PRON	_	ExtPos=ADV	50	advmod	_	_
+48	es	_	VERB	_	_	47	fixed	_	_
+49	assaber	_	VERB	_	_	47	fixed	_	_
+50	Vidau	_	PROPN	_	_	29	appos	_	_
+51	de	_	ADP	_	_	52	case	_	_
+52	Labarreyra	_	PROPN	_	_	50	nmod	_	_
+53	et	_	CCONJ	_	_	54	cc	_	_
+54	P.	_	PROPN	_	_	50	conj	_	_
+55	Olivey	_	PROPN	_	_	54	flat	_	SpaceAfter=No
+56	,	_	PUNCT	_	_	50	punct	_	_
+57	que	_	SCONJ	_	_	60	mark	_	_
+58	no	_	ADV	_	_	60	advmod	_	_
+59	avia	_	AUX	_	_	60	aux	_	_
+60	occupat	_	VERB	_	_	27	ccomp	_	_
+61	res	_	PRON	_	_	60	obj	_	_
+62	violeument	_	ADV	_	_	60	advmod	_	_
+63	o	_	CCONJ	_	_	64	cc	_	_
+64	frauduleument	_	ADV	_	_	62	conj	_	_
+65	de	_	ADP	_	_	67	case	_	_
+66	la	_	DET	_	_	67	det	_	_
+67	terra	_	NOUN	_	_	61	nmod	_	_
+68-69	del	_	_	_	_	_	_	_	_
+68	de-	_	ADP	_	_	70	case	_	_
+69	-lo	_	DET	_	_	70	det	_	_
+70	Rey	_	NOUN	_	_	67	nmod	_	SpaceAfter=No
+71	,	_	PUNCT	_	_	70	punct	_	_
+72	loquau	_	PRON	_	_	75	nsubj	_	_
+73	s'	_	PRON	_	_	75	expl	_	SpaceAfter=No
+74	en	_	PRON	_	_	75	obl	_	_
+75	anet	_	VERB	_	_	70	acl:relcl	_	_
+76	en	_	ADP	_	_	78	case	_	_
+77	sa	_	DET	_	_	78	det	_	_
+78	terra	_	NOUN	_	_	75	obl	_	_
+79	en	_	ADP	_	_	80	case	_	_
+80	Espanha	_	NOUN	_	_	75	obl	_	_
+81	et	_	CCONJ	_	_	82	cc	_	_
+82	donet	_	VERB	_	_	75	conj	_	_
+83	aquera	_	PRON	_	_	82	obj	_	_
+84	a	_	ADP	_	_	86	case	_	_
+85	una	_	DET	_	_	86	det	_	_
+86	capela	_	NOUN	_	_	82	obl	_	_
+87	en	_	ADP	_	_	89	case	_	_
+88	la	_	DET	_	_	89	det	_	_
+89	parropia	_	NOUN	_	_	82	obl	_	_
+90	de	_	ADP	_	_	91	case	_	_
+91	Sadirac	_	PROPN	_	_	89	nmod	_	_
+92	saup	_	ADP	_	_	94	case	_	_
+93	lo	_	DET	_	_	94	det	_	_
+94	dreyt	_	NOUN	_	_	82	obl	_	_
+95-96	deu	_	_	_	_	_	_	_	_
+95	de-	_	ADP	_	_	97	case	_	_
+96	-lo	_	DET	_	_	97	det	_	_
+97	Rey	_	NOUN	_	_	94	nmod	_	SpaceAfter=No
+98	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_117_1
+# len = 41
+# text = En la parropia de Barsac a vicul que es aperada Vila Centulh, Rostanh de Solar appropriet VII o VIII homes per forssa a luy del seynhor Rey et constituit aquetz soux tributaris, en X soudz per quascun,
+1	En	_	ADP	_	_	3	case	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	parropia	_	NOUN	_	_	17	obl	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Barsac	_	PROPN	_	_	3	nmod	_	_
+6	a	_	ADP	_	_	7	case	_	_
+7	vicul	_	NOUN	_	_	17	obl	_	_
+8	que	_	PRON	_	_	10	obl	_	_
+9	es	_	AUX	_	_	10	aux:pass	_	_
+10	aperada	_	VERB	_	_	7	acl:relcl	_	_
+11	Vila	_	PROPN	_	_	10	nsubj	_	_
+12	Centulh	_	PROPN	_	_	11	flat	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	7	punct	_	_
+14	Rostanh	_	PROPN	_	_	17	nsubj	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	Solar	_	PROPN	_	_	14	nmod	_	_
+17	appropriet	_	VERB	_	_	0	root	_	_
+18	VII	_	NUM	_	_	21	nummod	_	_
+19	o	_	CCONJ	_	_	20	cc	_	_
+20	VIII	_	NUM	_	_	18	conj	_	_
+21	homes	_	NOUN	_	_	17	obj	_	_
+22	per	_	ADP	_	_	23	case	_	_
+23	forssa	_	NOUN	_	_	17	obl	_	_
+24	a	_	ADP	_	_	25	case	_	_
+25	luy	_	PRON	_	_	17	obl	_	_
+26-27	del	_	_	_	_	_	_	_	_
+26	de-	_	ADP	_	_	28	case	_	_
+27	-lo	_	DET	_	_	28	det	_	_
+28	seynhor	_	NOUN	_	_	17	obl	_	_
+29	Rey	_	NOUN	_	_	28	flat	_	_
+30	et	_	CCONJ	_	_	31	cc	_	_
+31	constituit	_	VERB	_	_	17	conj	_	_
+32	aquetz	_	PRON	_	_	31	obj	_	_
+33	soux	_	DET	_	_	34	det	_	_
+34	tributaris	_	NOUN	_	_	31	xcomp	_	SpaceAfter=No
+35	,	_	PUNCT	_	_	31	punct	_	_
+36	en	_	ADP	_	_	38	case	_	_
+37	X	_	NUM	_	_	38	nummod	_	_
+38	soudz	_	NOUN	_	_	31	obl	_	_
+39	per	_	ADP	_	_	40	case	_	_
+40	quascun	_	PRON	_	_	38	nmod	_	SpaceAfter=No
+41	,	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_117_2
+# len = 21
+# text = laquau causa fo feyta dedentz V ans et ayssi cum se crey per conselh et autrey de Henric, senescaut.
+1	laquau	_	DET	_	_	2	det	_	_
+2	causa	_	NOUN	_	_	4	nsubj	_	_
+3	fo	_	AUX	_	_	4	aux:pass	_	_
+4	feyta	_	VERB	_	_	0	root	_	_
+5	dedentz	_	ADP	_	_	7	case	_	_
+6	V	_	NUM	_	_	7	nummod	_	_
+7	ans	_	NOUN	_	_	4	obl	_	_
+8	et	_	CCONJ	_	_	14	cc	_	_
+9	ayssi	_	ADV	_	ExtPos=SCONJ	12	mark	_	_
+10	cum	_	SCONJ	_	_	9	fixed	_	_
+11	se	_	PRON	_	_	12	expl	_	_
+12	crey	_	VERB	_	_	4	advcl	_	_
+13	per	_	ADP	_	_	14	case	_	_
+14	conselh	_	NOUN	_	_	7	conj	_	_
+15	et	_	CCONJ	_	_	16	cc	_	_
+16	autrey	_	NOUN	_	_	14	conj	_	_
+17	de	_	ADP	_	_	18	case	_	_
+18	Henric	_	PROPN	_	_	14	nmod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	18	punct	_	_
+20	senescaut	_	NOUN	_	_	18	appos	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_118_1
+# len = 22
+# text = Item, en la parropia d'Eyzinas a viculh qui es deyt Forest l'appropriet a luy et en sa servitut,
+1	Item	_	ADV	_	_	15	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	en	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	parropia	_	NOUN	_	_	15	obl	_	_
+6	d'	_	ADP	_	_	7	case	_	SpaceAfter=No
+7	Eyzinas	_	PROPN	_	_	5	nmod	_	_
+8	a	_	ADP	_	_	9	case	_	_
+9	viculh	_	NOUN	_	_	15	obl	_	_
+10	qui	_	PRON	_	_	12	nsubj	_	_
+11	es	_	AUX	_	_	12	aux:pass	_	_
+12	deyt	_	VERB	_	_	9	acl:relcl	_	_
+13	Forest	_	PROPN	_	_	12	xcomp	_	_
+14	l'	_	PRON	_	_	15	obj	_	SpaceAfter=No
+15	appropriet	_	VERB	_	_	0	root	_	_
+16	a	_	ADP	_	_	17	case	_	_
+17	luy	_	PRON	_	_	15	obl	_	_
+18	et	_	CCONJ	_	_	21	cc	_	_
+19	en	_	ADP	_	_	21	case	_	_
+20	sa	_	DET	_	_	21	det	_	_
+21	servitut	_	NOUN	_	_	17	conj	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_118_2
+# len = 15
+# text = retornet los homes d'aquet viculh a luy qui eran del seynhor Rey.
+1	retornet	_	VERB	_	_	0	root	_	_
+2	los	_	DET	_	_	3	det	_	_
+3	homes	_	NOUN	_	_	1	obj	_	_
+4	d'	_	ADP	_	_	6	case	_	SpaceAfter=No
+5	aquet	_	DET	_	_	6	det	_	_
+6	viculh	_	NOUN	_	_	3	nmod	_	_
+7	a	_	ADP	_	_	8	case	_	_
+8	luy	_	PRON	_	_	1	obl	_	_
+9	qui	_	PRON	_	_	10	nsubj	_	_
+10	eran	_	VERB	_	_	3	acl:relcl	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	de-	_	ADP	_	_	13	case	_	_
+12	-lo	_	DET	_	_	13	det	_	_
+13	seynhor	_	NOUN	_	_	10	obl	_	_
+14	Rey	_	NOUN	_	_	13	flat	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_119_1
+# len = 56
+# text = Cum los reyratges de Bordeu deu seynhor Rey ayan valut soent cent milia soudz et aras per frem poden esser donatz per LX milia soudz, aquetz qui los tenian per paguar los deutas del seynhor Rey no responderen de des an sino entro que a XLII milia et en mans autres mot meyns
+1	Cum	_	SCONJ	_	_	11	mark	_	_
+2	los	_	DET	_	_	3	det	_	_
+3	reyratges	_	NOUN	_	_	11	nsubj	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Bordeu	_	PROPN	_	_	3	nmod	_	_
+6-7	deu	_	_	_	_	_	_	_	_
+6	de-	_	ADP	_	_	8	case	_	_
+7	-lo	_	DET	_	_	8	det	_	_
+8	seynhor	_	NOUN	_	_	3	nmod	_	_
+9	Rey	_	NOUN	_	_	8	flat	_	_
+10	ayan	_	AUX	_	_	11	aux	_	_
+11	valut	_	VERB	_	_	41	advcl	_	_
+12	soent	_	ADV	_	_	11	advmod	_	_
+13	cent	_	NUM	_	_	15	nummod	_	_
+14	milia	_	NUM	_	_	15	nummod	_	_
+15	soudz	_	NOUN	_	_	11	obj	_	_
+16	et	_	CCONJ	_	_	20	cc	_	_
+17	aras	_	ADV	_	_	20	advmod	_	_
+18	per	_	ADP	_	_	19	case	_	_
+19	frem	_	NOUN	_	_	20	obl	_	_
+20	poden	_	VERB	_	_	11	conj	_	_
+21	esser	_	AUX	_	_	22	aux:pass	_	_
+22	donatz	_	VERB	_	_	20	xcomp	_	_
+23	per	_	ADP	_	_	26	case	_	_
+24	LX	_	NUM	_	_	26	nummod	_	_
+25	milia	_	NUM	_	_	26	nummod	_	_
+26	soudz	_	NOUN	_	_	22	obl	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	11	punct	_	_
+28	aquetz	_	PRON	_	_	41	nsubj	_	_
+29	qui	_	PRON	_	_	31	nsubj	_	_
+30	los	_	PRON	_	_	31	obj	_	_
+31	tenian	_	VERB	_	_	28	acl:relcl	_	_
+32	per	_	ADP	_	_	33	mark	_	_
+33	paguar	_	VERB	_	_	31	advcl	_	_
+34	los	_	DET	_	_	35	det	_	_
+35	deutas	_	NOUN	_	_	33	obj	_	_
+36-37	del	_	_	_	_	_	_	_	_
+36	de-	_	ADP	_	_	38	case	_	_
+37	-lo	_	DET	_	_	38	det	_	_
+38	seynhor	_	NOUN	_	_	35	nmod	_	_
+39	Rey	_	NOUN	_	_	38	flat	_	_
+40	no	_	ADV	_	_	41	advmod	_	_
+41	responderen	_	VERB	_	_	0	root	_	_
+42	de	_	ADP	_	_	44	case	_	_
+43	des	_	NUM	_	_	44	nummod	_	_
+44	an	_	NOUN	_	_	41	obl	_	_
+45	sino	_	ADP	_	_	50	case	_	_
+46	entro	_	ADP	_	ExtPos=ADP	50	case	_	_
+47	que	_	SCONJ	_	_	46	fixed	_	_
+48	a	_	ADP	_	_	46	fixed	_	_
+49	XLII	_	NUM	_	_	50	nummod	_	_
+50	milia	_	NUM	_	_	41	obl	_	_
+51	et	_	CCONJ	_	_	56	cc	_	_
+52	en	_	ADP	_	_	54	case	_	_
+53	mans	_	DET	_	_	54	det	_	_
+54	autres	_	PRON	_	_	56	orphan	_	_
+55	mot	_	ADV	_	_	56	advmod	_	_
+56	meyns	_	ADV	_	_	50	conj	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_119_2
+# len = 12
+# text = et empero edz presentant huy ladeyta ferma de XL milia soudz,
+1	et	_	CCONJ	_	_	4	cc	_	_
+2	empero	_	ADV	_	_	4	advmod	_	_
+3	edz	_	PRON	_	_	4	nsubj	_	_
+4	presentant	_	VERB	_	_	0	root	_	_
+5	huy	_	ADV	_	_	4	advmod	_	_
+6	ladeyta	_	DET	_	_	7	det	_	_
+7	ferma	_	NOUN	_	_	4	obj	_	_
+8	de	_	ADP	_	_	11	case	_	_
+9	XL	_	NUM	_	_	11	nummod	_	_
+10	milia	_	NUM	_	_	11	nummod	_	_
+11	soudz	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_119_3
+# len = 17
+# text = mas de ladeyta defraudation feyta au seynhor Rey la una partida ne recebia lo senescaut.
+1	mas	_	CCONJ	_	_	14	cc	_	_
+2	de	_	ADP	_	_	4	case	_	_
+3	ladeyta	_	DET	_	_	4	det	_	_
+4	defraudation	_	NOUN	_	_	14	obl	_	_
+5	feyta	_	ADJ	_	_	4	acl	_	_
+6-7	au	_	_	_	_	_	_	_	_
+6	a-	_	ADP	_	_	8	case	_	_
+7	-lo	_	DET	_	_	8	det	_	_
+8	seynhor	_	NOUN	_	_	5	obl	_	_
+9	Rey	_	NOUN	_	_	8	flat	_	_
+10	la	_	DET	_	_	12	det	_	_
+11	una	_	NUM	_	_	12	nummod	_	_
+12	partida	_	NOUN	_	_	14	obj	_	_
+13	ne	_	PRON	_	_	14	obl	_	_
+14	recebia	_	VERB	_	_	0	root	_	_
+15	lo	_	DET	_	_	16	det	_	_
+16	senescaut	_	NOUN	_	_	14	nsubj	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_120_1
+# len = 23
+# text = Questas sont las especials injurias feytas al seynhor Henric et aus sons en senglas parropias de l'arciprestat de Entre-dos-Mars.
+1	Questas	_	PRON	_	_	0	root	_	_
+2	sont	_	AUX	_	_	1	cop	_	_
+3	las	_	DET	_	_	5	det	_	_
+4	especials	_	ADJ	_	_	5	amod	_	_
+5	injurias	_	NOUN	_	_	1	nsubj	_	_
+6	feytas	_	VERB	_	_	5	acl	_	_
+7-8	al	_	_	_	_	_	_	_	_
+7	a-	_	ADP	_	_	9	case	_	_
+8	-lo	_	DET	_	_	9	det	_	_
+9	seynhor	_	NOUN	_	_	6	obl	_	_
+10	Henric	_	PROPN	_	_	9	flat	_	_
+11	et	_	CCONJ	_	_	14	cc	_	_
+12-13	aus	_	_	_	_	_	_	_	_
+12	a-	_	ADP	_	_	14	case	_	_
+13	-los	_	DET	_	_	14	det	_	_
+14	sons	_	PRON	_	_	9	conj	_	_
+15	en	_	ADP	_	_	17	case	_	_
+16	senglas	_	NUM	_	_	17	nummod	_	_
+17	parropias	_	NOUN	_	_	6	obl	_	_
+18	de	_	ADP	_	_	20	case	_	_
+19	l'	_	DET	_	_	20	det	_	SpaceAfter=No
+20	arciprestat	_	NOUN	_	_	17	nmod	_	_
+21	de	_	ADP	_	_	22	case	_	_
+22	Entre-dos-Mars	_	PROPN	_	_	20	nmod	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_1
+# len = 63
+# text = En la parropia de Leunhan, los servens de Guilhem de Lafot aladonques prebost del senhor Henric, senescaut, so es assaber: Arnaud Garfilh, B. Doat, P. de Raissac, P. Jehan, prengoren lo caperan de Leunhan et flagelleren lo et nu o despulhat, am gran fret, longamen lo meneren et compelliren lo a redemption
+1	En	_	ADP	_	_	3	case	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	parropia	_	NOUN	_	_	39	obl	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Leunhan	_	PROPN	_	_	3	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	los	_	DET	_	_	8	det	_	_
+8	servens	_	NOUN	_	_	39	nsubj	_	_
+9	de	_	ADP	_	_	10	case	_	_
+10	Guilhem	_	PROPN	_	_	8	nmod	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	Lafot	_	PROPN	_	_	10	nmod	_	_
+13	aladonques	_	ADV	_	_	14	advmod	_	_
+14	prebost	_	NOUN	_	_	10	appos	_	_
+15-16	del	_	_	_	_	_	_	_	_
+15	de-	_	ADP	_	_	17	case	_	_
+16	-lo	_	DET	_	_	17	det	_	_
+17	senhor	_	NOUN	_	_	14	nmod	_	_
+18	Henric	_	PROPN	_	_	17	flat	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	17	punct	_	_
+20	senescaut	_	NOUN	_	_	17	appos	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	20	punct	_	_
+22	so	_	PRON	_	ExtPos=ADV	26	advmod	_	_
+23	es	_	VERB	_	_	22	fixed	_	_
+24	assaber	_	VERB	_	_	22	fixed	_	SpaceAfter=No
+25	:	_	PUNCT	_	_	22	punct	_	_
+26	Arnaud	_	PROPN	_	_	8	appos	_	_
+27	Garfilh	_	PROPN	_	_	26	flat	_	SpaceAfter=No
+28	,	_	PUNCT	_	_	26	punct	_	_
+29	B.	_	PROPN	_	_	26	conj	_	_
+30	Doat	_	PROPN	_	_	29	flat	_	SpaceAfter=No
+31	,	_	PUNCT	_	_	29	punct	_	_
+32	P.	_	PROPN	_	_	26	conj	_	_
+33	de	_	ADP	_	_	34	case	_	_
+34	Raissac	_	PROPN	_	_	32	nmod	_	SpaceAfter=No
+35	,	_	PUNCT	_	_	32	punct	_	_
+36	P.	_	PROPN	_	_	26	conj	_	_
+37	Jehan	_	PROPN	_	_	36	flat	_	SpaceAfter=No
+38	,	_	PUNCT	_	_	26	punct	_	_
+39	prengoren	_	VERB	_	_	0	root	_	_
+40	lo	_	DET	_	_	41	det	_	_
+41	caperan	_	NOUN	_	_	39	obj	_	_
+42	de	_	ADP	_	_	43	case	_	_
+43	Leunhan	_	PROPN	_	_	41	nmod	_	_
+44	et	_	CCONJ	_	_	45	cc	_	_
+45	flagelleren	_	VERB	_	_	39	conj	_	_
+46	lo	_	PRON	_	_	45	obj	_	_
+47	et	_	CCONJ	_	_	58	cc	_	_
+48	nu	_	ADJ	_	_	58	xcomp	_	_
+49	o	_	CCONJ	_	_	50	cc	_	_
+50	despulhat	_	VERB	_	_	48	conj	_	SpaceAfter=No
+51	,	_	PUNCT	_	_	48	punct	_	_
+52	am	_	ADP	_	_	54	case	_	_
+53	gran	_	ADJ	_	_	54	amod	_	_
+54	fret	_	NOUN	_	_	58	obl	_	SpaceAfter=No
+55	,	_	PUNCT	_	_	54	punct	_	_
+56	longamen	_	ADV	_	_	58	advmod	_	_
+57	lo	_	PRON	_	_	58	obj	_	_
+58	meneren	_	VERB	_	_	39	conj	_	_
+59	et	_	CCONJ	_	_	60	cc	_	_
+60	compelliren	_	VERB	_	_	58	conj	_	_
+61	lo	_	PRON	_	_	60	obj	_	_
+62	a	_	ADP	_	_	63	case	_	_
+63	redemption	_	NOUN	_	_	60	obl	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_2
+# len = 12
+# text = et perso es mort, ayssicum lodeyt caperan dischut en morien
+1	et	_	CCONJ	_	_	5	cc	_	_
+2-3	perso	_	_	_	_	_	_	_	_
+2	per	_	ADP	_	_	3	case	_	_
+3	so	_	PRON	_	_	5	obl	_	_
+4	es	_	AUX	_	_	5	aux	_	_
+5	mort	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	ayssicum	_	SCONJ	_	_	10	mark	_	_
+8	lodeyt	_	DET	_	_	9	det	_	_
+9	caperan	_	NOUN	_	_	10	nsubj	_	_
+10	dischut	_	VERB	_	_	5	advcl	_	_
+11	en	_	ADP	_	_	12	mark	_	_
+12	morien	_	VERB	_	_	10	advcl	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_3
+# len = 6
+# text = et ayssi appar de -sso,
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	ayssi	_	ADV	_	_	3	advmod	_	_
+3	appar	_	VERB	_	_	0	root	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	-sso	_	PRON	_	_	3	obl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_4
+# len = 6
+# text = quar fut malaus continuadament enpres;
+1	quar	_	CCONJ	_	_	3	cc	_	_
+2	fut	_	AUX	_	_	3	cop	_	_
+3	malaus	_	ADJ	_	_	0	root	_	_
+4	continuadament	_	ADV	_	_	3	advmod	_	_
+5	enpres	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+6	;	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_5
+# len = 17
+# text = so fut monstrat al seynhor Henric en querra terra et meys per davant lo Rey,
+1	so	_	PRON	_	_	3	nsubj	_	_
+2	fut	_	AUX	_	_	3	aux:pass	_	_
+3	monstrat	_	VERB	_	_	0	root	_	_
+4-5	al	_	_	_	_	_	_	_	_
+4	a-	_	ADP	_	_	6	case	_	_
+5	-lo	_	DET	_	_	6	det	_	_
+6	seynhor	_	NOUN	_	_	3	obl	_	_
+7	Henric	_	PROPN	_	_	6	flat	_	_
+8	en	_	ADP	_	_	10	case	_	_
+9	querra	_	DET	_	_	10	det	_	_
+10	terra	_	NOUN	_	_	3	obl	_	_
+11	et	_	CCONJ	_	_	12	cc	_	_
+12	meys	_	ADV	_	_	10	conj	_	_
+13	per	_	ADP	_	ExtPos=ADP	16	case	_	_
+14	davant	_	ADV	_	_	13	fixed	_	_
+15	lo	_	DET	_	_	16	det	_	_
+16	Rey	_	NOUN	_	_	3	obl	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_6
+# len = 7
+# text = lodeyt senescaut no fet aucuna justicia.
+1	lodeyt	_	DET	_	_	2	det	_	_
+2	senescaut	_	NOUN	_	_	4	nsubj	_	_
+3	no	_	ADV	_	_	4	advmod	_	_
+4	fet	_	VERB	_	_	0	root	_	_
+5	aucuna	_	DET	_	_	6	det	_	_
+6	justicia	_	NOUN	_	_	4	obj	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_7
+# len = 23
+# text = D'aqui enpres, quant ed vengut de Maran extorssut d'aquera parropia LX soudz, per una autra beguada LX soudz.
+1	D'	_	ADP	_	_	2	case	_	SpaceAfter=No
+2	aqui	_	ADV	_	_	10	advmod	_	_
+3	enpres	_	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	quant	_	SCONJ	_	_	7	mark	_	_
+6	ed	_	PRON	_	_	7	nsubj	_	_
+7	vengut	_	VERB	_	_	10	advcl	_	_
+8	de	_	ADP	_	_	9	case	_	_
+9	Maran	_	PROPN	_	_	7	obl	_	_
+10	extorssut	_	VERB	_	_	0	root	_	_
+11	d'	_	ADP	_	_	13	case	_	SpaceAfter=No
+12	aquera	_	DET	_	_	13	det	_	_
+13	parropia	_	NOUN	_	_	10	obl	_	_
+14	LX	_	NUM	_	_	15	nummod	_	_
+15	soudz	_	NOUN	_	_	10	obj	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	10	punct	_	_
+17	per	_	ADP	_	_	20	case	_	_
+18	una	_	DET	_	_	20	det	_	_
+19	autra	_	ADJ	_	_	20	amod	_	_
+20	beguada	_	NOUN	_	_	22	orphan	_	_
+21	LX	_	NUM	_	_	22	nummod	_	_
+22	soudz	_	NOUN	_	_	10	conj	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_8
+# len = 12
+# text = Arn. Rampnol, sotzsenescaut, extorssut d'aquera parropia LX soudz,
+1	Arn.	_	PROPN	_	_	6	nsubj	_	_
+2	Rampnol	_	PROPN	_	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	sotzsenescaut	_	NOUN	_	_	1	appos	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	extorssut	_	VERB	_	_	0	root	_	_
+7	d'	_	ADP	_	_	9	case	_	SpaceAfter=No
+8	aquera	_	DET	_	_	9	det	_	_
+9	parropia	_	NOUN	_	_	6	obl	_	_
+10	LX	_	NUM	_	_	11	nummod	_	_
+11	soudz	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_121_9
+# len = 17
+# text = una autra beguada per que no los alberguet extorssut o agut una autra beguada LX soudz.
+1	una	_	DET	_	_	3	det	_	_
+2	autra	_	ADJ	_	_	3	amod	_	_
+3	beguada	_	NOUN	_	_	9	obl	_	_
+4	per	_	ADP	_	ExtPos=SCONJ	8	mark	_	_
+5	que	_	SCONJ	_	_	4	fixed	_	_
+6	no	_	ADV	_	_	8	advmod	_	_
+7	los	_	PRON	_	_	8	obj	_	_
+8	alberguet	_	VERB	_	_	9	advcl	_	_
+9	extorssut	_	VERB	_	_	0	root	_	_
+10	o	_	CCONJ	_	_	11	cc	_	_
+11	agut	_	VERB	_	_	9	conj	_	_
+12	una	_	DET	_	_	14	det	_	_
+13	autra	_	ADJ	_	_	14	amod	_	_
+14	beguada	_	NOUN	_	_	9	obl	_	_
+15	LX	_	NUM	_	_	16	nummod	_	_
+16	soudz	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_122_1
+# len = 14
+# text = Item, quant vengut de Anglaterra per una autra beguada extorssut LX soudz.
+1	Item	_	ADV	_	_	11	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	quant	_	SCONJ	_	_	4	mark	_	_
+4	vengut	_	VERB	_	_	11	advcl	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Anglaterra	_	PROPN	_	_	4	obl	_	_
+7	per	_	ADP	_	_	10	case	_	_
+8	una	_	DET	_	_	10	det	_	_
+9	autra	_	ADJ	_	_	10	amod	_	_
+10	beguada	_	NOUN	_	_	11	obl	_	_
+11	extorssut	_	VERB	_	_	0	root	_	_
+12	LX	_	NUM	_	_	13	nummod	_	_
+13	soudz	_	NOUN	_	_	11	obj	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_123_1
+# len = 11
+# text = Item, quant lo Rey fut bert Bordeu LX soudz.
+1	Item	_	ADV	_	_	10	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	quant	_	SCONJ	_	_	6	mark	_	_
+4	lo	_	DET	_	_	5	det	_	_
+5	Rey	_	NOUN	_	_	6	nsubj	_	_
+6	fut	_	VERB	_	_	10	advcl	_	_
+7	bert	_	ADP	_	_	8	case	_	_
+8	Bordeu	_	PROPN	_	_	6	obl	_	_
+9	LX	_	NUM	_	_	10	nummod	_	_
+10	soudz	_	NOUN	_	_	0	root	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_124_1
+# len = 16
+# text = Item, Johan de Maderolas, prebost alondonquas, agut d'aquera parropia LX soudz.
+1	Item	_	ADV	_	_	10	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	Johan	_	PROPN	_	_	10	nsubj	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Maderolas	_	PROPN	_	_	3	nmod	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	prebost	_	NOUN	_	_	3	appos	_	_
+8	alondonquas	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	3	punct	_	_
+10	agut	_	VERB	_	_	0	root	_	_
+11	d'	_	ADP	_	_	13	case	_	SpaceAfter=No
+12	aquera	_	DET	_	_	13	det	_	_
+13	parropia	_	NOUN	_	_	10	obl	_	_
+14	LX	_	NUM	_	_	15	nummod	_	_
+15	soudz	_	NOUN	_	_	10	obj	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_124_2
+# len = 8
+# text = Guilhem Richart, prebost aladonquas XX soudz;
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	Richart	_	PROPN	_	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	prebost	_	NOUN	_	_	1	appos	_	_
+5	aladonquas	_	ADV	_	_	4	advmod	_	_
+6	XX	_	NUM	_	_	7	nummod	_	_
+7	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_124_3
+# len = 8
+# text = Guilhem Forthon, prebost, XXX soudz;
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	Forthon	_	PROPN	_	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	prebost	_	NOUN	_	_	1	appos	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	XXX	_	NUM	_	_	7	nummod	_	_
+7	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_124_4
+# len = 9
+# text = Guilhem de Laffot, prebost, L soudz;
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	de	_	ADP	_	_	3	case	_	_
+3	Laffot	_	PROPN	_	_	1	nmod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	prebost	_	NOUN	_	_	1	appos	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	L	_	NUM	_	_	8	nummod	_	_
+8	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+9	;	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_124_5
+# len = 7
+# text = Guilhem de Tresrosas, XL soudz.
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	de	_	ADP	_	_	3	case	_	_
+3	Tresrosas	_	PROPN	_	_	1	nmod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	1	punct	_	_
+5	XL	_	NUM	_	_	6	nummod	_	_
+6	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_125_1
+# len = 8
+# text = Item, Guilhem Forthon, L soudz;
+1	Item	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	Guilhem	_	PROPN	_	_	0	root	_	_
+4	Forthon	_	PROPN	_	_	3	flat	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	L	_	NUM	_	_	7	nummod	_	_
+7	soudz	_	NOUN	_	_	3	orphan	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_125_2
+# len = 13
+# text = Matheu, prebost pouset dos homes de Lenhan vert los judeus fidansers.
+1	Matheu	_	PROPN	_	_	4	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	prebost	_	NOUN	_	_	1	appos	_	_
+4	pouset	_	VERB	_	_	0	root	_	_
+5	dos	_	NUM	_	_	6	nummod	_	_
+6	homes	_	NOUN	_	_	4	obj	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Lenhan	_	PROPN	_	_	6	nmod	_	_
+9	vert	_	ADP	_	_	11	case	_	_
+10	los	_	DET	_	_	11	det	_	_
+11	judeus	_	NOUN	_	_	4	obl	_	_
+12	fidansers	_	ADJ	_	_	11	amod	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_126_1
+# len = 23
+# text = Donat vert nos lo die de dimartz davant la festa de Sent-Luc evangelista, en l'an de gracia MCC LXX VIII.
+1	Donat	_	VERB	_	_	0	root	_	_
+2	vert	_	ADP	_	_	3	case	_	_
+3	nos	_	PRON	_	_	1	obl	_	_
+4	lo	_	DET	_	_	5	det	_	_
+5	die	_	NOUN	_	_	1	obl	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	dimartz	_	NOUN	_	_	5	nmod	_	_
+8	davant	_	ADP	_	_	10	case	_	_
+9	la	_	DET	_	_	10	det	_	_
+10	festa	_	NOUN	_	_	5	obl	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	Sent-Luc	_	PROPN	_	_	10	nmod	_	_
+13	evangelista	_	NOUN	_	_	12	appos	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	1	punct	_	_
+15	en	_	ADP	_	_	17	case	_	_
+16	l'	_	DET	_	_	17	det	_	SpaceAfter=No
+17	an	_	NOUN	_	_	1	obl	_	_
+18	de	_	ADP	_	_	19	case	_	_
+19	gracia	_	NOUN	_	_	17	nmod	_	_
+20	MCC	_	NUM	_	_	17	nummod	_	_
+21	LXX	_	NUM	_	_	20	conj	_	_
+22	VIII	_	NUM	_	_	20	conj	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_126_2
+# len = 14
+# text = Et en testimoni de las causas sobredeytas a las presens pouseren nostres sagetz.
+1	Et	_	CCONJ	_	_	11	cc	_	_
+2	en	_	ADP	_	_	3	case	_	_
+3	testimoni	_	NOUN	_	_	11	obl	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	las	_	DET	_	_	6	det	_	_
+6	causas	_	NOUN	_	_	3	nmod	_	_
+7	sobredeytas	_	ADJ	_	_	6	amod	_	_
+8	a	_	ADP	_	_	10	case	_	_
+9	las	_	DET	_	_	10	det	_	_
+10	presens	_	NOUN	_	_	11	obl	_	_
+11	pouseren	_	VERB	_	_	0	root	_	_
+12	nostres	_	DET	_	_	13	det	_	_
+13	sagetz	_	NOUN	_	_	11	obj	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_7_127_1
+# len = 4
+# text = Dat. ayssicum dessus.
+1	Dat.	_	VERB	_	_	0	root	_	_
+2	ayssicum	_	ADV	_	_	1	advmod	_	_
+3	dessus	_	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_8_1_1
+# len = 97
+# text = Eudoart, filh prumey del noble rey d'Anglaterra a sson amat Jordan de Oxon, son bailliu de Entre-dos-Mars mandam fermament a vos injungens que totz aquetz de vostres baillius losquaus tenet de nos protegatz et deffendat ayssi que aucun no ostalia entre lor ni prengua no degudament delz blatz, fenx, vinx, o autres bens quaus que ssian, ni mandia sino que aquetz qui de dreyt o de costuma antiqua et approhada deuryan far, et edz demostrian asso rasonablament per dabant nostre senescaut de Guasconha o son loctenent.
+1	Eudoart	_	PROPN	_	_	22	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	filh	_	NOUN	_	_	1	appos	_	_
+4	prumey	_	ADJ	_	_	3	amod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	de-	_	ADP	_	_	8	case	_	_
+6	-lo	_	DET	_	_	8	det	_	_
+7	noble	_	ADJ	_	_	8	amod	_	_
+8	rey	_	NOUN	_	_	3	nmod	_	_
+9	d'	_	ADP	_	_	10	case	_	SpaceAfter=No
+10	Anglaterra	_	PROPN	_	_	8	nmod	_	_
+11	a	_	ADP	_	_	14	case	_	_
+12	sson	_	DET	_	_	14	det	_	_
+13	amat	_	ADJ	_	_	14	amod	_	_
+14	Jordan	_	PROPN	_	_	22	obl	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	Oxon	_	PROPN	_	_	14	nmod	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	14	punct	_	_
+18	son	_	DET	_	_	19	det	_	_
+19	bailliu	_	NOUN	_	_	14	appos	_	_
+20	de	_	ADP	_	_	21	case	_	_
+21	Entre-dos-Mars	_	PROPN	_	_	19	nmod	_	_
+22	mandam	_	VERB	_	_	0	root	_	_
+23	fermament	_	ADV	_	_	22	advmod	_	_
+24	a	_	ADP	_	_	25	case	_	_
+25	vos	_	PRON	_	_	22	obl	_	_
+26	injungens	_	VERB	_	_	22	advcl	_	_
+27	que	_	SCONJ	_	_	37	mark	_	_
+28	totz	_	DET	_	_	29	det	_	_
+29	aquetz	_	PRON	_	_	37	obj	_	_
+30	de	_	ADP	_	_	32	case	_	_
+31	vostres	_	DET	_	_	32	det	_	_
+32	baillius	_	NOUN	_	_	29	nmod	_	_
+33	losquaus	_	PRON	_	_	34	obj	_	_
+34	tenet	_	VERB	_	_	29	acl:relcl	_	_
+35	de	_	ADP	_	_	36	case	_	_
+36	nos	_	PRON	_	_	34	obl	_	_
+37	protegatz	_	VERB	_	_	26	ccomp	_	_
+38	et	_	CCONJ	_	_	39	cc	_	_
+39	deffendat	_	VERB	_	_	37	conj	_	_
+40	ayssi	_	ADV	_	ExtPos=SCONJ	44	mark	_	_
+41	que	_	SCONJ	_	_	40	fixed	_	_
+42	aucun	_	PRON	_	_	44	nsubj	_	_
+43	no	_	ADV	_	_	44	advmod	_	_
+44	ostalia	_	VERB	_	_	37	advcl	_	_
+45	entre	_	ADP	_	_	46	case	_	_
+46	lor	_	PRON	_	_	44	obl	_	_
+47	ni	_	CCONJ	_	_	48	cc	_	_
+48	prengua	_	VERB	_	_	44	conj	_	_
+49	no	_	ADV	_	_	50	advmod	_	_
+50	degudament	_	ADV	_	_	48	advmod	_	_
+51-52	delz	_	_	_	_	_	_	_	_
+51	de-	_	ADP	_	_	53	case	_	_
+52	-los	_	DET	_	_	53	det	_	_
+53	blatz	_	NOUN	_	_	48	obl	_	SpaceAfter=No
+54	,	_	PUNCT	_	_	53	punct	_	_
+55	fenx	_	NOUN	_	_	53	conj	_	SpaceAfter=No
+56	,	_	PUNCT	_	_	55	punct	_	_
+57	vinx	_	NOUN	_	_	53	conj	_	SpaceAfter=No
+58	,	_	PUNCT	_	_	57	punct	_	_
+59	o	_	CCONJ	_	_	61	cc	_	_
+60	autres	_	DET	_	_	61	det	_	_
+61	bens	_	NOUN	_	_	53	conj	_	_
+62	quaus	_	PRON	_	_	61	acl:relcl	_	_
+63	que	_	PRON	_	_	62	nsubj	_	_
+64	ssian	_	AUX	_	_	62	cop	_	SpaceAfter=No
+65	,	_	PUNCT	_	_	61	punct	_	_
+66	ni	_	CCONJ	_	_	67	cc	_	_
+67	mandia	_	VERB	_	_	44	conj	_	_
+68	sino	_	ADV	_	ExtPos=SCONJ	85	mark	_	_
+69	que	_	SCONJ	_	_	68	fixed	_	_
+70	aquetz	_	PRON	_	_	85	nsubj	_	_
+71	qui	_	PRON	_	_	80	nsubj	_	_
+72	de	_	ADP	_	_	73	case	_	_
+73	dreyt	_	NOUN	_	_	80	obl	_	_
+74	o	_	CCONJ	_	_	76	cc	_	_
+75	de	_	ADP	_	_	76	case	_	_
+76	costuma	_	NOUN	_	_	73	conj	_	_
+77	antiqua	_	ADJ	_	_	76	amod	_	_
+78	et	_	CCONJ	_	_	79	cc	_	_
+79	approhada	_	VERB	_	_	77	conj	_	_
+80	deuryan	_	VERB	_	_	70	acl:relcl	_	_
+81	far	_	VERB	_	_	80	xcomp	_	SpaceAfter=No
+82	,	_	PUNCT	_	_	80	punct	_	_
+83	et	_	CCONJ	_	_	84	cc	_	_
+84	edz	_	PRON	_	_	70	conj	_	_
+85	demostrian	_	VERB	_	_	44	advcl	_	_
+86	asso	_	PRON	_	_	85	obj	_	_
+87	rasonablament	_	ADV	_	_	85	advmod	_	_
+88	per	_	ADP	_	ExtPos=ADP	91	case	_	_
+89	dabant	_	ADV	_	_	88	fixed	_	_
+90	nostre	_	DET	_	_	91	det	_	_
+91	senescaut	_	NOUN	_	_	85	obl	_	_
+92	de	_	ADP	_	_	93	case	_	_
+93	Guasconha	_	PROPN	_	_	91	nmod	_	_
+94	o	_	CCONJ	_	_	96	cc	_	_
+95	son	_	DET	_	_	96	det	_	_
+96	loctenent	_	NOUN	_	_	91	conj	_	SpaceAfter=No
+97	.	_	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_8_2_1
+# len = 39
+# text = En testimoni de laquau causa nos trametem questas nostras letras a vos autres, dadas vert o a Sulwerk lo VII jorn de hagost, en lan XLII del regne del seynhor Rey nostre payre.
+1	En	_	ADP	_	_	2	case	_	_
+2	testimoni	_	NOUN	_	_	7	obl	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	laquau	_	DET	_	_	5	det	_	_
+5	causa	_	NOUN	_	_	2	nmod	_	_
+6	nos	_	PRON	_	_	7	nsubj	_	_
+7	trametem	_	VERB	_	_	0	root	_	_
+8	questas	_	DET	_	_	10	det	_	_
+9	nostras	_	ADJ	_	_	10	amod	_	_
+10	letras	_	NOUN	_	_	7	obj	_	_
+11	a	_	ADP	_	_	12	case	_	_
+12	vos	_	PRON	_	_	7	obl	_	_
+13	autres	_	ADJ	_	_	12	amod	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	12	punct	_	_
+15	dadas	_	VERB	_	_	10	acl	_	_
+16	vert	_	ADP	_	_	19	case	_	_
+17	o	_	CCONJ	_	_	18	cc	_	_
+18	a	_	ADP	_	_	16	conj	_	_
+19	Sulwerk	_	PROPN	_	_	15	obl	_	_
+20	lo	_	DET	_	_	22	det	_	_
+21	VII	_	ADJ	_	_	22	amod	_	_
+22	jorn	_	NOUN	_	_	15	obl	_	_
+23	de	_	ADP	_	_	24	case	_	_
+24	hagost	_	NOUN	_	_	22	nmod	_	SpaceAfter=No
+25	,	_	PUNCT	_	_	15	punct	_	_
+26	en	_	ADP	_	_	28	case	_	_
+27-28	lan	_	_	_	_	_	_	_	_
+27	l-	_	DET	_	_	28	det	_	_
+28	-an	_	NOUN	_	_	15	obl	_	_
+29	XLII	_	NUM	_	_	28	nummod	_	_
+30-31	del	_	_	_	_	_	_	_	_
+30	de-	_	ADP	_	_	32	case	_	_
+31	-lo	_	DET	_	_	32	det	_	_
+32	regne	_	NOUN	_	_	28	nmod	_	_
+33-34	del	_	_	_	_	_	_	_	_
+33	de-	_	ADP	_	_	35	case	_	_
+34	-lo	_	DET	_	_	35	det	_	_
+35	seynhor	_	NOUN	_	_	32	nmod	_	_
+36	Rey	_	NOUN	_	_	35	flat	_	_
+37	nostre	_	DET	_	_	38	det	_	_
+38	payre	_	NOUN	_	_	35	appos	_	SpaceAfter=No
+39	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_1_1
+# len = 20
+# text = Eudoart prumey engendrat o prumey filh del noble rey d'Anglaterra a sson senescaut de Guasconha, salut:
+1	Eudoart	_	PROPN	_	_	19	nsubj	_	_
+2	prumey	_	ADV	_	_	3	advmod	_	_
+3	engendrat	_	ADJ	_	_	1	amod	_	_
+4	o	_	CCONJ	_	_	6	cc	_	_
+5	prumey	_	ADJ	_	_	6	amod	_	_
+6	filh	_	NOUN	_	_	3	conj	_	_
+7-8	del	_	_	_	_	_	_	_	_
+7	de-	_	ADP	_	_	10	case	_	_
+8	-lo	_	DET	_	_	10	det	_	_
+9	noble	_	ADJ	_	_	10	amod	_	_
+10	rey	_	NOUN	_	_	6	nmod	_	_
+11	d'	_	ADP	_	_	12	case	_	SpaceAfter=No
+12	Anglaterra	_	PROPN	_	_	10	nmod	_	_
+13	a	_	ADP	_	_	15	case	_	_
+14	sson	_	DET	_	_	15	det	_	_
+15	senescaut	_	NOUN	_	_	19	obl	_	_
+16	de	_	ADP	_	_	17	case	_	_
+17	Guasconha	_	PROPN	_	_	15	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	15	punct	_	_
+19	salut	_	VERB	_	_	0	root	_	SpaceAfter=No
+20	:	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_2_1
+# len = 74
+# text = Mandam a vos que la inquisition feyta noagayres de mandament del seynhor Rey nostre payre sobre los fors et las costumas dels homes franx de Entre-dos-Mars, laquau nos avem entendus que es vert l’abat de Laseuba-mayor fazens adaquetz franquaus esser publicat si necessari aura estat aquet medeys abat esser compellit a la restitution d'aquo medeys vos fasatz observar los fors et las costumas sobredeytas segont aquera inquisition.
+1	Mandam	_	VERB	_	_	0	root	_	_
+2	a	_	ADP	_	_	3	case	_	_
+3	vos	_	PRON	_	_	1	obl	_	_
+4	que	_	SCONJ	_	_	63	mark	_	_
+5	la	_	DET	_	_	6	det	_	_
+6	inquisition	_	NOUN	_	_	7	nsubj	_	_
+7	feyta	_	VERB	_	_	63	advcl	_	_
+8	noagayres	_	ADV	_	_	7	advmod	_	_
+9	de	_	ADP	_	_	10	case	_	_
+10	mandament	_	NOUN	_	_	7	obl	_	_
+11-12	del	_	_	_	_	_	_	_	_
+11	de-	_	ADP	_	_	13	case	_	_
+12	-lo	_	DET	_	_	13	det	_	_
+13	seynhor	_	NOUN	_	_	10	nmod	_	_
+14	Rey	_	NOUN	_	_	13	flat	_	_
+15	nostre	_	DET	_	_	16	det	_	_
+16	payre	_	NOUN	_	_	13	appos	_	_
+17	sobre	_	ADP	_	_	19	case	_	_
+18	los	_	DET	_	_	19	det	_	_
+19	fors	_	NOUN	_	_	7	obl	_	_
+20	et	_	CCONJ	_	_	22	cc	_	_
+21	las	_	DET	_	_	22	det	_	_
+22	costumas	_	NOUN	_	_	19	conj	_	_
+23-24	dels	_	_	_	_	_	_	_	_
+23	de-	_	ADP	_	_	25	case	_	_
+24	-los	_	DET	_	_	25	det	_	_
+25	homes	_	NOUN	_	_	19	nmod	_	_
+26	franx	_	ADJ	_	_	25	amod	_	_
+27	de	_	ADP	_	_	28	case	_	_
+28	Entre-dos-Mars	_	PROPN	_	_	25	nmod	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	7	punct	_	_
+30	laquau	_	PRON	_	_	33	obj	_	_
+31	nos	_	PRON	_	_	33	nsubj	_	_
+32	avem	_	AUX	_	_	33	aux	_	_
+33	entendus	_	VERB	_	_	6	acl:relcl	_	_
+34	que	_	SCONJ	_	_	35	mark	_	_
+35	es	_	VERB	_	_	33	ccomp	_	_
+36	vert	_	ADP	_	_	38	case	_	_
+37	l’	_	DET	_	_	38	det	_	SpaceAfter=No
+38	abat	_	NOUN	_	_	35	obl	_	_
+39	de	_	ADP	_	_	40	case	_	_
+40	Laseuba-mayor	_	PROPN	_	_	38	nmod	_	_
+41	fazens	_	VERB	_	_	38	acl	_	_
+42-43	adaquetz	_	_	_	_	_	_	_	_
+42	ad-	_	ADP	_	_	44	case	_	_
+43	-aquetz	_	DET	_	_	44	det	_	_
+44	franquaus	_	NOUN	_	_	46	obl	_	_
+45	esser	_	AUX	_	_	46	aux:pass	_	_
+46	publicat	_	VERB	_	_	41	xcomp	_	_
+47	si	_	SCONJ	_	_	48	mark	_	_
+48	necessari	_	ADJ	_	_	46	advcl	_	_
+49	aura	_	AUX	_	_	48	cop	_	_
+50	estat	_	AUX	_	_	48	cop	_	_
+51	aquet	_	DET	_	_	53	det	_	_
+52	medeys	_	ADJ	_	_	53	amod	_	_
+53	abat	_	NOUN	_	_	55	nsubj	_	_
+54	esser	_	AUX	_	_	55	aux:pass	_	_
+55	compellit	_	VERB	_	_	46	conj	_	_
+56	a	_	ADP	_	_	58	case	_	_
+57	la	_	DET	_	_	58	det	_	_
+58	restitution	_	NOUN	_	_	55	obl	_	_
+59	d'	_	ADP	_	_	60	case	_	SpaceAfter=No
+60	aquo	_	PRON	_	_	58	nmod	_	_
+61	medeys	_	ADJ	_	_	60	amod	_	_
+62	vos	_	PRON	_	_	63	nsubj	_	_
+63	fasatz	_	VERB	_	_	1	ccomp	_	_
+64	observar	_	VERB	_	_	63	xcomp	_	_
+65	los	_	DET	_	_	66	det	_	_
+66	fors	_	NOUN	_	_	64	obj	_	_
+67	et	_	CCONJ	_	_	69	cc	_	_
+68	las	_	DET	_	_	69	det	_	_
+69	costumas	_	NOUN	_	_	66	conj	_	_
+70	sobredeytas	_	ADJ	_	_	66	amod	_	_
+71	segont	_	ADP	_	_	73	case	_	_
+72	aquera	_	DET	_	_	73	det	_	_
+73	inquisition	_	NOUN	_	_	64	obl	_	SpaceAfter=No
+74	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_2_2
+# len = 43
+# text = Et si per ventura vos no podet aver la inquisition ayssicum deyt es, vos fasatz per segrament de bons et leyaux homes quant mays diliguement pusquat la vertat esser inquirida dels fors et costumas deusdeytz franquaus entro aras usadas.
+1	Et	_	CCONJ	_	_	16	cc	_	_
+2	si	_	SCONJ	_	_	7	mark	_	_
+3	per	_	ADP	_	_	4	case	_	_
+4	ventura	_	NOUN	_	_	7	obl	_	_
+5	vos	_	PRON	_	_	7	nsubj	_	_
+6	no	_	ADV	_	_	7	advmod	_	_
+7	podet	_	VERB	_	_	16	advcl	_	_
+8	aver	_	VERB	_	_	7	xcomp	_	_
+9	la	_	DET	_	_	10	det	_	_
+10	inquisition	_	NOUN	_	_	8	obj	_	_
+11	ayssicum	_	SCONJ	_	_	12	mark	_	_
+12	deyt	_	VERB	_	_	7	advcl	_	_
+13	es	_	AUX	_	_	12	aux:pass	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	7	punct	_	_
+15	vos	_	PRON	_	_	16	nsubj	_	_
+16	fasatz	_	VERB	_	_	0	root	_	_
+17	per	_	ADP	_	_	18	case	_	_
+18	segrament	_	NOUN	_	_	16	obl	_	_
+19	de	_	ADP	_	_	23	case	_	_
+20	bons	_	ADJ	_	_	23	amod	_	_
+21	et	_	CCONJ	_	_	22	cc	_	_
+22	leyaux	_	ADJ	_	_	20	conj	_	_
+23	homes	_	NOUN	_	_	18	nmod	_	_
+24	quant	_	SCONJ	_	_	27	mark	_	_
+25	mays	_	ADV	_	_	26	advmod	_	_
+26	diliguement	_	ADV	_	_	27	advmod	_	_
+27	pusquat	_	VERB	_	_	16	advcl	_	_
+28	la	_	DET	_	_	29	det	_	_
+29	vertat	_	NOUN	_	_	31	nsubj	_	_
+30	esser	_	AUX	_	_	31	aux:pass	_	_
+31	inquirida	_	VERB	_	_	16	xcomp	_	_
+32-33	dels	_	_	_	_	_	_	_	_
+32	de-	_	ADP	_	_	34	case	_	_
+33	-los	_	DET	_	_	34	det	_	_
+34	fors	_	NOUN	_	_	31	obl	_	_
+35	et	_	CCONJ	_	_	36	cc	_	_
+36	costumas	_	NOUN	_	_	34	conj	_	_
+37-38	deusdeytz	_	_	_	_	_	_	_	_
+37	de-	_	ADP	_	_	39	case	_	_
+38	-losdeytz	_	DET	_	_	39	det	_	_
+39	franquaus	_	NOUN	_	_	34	nmod	_	_
+40	entro	_	ADP	_	_	41	case	_	_
+41	aras	_	ADV	_	_	42	advmod	_	_
+42	usadas	_	ADJ	_	_	34	amod	_	SpaceAfter=No
+43	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_2_3
+# len = 24
+# text = Et sabuda la vertat vos no leschiat en nulha maneyra esser molestat los sobredeyt franquaus, contra la tenor de la sobredeyta enquesta,
+1	Et	_	CCONJ	_	_	7	cc	_	_
+2	sabuda	_	VERB	_	_	7	advcl	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	vertat	_	NOUN	_	_	2	nsubj	_	_
+5	vos	_	PRON	_	_	7	nsubj	_	_
+6	no	_	ADV	_	_	7	advmod	_	_
+7	leschiat	_	VERB	_	_	0	root	_	_
+8	en	_	ADP	_	_	10	case	_	_
+9	nulha	_	DET	_	_	10	det	_	_
+10	maneyra	_	NOUN	_	_	7	obl	_	_
+11	esser	_	AUX	_	_	12	aux:pass	_	_
+12	molestat	_	VERB	_	_	7	xcomp	_	_
+13	los	_	DET	_	_	15	det	_	_
+14	sobredeyt	_	ADJ	_	_	15	amod	_	_
+15	franquaus	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	7	punct	_	_
+17	contra	_	ADP	_	_	19	case	_	_
+18	la	_	DET	_	_	19	det	_	_
+19	tenor	_	NOUN	_	_	7	obl	_	_
+20	de	_	ADP	_	_	23	case	_	_
+21	la	_	DET	_	_	23	det	_	_
+22	sobredeyta	_	ADJ	_	_	23	amod	_	_
+23	enquesta	_	NOUN	_	_	19	nmod	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_2_4
+# len = 13
+# text = mas vos los mantenguat plus melhs en aquedz medeys fors et costumas.
+1	mas	_	CCONJ	_	_	4	cc	_	_
+2	vos	_	PRON	_	_	4	nsubj	_	_
+3	los	_	PRON	_	_	4	obj	_	_
+4	mantenguat	_	VERB	_	_	0	root	_	_
+5	plus	_	ADV	_	_	6	advmod	_	_
+6	melhs	_	ADV	_	_	4	advmod	_	_
+7	en	_	ADP	_	_	10	case	_	_
+8	aquedz	_	DET	_	_	10	det	_	_
+9	medeys	_	ADJ	_	_	10	amod	_	_
+10	fors	_	NOUN	_	_	4	obl	_	_
+11	et	_	CCONJ	_	_	12	cc	_	_
+12	costumas	_	NOUN	_	_	10	conj	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_2_5
+# len = 10
+# text = E meys en los dreytz soent usat entro aras.
+1	E	_	CCONJ	_	_	7	cc	_	_
+2	meys	_	ADV	_	_	7	advmod	_	_
+3	en	_	ADP	_	_	5	case	_	_
+4	los	_	DET	_	_	5	det	_	_
+5	dreytz	_	NOUN	_	_	7	obl	_	_
+6	soent	_	ADV	_	_	7	advmod	_	_
+7	usat	_	VERB	_	_	0	root	_	_
+8	entro	_	ADP	_	_	9	case	_	_
+9	aras	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_3_1
+# len = 19
+# text = Dadas a Stratford lo prumey jorn de jun, l'an LI de- -lo seynhor Rey nostre payre.
+1	Dadas	_	VERB	_	_	0	root	_	_
+2	a	_	ADP	_	_	3	case	_	_
+3	Stratford	_	PROPN	_	_	1	obl	_	_
+4	lo	_	DET	_	_	6	det	_	_
+5	prumey	_	ADJ	_	_	6	amod	_	_
+6	jorn	_	NOUN	_	_	1	obl	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	jun	_	NOUN	_	_	6	nmod	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	6	punct	_	_
+10	l'	_	DET	_	_	11	det	_	SpaceAfter=No
+11	an	_	NOUN	_	_	1	obl	_	_
+12	LI	_	ADJ	_	_	11	amod	_	_
+13	de-	_	ADP	_	_	15	case	_	_
+14	-lo	_	DET	_	_	15	det	_	_
+15	seynhor	_	NOUN	_	_	11	nmod	_	_
+16	Rey	_	NOUN	_	_	15	flat	_	_
+17	nostre	_	DET	_	_	18	det	_	_
+18	payre	_	NOUN	_	_	15	appos	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_4_1
+# len = 22
+# text = Eudoart, per la gracia de Diu, rey d'Anglaterra, Sr d'Yrlanda et duc d'Aquitania, salut:
+1	Eudoart	_	PROPN	_	_	21	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	per	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	gracia	_	NOUN	_	_	9	obl	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	Diu	_	PROPN	_	_	5	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	5	punct	_	_
+9	rey	_	NOUN	_	_	1	appos	_	_
+10	d'	_	ADP	_	_	11	case	_	SpaceAfter=No
+11	Anglaterra	_	PROPN	_	_	9	nmod	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	9	punct	_	_
+13	Sr	_	NOUN	_	_	9	conj	_	_
+14	d'	_	ADP	_	_	15	case	_	SpaceAfter=No
+15	Yrlanda	_	PROPN	_	_	13	nmod	_	_
+16	et	_	CCONJ	_	_	17	cc	_	_
+17	duc	_	NOUN	_	_	9	conj	_	_
+18	d'	_	ADP	_	_	19	case	_	SpaceAfter=No
+19	Aquitania	_	PROPN	_	_	17	nmod	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	1	punct	_	_
+21	salut	_	VERB	_	_	0	root	_	SpaceAfter=No
+22	:	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_5_1
+# len = 108
+# text = A totz ausquaus las presens letras vindran, sapiat que nos autreyam aus nostres homes de Entre-dos-Mars de la diocesa de Bordeu, losquaus son tengudz a nos o a nostre prebost de aquerra terra a las albergadas, que aqueras medeyssas albergadas sian recebudas am edz per lodeyt prebost o autre per nostre nome en los locx o vilatges en losquaus de temps antic an acostumat esser recebut tant solament una vequada l’an, am III homes a cavat et III a peys, sens plus. Ayssique sian refresquit competentment de viandas, et de autres necessarias, ayssi cum a acostumat.
+1	A	_	ADP	_	_	2	case	_	_
+2	totz	_	PRON	_	_	10	obl	_	_
+3-4	ausquaus	_	_	_	_	_	_	_	_
+3	a-	_	ADP	_	_	4	case	_	_
+4	-losquaus	_	PRON	_	_	8	obl	_	_
+5	las	_	DET	_	_	7	det	_	_
+6	presens	_	ADJ	_	_	7	amod	_	_
+7	letras	_	NOUN	_	_	8	nsubj	_	_
+8	vindran	_	VERB	_	_	2	acl:relcl	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	sapiat	_	VERB	_	_	0	root	_	_
+11	que	_	SCONJ	_	_	13	mark	_	_
+12	nos	_	PRON	_	_	13	nsubj	_	_
+13	autreyam	_	VERB	_	_	10	ccomp	_	_
+14-15	aus	_	_	_	_	_	_	_	_
+14	a-	_	ADP	_	_	17	case	_	_
+15	-los	_	DET	_	_	17	det	_	_
+16	nostres	_	ADJ	_	_	17	amod	_	_
+17	homes	_	NOUN	_	_	13	obl	_	_
+18	de	_	ADP	_	_	19	case	_	_
+19	Entre-dos-Mars	_	PROPN	_	_	17	nmod	_	_
+20	de	_	ADP	_	_	22	case	_	_
+21	la	_	DET	_	_	22	det	_	_
+22	diocesa	_	NOUN	_	_	17	nmod	_	_
+23	de	_	ADP	_	_	24	case	_	_
+24	Bordeu	_	PROPN	_	_	22	nmod	_	SpaceAfter=No
+25	,	_	PUNCT	_	_	17	punct	_	_
+26	losquaus	_	PRON	_	_	28	nsubj	_	_
+27	son	_	AUX	_	_	28	aux:pass	_	_
+28	tengudz	_	VERB	_	_	17	acl:relcl	_	_
+29	a	_	ADP	_	_	30	case	_	_
+30	nos	_	PRON	_	_	28	obl	_	_
+31	o	_	CCONJ	_	_	34	cc	_	_
+32	a	_	ADP	_	_	34	case	_	_
+33	nostre	_	DET	_	_	34	det	_	_
+34	prebost	_	NOUN	_	_	30	conj	_	_
+35	de	_	ADP	_	_	37	case	_	_
+36	aquerra	_	DET	_	_	37	det	_	_
+37	terra	_	NOUN	_	_	34	nmod	_	_
+38	a	_	ADP	_	_	40	case	_	_
+39	las	_	DET	_	_	40	det	_	_
+40	albergadas	_	NOUN	_	_	28	obl	_	SpaceAfter=No
+41	,	_	PUNCT	_	_	13	punct	_	_
+42	que	_	SCONJ	_	_	47	mark	_	_
+43	aqueras	_	DET	_	_	45	det	_	_
+44	medeyssas	_	ADJ	_	_	45	amod	_	_
+45	albergadas	_	NOUN	_	_	47	nsubj	_	_
+46	sian	_	AUX	_	_	47	aux:pass	_	_
+47	recebudas	_	VERB	_	_	13	ccomp	_	_
+48	am	_	ADP	_	_	49	case	_	_
+49	edz	_	PRON	_	_	47	obl	_	_
+50	per	_	ADP	_	_	52	case	_	_
+51	lodeyt	_	DET	_	_	52	det	_	_
+52	prebost	_	NOUN	_	_	47	obl	_	_
+53	o	_	CCONJ	_	_	54	cc	_	_
+54	autre	_	PRON	_	_	52	conj	_	_
+55	per	_	ADP	_	_	57	case	_	_
+56	nostre	_	DET	_	_	57	det	_	_
+57	nome	_	NOUN	_	_	47	obl	_	_
+58	en	_	ADP	_	_	60	case	_	_
+59	los	_	DET	_	_	60	det	_	_
+60	locx	_	NOUN	_	_	47	obl	_	_
+61	o	_	CCONJ	_	_	62	cc	_	_
+62	vilatges	_	NOUN	_	_	60	conj	_	_
+63	en	_	ADP	_	_	64	case	_	_
+64	losquaus	_	PRON	_	_	69	obl	_	_
+65	de	_	ADP	_	_	66	case	_	_
+66	temps	_	NOUN	_	_	69	obl	_	_
+67	antic	_	ADJ	_	_	66	amod	_	_
+68	an	_	AUX	_	_	69	aux	_	_
+69	acostumat	_	VERB	_	_	60	acl:relcl	_	_
+70	esser	_	AUX	_	_	71	aux:pass	_	_
+71	recebut	_	VERB	_	_	69	xcomp	_	_
+72	tant	_	ADV	_	ExtPos=ADV	71	advmod	_	_
+73	solament	_	ADV	_	_	72	fixed	_	_
+74	una	_	NUM	_	_	75	nummod	_	_
+75	vequada	_	NOUN	_	_	71	obl	_	_
+76	l’	_	DET	_	_	77	det	_	SpaceAfter=No
+77	an	_	NOUN	_	_	75	nmod	_	SpaceAfter=No
+78	,	_	PUNCT	_	_	71	punct	_	_
+79	am	_	ADP	_	_	81	case	_	_
+80	III	_	NUM	_	_	81	nummod	_	_
+81	homes	_	NOUN	_	_	71	obl	_	_
+82	a	_	ADP	_	_	83	case	_	_
+83	cavat	_	NOUN	_	_	81	nmod	_	_
+84	et	_	CCONJ	_	_	85	cc	_	_
+85	III	_	NUM	_	_	81	conj	_	_
+86	a	_	ADP	_	_	87	case	_	_
+87	peys	_	NOUN	_	_	85	nmod	_	SpaceAfter=No
+88	,	_	PUNCT	_	_	81	punct	_	_
+89	sens	_	ADP	_	_	90	case	_	_
+90	plus	_	ADV	_	_	71	advmod	_	SpaceAfter=No
+91	.	_	PUNCT	_	_	71	punct	_	_
+92	Ayssique	_	SCONJ	_	_	94	mark	_	_
+93	sian	_	AUX	_	_	94	aux:pass	_	_
+94	refresquit	_	VERB	_	_	13	advcl	_	_
+95	competentment	_	ADV	_	_	94	advmod	_	_
+96	de	_	ADP	_	_	97	case	_	_
+97	viandas	_	NOUN	_	_	94	obl	_	SpaceAfter=No
+98	,	_	PUNCT	_	_	97	punct	_	_
+99	et	_	CCONJ	_	_	101	cc	_	_
+100	de	_	ADP	_	_	101	case	_	_
+101	autres	_	PRON	_	_	97	conj	_	_
+102	necessarias	_	ADJ	_	_	101	amod	_	SpaceAfter=No
+103	,	_	PUNCT	_	_	94	punct	_	_
+104	ayssi	_	ADV	_	ExtPos=SCONJ	107	mark	_	_
+105	cum	_	SCONJ	_	_	104	fixed	_	_
+106	a	_	AUX	_	_	107	aux	_	_
+107	acostumat	_	VERB	_	_	94	advcl	_	SpaceAfter=No
+108	.	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_6_1
+# len = 68
+# text = Et meys autreyam a totz et sengles los habitantz de la sobredeyta prebostat que en aquera nostra prebostat sian tant solament VIII servens dejus lo prebost, losquaus no pusquan prendre aucuna pecunia per las albergadas mas si ne ayan volgud receban la vita tant solament sino que per nos o per nostre scnescaut de Gasconha fossa vist ordenaduy autrament per temps avenir per causa legitima.
+1	Et	_	CCONJ	_	_	3	cc	_	_
+2	meys	_	ADV	_	_	3	advmod	_	_
+3	autreyam	_	VERB	_	_	0	root	_	_
+4	a	_	ADP	_	_	9	case	_	_
+5	totz	_	DET	_	_	9	det	_	_
+6	et	_	CCONJ	_	_	7	cc	_	_
+7	sengles	_	DET	_	_	5	conj	_	_
+8	los	_	DET	_	_	9	det	_	_
+9	habitantz	_	NOUN	_	_	3	obl	_	_
+10	de	_	ADP	_	_	13	case	_	_
+11	la	_	DET	_	_	13	det	_	_
+12	sobredeyta	_	ADJ	_	_	13	amod	_	_
+13	prebostat	_	NOUN	_	_	9	nmod	_	_
+14	que	_	SCONJ	_	_	19	mark	_	_
+15	en	_	ADP	_	_	18	case	_	_
+16	aquera	_	DET	_	_	18	det	_	_
+17	nostra	_	ADJ	_	_	18	amod	_	_
+18	prebostat	_	NOUN	_	_	19	obl	_	_
+19	sian	_	VERB	_	_	3	ccomp	_	_
+20	tant	_	ADV	_	ExtPos=ADV	19	advmod	_	_
+21	solament	_	ADV	_	_	20	fixed	_	_
+22	VIII	_	NUM	_	_	23	nummod	_	_
+23	servens	_	NOUN	_	_	19	nsubj	_	_
+24	dejus	_	ADP	_	_	26	case	_	_
+25	lo	_	DET	_	_	26	det	_	_
+26	prebost	_	NOUN	_	_	19	obl	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	26	punct	_	_
+28	losquaus	_	PRON	_	_	30	nsubj	_	_
+29	no	_	ADV	_	_	30	advmod	_	_
+30	pusquan	_	VERB	_	_	23	acl:relcl	_	_
+31	prendre	_	VERB	_	_	30	xcomp	_	_
+32	aucuna	_	DET	_	_	33	det	_	_
+33	pecunia	_	NOUN	_	_	31	obj	_	_
+34	per	_	ADP	_	_	36	case	_	_
+35	las	_	DET	_	_	36	det	_	_
+36	albergadas	_	NOUN	_	_	31	obl	_	_
+37	mas	_	CCONJ	_	_	42	cc	_	_
+38	si	_	SCONJ	_	_	41	mark	_	_
+39	ne	_	PRON	_	_	41	obl	_	_
+40	ayan	_	AUX	_	_	41	aux	_	_
+41	volgud	_	VERB	_	_	42	advcl	_	_
+42	receban	_	VERB	_	_	30	conj	_	_
+43	la	_	DET	_	_	44	det	_	_
+44	vita	_	NOUN	_	_	42	obj	_	_
+45	tant	_	ADV	_	ExtPos=ADV	42	advmod	_	_
+46	solament	_	ADV	_	_	45	fixed	_	_
+47	sino	_	ADV	_	ExtPos=SCONJ	58	mark	_	_
+48	que	_	SCONJ	_	_	47	fixed	_	_
+49	per	_	ADP	_	_	50	case	_	_
+50	nos	_	PRON	_	_	58	obl	_	_
+51	o	_	CCONJ	_	_	54	cc	_	_
+52	per	_	ADP	_	_	54	case	_	_
+53	nostre	_	DET	_	_	54	det	_	_
+54	scnescaut	_	NOUN	_	_	50	conj	_	_
+55	de	_	ADP	_	_	56	case	_	_
+56	Gasconha	_	PROPN	_	_	54	nmod	_	_
+57	fossa	_	AUX	_	_	58	aux:pass	_	_
+58	vist	_	VERB	_	_	42	advcl	_	_
+59	ordenaduy	_	VERB	_	_	58	xcomp	_	_
+60	autrament	_	ADV	_	_	59	advmod	_	_
+61	per	_	ADP	_	_	62	case	_	_
+62	temps	_	NOUN	_	_	59	obl	_	_
+63-64	avenir	_	_	_	_	_	_	_	_
+63	a-	_	ADP	_	_	64	mark	_	_
+64	-venir	_	VERB	_	_	62	acl	_	_
+65	per	_	ADP	_	_	66	case	_	_
+66	causa	_	NOUN	_	_	59	obl	_	_
+67	legitima	_	ADJ	_	_	66	amod	_	SpaceAfter=No
+68	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_9_7_1
+# len = 29
+# text = En testimoni de laquau causa nos ferem far questas presens letras, dadas vert Cundat, lo XIII jorn de may, lo XVII an de nostre regne.
+1	En	_	ADP	_	_	2	case	_	_
+2	testimoni	_	NOUN	_	_	7	obl	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	laquau	_	DET	_	_	5	det	_	_
+5	causa	_	NOUN	_	_	2	nmod	_	_
+6	nos	_	PRON	_	_	7	nsubj	_	_
+7	ferem	_	VERB	_	_	0	root	_	_
+8	far	_	VERB	_	_	7	xcomp	_	_
+9	questas	_	DET	_	_	11	det	_	_
+10	presens	_	ADJ	_	_	11	amod	_	_
+11	letras	_	NOUN	_	_	8	obj	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	dadas	_	VERB	_	_	11	acl	_	_
+14	vert	_	ADP	_	_	15	case	_	_
+15	Cundat	_	PROPN	_	_	13	obl	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	13	punct	_	_
+17	lo	_	DET	_	_	19	det	_	_
+18	XIII	_	ADJ	_	_	19	amod	_	_
+19	jorn	_	NOUN	_	_	13	obl	_	_
+20	de	_	ADP	_	_	21	case	_	_
+21	may	_	NOUN	_	_	19	nmod	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	19	punct	_	_
+23	lo	_	DET	_	_	25	det	_	_
+24	XVII	_	ADJ	_	_	25	amod	_	_
+25	an	_	NOUN	_	_	13	obl	_	_
+26	de	_	ADP	_	_	28	case	_	_
+27	nostre	_	DET	_	_	28	det	_	_
+28	regne	_	NOUN	_	_	25	nmod	_	SpaceAfter=No
+29	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_1_1
+# len = 31
+# text = Eudoart, per la gracia de Diu, rey d'Anglaterra et de Franssa et seynhor de Yrlanda, a totz aquetz ausquaus las presens letras vendran, salut:
+1	Eudoart	_	PROPN	_	_	30	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	per	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	gracia	_	NOUN	_	_	9	obl	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	Diu	_	PROPN	_	_	5	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	5	punct	_	_
+9	rey	_	NOUN	_	_	1	appos	_	_
+10	d'	_	ADP	_	_	11	case	_	SpaceAfter=No
+11	Anglaterra	_	PROPN	_	_	9	nmod	_	_
+12	et	_	CCONJ	_	_	14	cc	_	_
+13	de	_	ADP	_	_	14	case	_	_
+14	Franssa	_	PROPN	_	_	11	conj	_	_
+15	et	_	CCONJ	_	_	16	cc	_	_
+16	seynhor	_	NOUN	_	_	9	conj	_	_
+17	de	_	ADP	_	_	18	case	_	_
+18	Yrlanda	_	PROPN	_	_	16	nmod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	16	punct	_	_
+20	a	_	ADP	_	_	22	case	_	_
+21	totz	_	DET	_	_	22	det	_	_
+22	aquetz	_	PRON	_	_	30	obl	_	_
+23-24	ausquaus	_	_	_	_	_	_	_	_
+23	a-	_	ADP	_	_	24	case	_	_
+24	-losquaus	_	PRON	_	_	28	obl	_	_
+25	las	_	DET	_	_	27	det	_	_
+26	presens	_	ADJ	_	_	27	amod	_	_
+27	letras	_	NOUN	_	_	28	nsubj	_	_
+28	vendran	_	VERB	_	_	22	acl:relcl	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	22	punct	_	_
+30	salut	_	VERB	_	_	0	root	_	SpaceAfter=No
+31	:	_	PUNCT	_	_	30	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_2_1
+# len = 28
+# text = Frem esta a nos per la inspection dels rotles de nostra cancelaria que nos ferem far no a gayres temps nostres letres patentas en questas paraulas:
+1	Frem	_	ADJ	_	_	2	xcomp	_	_
+2	esta	_	VERB	_	_	0	root	_	_
+3	a	_	ADP	_	_	4	case	_	_
+4	nos	_	PRON	_	_	2	obl	_	_
+5	per	_	ADP	_	_	7	case	_	_
+6	la	_	DET	_	_	7	det	_	_
+7	inspection	_	NOUN	_	_	2	obl	_	_
+8-9	dels	_	_	_	_	_	_	_	_
+8	de-	_	ADP	_	_	10	case	_	_
+9	-los	_	DET	_	_	10	det	_	_
+10	rotles	_	NOUN	_	_	7	nmod	_	_
+11	de	_	ADP	_	_	13	case	_	_
+12	nostra	_	DET	_	_	13	det	_	_
+13	cancelaria	_	NOUN	_	_	10	nmod	_	_
+14	que	_	SCONJ	_	_	16	mark	_	_
+15	nos	_	PRON	_	_	16	nsubj	_	_
+16	ferem	_	VERB	_	_	2	ccomp	_	_
+17	far	_	VERB	_	_	16	xcomp	_	_
+18	no	_	ADV	_	ExtPos=ADV	17	advmod	_	_
+19	a	_	VERB	_	_	18	fixed	_	_
+20	gayres	_	ADV	_	_	18	fixed	_	_
+21	temps	_	NOUN	_	_	18	fixed	_	_
+22	nostres	_	DET	_	_	23	det	_	_
+23	letres	_	NOUN	_	_	17	obj	_	_
+24	patentas	_	ADJ	_	_	23	amod	_	_
+25	en	_	ADP	_	_	27	case	_	_
+26	questas	_	DET	_	_	27	det	_	_
+27	paraulas	_	NOUN	_	_	17	obl	_	SpaceAfter=No
+28	:	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_3_1
+# len = 17
+# text = Eudoart, per la g … a totz ausquaus las presens letras vendran, salut.
+1	Eudoart	_	PROPN	_	_	16	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	per	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	g	_	NOUN	_	_	16	obl	_	_
+6	…	_	PUNCT	_	_	5	punct	_	_
+7	a	_	ADP	_	_	8	case	_	_
+8	totz	_	PRON	_	_	16	obl	_	_
+9-10	ausquaus	_	_	_	_	_	_	_	_
+9	a-	_	ADP	_	_	10	case	_	_
+10	-losquaus	_	PRON	_	_	14	obl	_	_
+11	las	_	DET	_	_	13	det	_	_
+12	presens	_	ADJ	_	_	13	amod	_	_
+13	letras	_	NOUN	_	_	14	nsubj	_	_
+14	vendran	_	VERB	_	_	8	acl:relcl	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	8	punct	_	_
+16	salut	_	VERB	_	_	0	root	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_4_1
+# len = 23
+# text = La reyau magestat se conven donar gracia et favor adaquetz losquaus aura conogut benmerens et aura atrobat plus favorables per servicis;
+1	La	_	DET	_	_	3	det	_	_
+2	reyau	_	ADJ	_	_	3	amod	_	_
+3	magestat	_	NOUN	_	_	5	nsubj	_	_
+4	se	_	PRON	_	_	5	expl	_	_
+5	conven	_	VERB	_	_	0	root	_	_
+6	donar	_	VERB	_	_	5	xcomp	_	_
+7	gracia	_	NOUN	_	_	6	obj	_	_
+8	et	_	CCONJ	_	_	9	cc	_	_
+9	favor	_	NOUN	_	_	7	conj	_	_
+10-11	adaquetz	_	_	_	_	_	_	_	_
+10	ad-	_	ADP	_	_	11	case	_	_
+11	-aquetz	_	PRON	_	_	6	obl	_	_
+12	losquaus	_	PRON	_	_	14	obj	_	_
+13	aura	_	AUX	_	_	14	aux	_	_
+14	conogut	_	VERB	_	_	11	acl:relcl	_	_
+15	benmerens	_	ADJ	_	_	14	xcomp	_	_
+16	et	_	CCONJ	_	_	18	cc	_	_
+17	aura	_	AUX	_	_	18	aux	_	_
+18	atrobat	_	VERB	_	_	14	conj	_	_
+19	plus	_	ADV	_	_	20	advmod	_	_
+20	favorables	_	ADJ	_	_	18	xcomp	_	_
+21	per	_	ADP	_	_	22	case	_	_
+22	servicis	_	NOUN	_	_	18	obl	_	SpaceAfter=No
+23	;	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_4_2
+# len = 87
+# text = aladonquas nos volens los amat et fidels nostres habitantz de Entre-dos-Mars et de Credoni, dedintz nostre sobredeyt duguat, losquaus se porteren ben et fideument vert nos et nostres ancestres qui foren reys d'Anglaterra, en los temps dels reys passatz, nos avem autreyat a edz que per nos et per nostres hereteys que la prebostat deudeyt loc per vendition, donation, permutation o quanque autra titre o titol no pouseram fora nostre mag sino a heretey aveniduy d'Anglaterra;
+1	aladonquas	_	ADV	_	_	48	advmod	_	_
+2	nos	_	PRON	_	_	3	nsubj	_	_
+3	volens	_	VERB	_	_	48	advcl	_	_
+4	los	_	DET	_	_	9	det	_	_
+5	amat	_	ADJ	_	_	9	amod	_	_
+6	et	_	CCONJ	_	_	7	cc	_	_
+7	fidels	_	ADJ	_	_	5	conj	_	_
+8	nostres	_	ADJ	_	_	9	amod	_	_
+9	habitantz	_	NOUN	_	_	3	obj	_	_
+10	de	_	ADP	_	_	11	case	_	_
+11	Entre-dos-Mars	_	PROPN	_	_	9	nmod	_	_
+12	et	_	CCONJ	_	_	14	cc	_	_
+13	de	_	ADP	_	_	14	case	_	_
+14	Credoni	_	PROPN	_	_	11	conj	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	9	punct	_	_
+16	dedintz	_	ADP	_	_	19	case	_	_
+17	nostre	_	DET	_	_	19	det	_	_
+18	sobredeyt	_	ADJ	_	_	19	amod	_	_
+19	duguat	_	NOUN	_	_	3	obl	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	23	punct	_	_
+21	losquaus	_	PRON	_	_	23	nsubj	_	_
+22	se	_	PRON	_	_	23	expl	_	_
+23	porteren	_	VERB	_	_	9	acl:relcl	_	_
+24	ben	_	ADV	_	_	23	advmod	_	_
+25	et	_	CCONJ	_	_	26	cc	_	_
+26	fideument	_	ADV	_	_	24	conj	_	_
+27	vert	_	ADP	_	_	28	case	_	_
+28	nos	_	PRON	_	_	23	obl	_	_
+29	et	_	CCONJ	_	_	31	cc	_	_
+30	nostres	_	DET	_	_	31	det	_	_
+31	ancestres	_	NOUN	_	_	28	conj	_	_
+32	qui	_	PRON	_	_	34	nsubj	_	_
+33	foren	_	AUX	_	_	34	cop	_	_
+34	reys	_	NOUN	_	_	31	acl:relcl	_	_
+35	d'	_	ADP	_	_	36	case	_	SpaceAfter=No
+36	Anglaterra	_	PROPN	_	_	34	nmod	_	SpaceAfter=No
+37	,	_	PUNCT	_	_	23	punct	_	_
+38	en	_	ADP	_	_	40	case	_	_
+39	los	_	DET	_	_	40	det	_	_
+40	temps	_	NOUN	_	_	23	obl	_	_
+41-42	dels	_	_	_	_	_	_	_	_
+41	de-	_	ADP	_	_	43	case	_	_
+42	-los	_	DET	_	_	43	det	_	_
+43	reys	_	NOUN	_	_	40	nmod	_	_
+44	passatz	_	ADJ	_	_	43	amod	_	SpaceAfter=No
+45	,	_	PUNCT	_	_	3	punct	_	_
+46	nos	_	PRON	_	_	48	nsubj	_	_
+47	avem	_	AUX	_	_	48	aux	_	_
+48	autreyat	_	VERB	_	_	0	root	_	_
+49	a	_	ADP	_	_	50	case	_	_
+50	edz	_	PRON	_	_	48	obl	_	_
+51	que	_	SCONJ	_	_	77	mark	_	_
+52	per	_	ADP	_	_	53	case	_	_
+53	nos	_	PRON	_	_	77	obl	_	_
+54	et	_	CCONJ	_	_	57	cc	_	_
+55	per	_	ADP	_	_	57	case	_	_
+56	nostres	_	DET	_	_	57	det	_	_
+57	hereteys	_	NOUN	_	_	53	conj	_	_
+58	que	_	SCONJ	_	_	77	mark	_	_
+59	la	_	DET	_	_	60	det	_	_
+60	prebostat	_	NOUN	_	_	77	obj	_	_
+61-62	deudeyt	_	_	_	_	_	_	_	_
+61	de-	_	ADP	_	_	63	case	_	_
+62	-lodeyt	_	DET	_	_	63	det	_	_
+63	loc	_	NOUN	_	_	60	nmod	_	_
+64	per	_	ADP	_	_	65	case	_	_
+65	vendition	_	NOUN	_	_	77	obl	_	SpaceAfter=No
+66	,	_	PUNCT	_	_	65	punct	_	_
+67	donation	_	NOUN	_	_	65	conj	_	SpaceAfter=No
+68	,	_	PUNCT	_	_	67	punct	_	_
+69	permutation	_	NOUN	_	_	65	conj	_	_
+70	o	_	CCONJ	_	_	73	cc	_	_
+71	quanque	_	DET	_	_	73	det	_	_
+72	autra	_	ADJ	_	_	73	amod	_	_
+73	titre	_	NOUN	_	_	65	conj	_	_
+74	o	_	CCONJ	_	_	75	cc	_	_
+75	titol	_	NOUN	_	_	73	conj	_	_
+76	no	_	ADV	_	_	77	advmod	_	_
+77	pouseram	_	VERB	_	_	48	ccomp	_	_
+78	fora	_	ADP	_	_	80	case	_	_
+79	nostre	_	DET	_	_	80	det	_	_
+80	mag	_	NOUN	_	_	77	obl	_	_
+81	sino	_	ADP	_	_	83	case	_	_
+82	a	_	ADP	_	_	83	case	_	_
+83	heretey	_	NOUN	_	_	77	obl	_	_
+84	aveniduy	_	VERB	_	_	83	acl	_	_
+85	d'	_	ADP	_	_	86	case	_	SpaceAfter=No
+86	Anglaterra	_	PROPN	_	_	84	obl	_	SpaceAfter=No
+87	;	_	PUNCT	_	_	48	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_4_3
+# len = 62
+# text = per que volem, estatuim et ordenam que la sobredeyta prebostat sino en futur a heretey d'Anglaterra ayssi cum deyt es, no pusqua estre separada d’assy en darrey de la corona del regne de Anglaterra o esser transferida o distrahida d'aqui empres per quanque maneyra per vendition, donation, permutation o per quanque autre titol.
+1	per	_	ADP	_	_	2	case	_	_
+2	que	_	PRON	_	_	3	obl	_	_
+3	volem	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	estatuim	_	VERB	_	_	3	conj	_	_
+6	et	_	CCONJ	_	_	7	cc	_	_
+7	ordenam	_	VERB	_	_	3	conj	_	_
+8	que	_	SCONJ	_	_	25	mark	_	_
+9	la	_	DET	_	_	11	det	_	_
+10	sobredeyta	_	ADJ	_	_	11	amod	_	_
+11	prebostat	_	NOUN	_	_	25	nsubj	_	_
+12	sino	_	ADP	_	_	14	case	_	_
+13	en	_	ADP	_	_	14	case	_	_
+14	futur	_	NOUN	_	_	25	obl	_	_
+15	a	_	ADP	_	_	16	case	_	_
+16	heretey	_	NOUN	_	_	25	obl	_	_
+17	d'	_	ADP	_	_	18	case	_	SpaceAfter=No
+18	Anglaterra	_	PROPN	_	_	16	nmod	_	_
+19	ayssi	_	ADV	_	ExtPos=SCONJ	21	mark	_	_
+20	cum	_	SCONJ	_	_	19	fixed	_	_
+21	deyt	_	VERB	_	_	25	advcl	_	_
+22	es	_	AUX	_	_	21	aux:pass	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	21	punct	_	_
+24	no	_	ADV	_	_	25	advmod	_	_
+25	pusqua	_	VERB	_	_	3	ccomp	_	_
+26	estre	_	AUX	_	_	27	aux:pass	_	_
+27	separada	_	VERB	_	_	25	xcomp	_	_
+28	d’	_	ADP	_	_	29	case	_	SpaceAfter=No
+29	assy	_	ADV	_	_	27	obl	_	_
+30	en	_	ADP	_	_	31	case	_	_
+31	darrey	_	ADV	_	_	29	advmod	_	_
+32	de	_	ADP	_	_	34	case	_	_
+33	la	_	DET	_	_	34	det	_	_
+34	corona	_	NOUN	_	_	27	obl	_	_
+35-36	del	_	_	_	_	_	_	_	_
+35	de-	_	ADP	_	_	37	case	_	_
+36	-lo	_	DET	_	_	37	det	_	_
+37	regne	_	NOUN	_	_	34	nmod	_	_
+38	de	_	ADP	_	_	39	case	_	_
+39	Anglaterra	_	PROPN	_	_	37	nmod	_	_
+40	o	_	CCONJ	_	_	42	cc	_	_
+41	esser	_	AUX	_	_	42	aux:pass	_	_
+42	transferida	_	VERB	_	_	27	conj	_	_
+43	o	_	CCONJ	_	_	44	cc	_	_
+44	distrahida	_	VERB	_	_	42	conj	_	_
+45	d'	_	ADP	_	_	46	case	_	SpaceAfter=No
+46	aqui	_	ADV	_	_	42	obl	_	_
+47	empres	_	ADV	_	_	46	advmod	_	_
+48	per	_	ADP	_	_	50	case	_	_
+49	quanque	_	DET	_	_	50	det	_	_
+50	maneyra	_	NOUN	_	_	42	obl	_	_
+51	per	_	ADP	_	_	52	case	_	_
+52	vendition	_	NOUN	_	_	42	obl	_	SpaceAfter=No
+53	,	_	PUNCT	_	_	52	punct	_	_
+54	donation	_	NOUN	_	_	52	conj	_	SpaceAfter=No
+55	,	_	PUNCT	_	_	54	punct	_	_
+56	permutation	_	NOUN	_	_	52	conj	_	_
+57	o	_	CCONJ	_	_	61	cc	_	_
+58	per	_	ADP	_	_	61	case	_	_
+59	quanque	_	DET	_	_	61	det	_	_
+60	autre	_	ADJ	_	_	61	amod	_	_
+61	titol	_	NOUN	_	_	52	conj	_	SpaceAfter=No
+62	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_5_1
+# len = 30
+# text = En testimoni de lasquaus causas nos avem feyt far questas presens nostres letras, vert Westm. le X jorn de octobre, lo quint an de nostre regne,
+1	En	_	ADP	_	_	2	case	_	_
+2	testimoni	_	NOUN	_	_	8	obl	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	lasquaus	_	DET	_	_	5	det	_	_
+5	causas	_	NOUN	_	_	2	nmod	_	_
+6	nos	_	PRON	_	_	8	nsubj	_	_
+7	avem	_	AUX	_	_	8	aux	_	_
+8	feyt	_	VERB	_	_	0	root	_	_
+9	far	_	VERB	_	_	8	xcomp	_	_
+10	questas	_	DET	_	_	13	det	_	_
+11	presens	_	ADJ	_	_	13	amod	_	_
+12	nostres	_	ADJ	_	_	13	amod	_	_
+13	letras	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	9	punct	_	_
+15	vert	_	ADP	_	_	16	case	_	_
+16	Westm	_	PROPN	_	_	9	obl	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	16	punct	_	_
+18	le	_	DET	_	_	20	det	_	_
+19	X	_	ADJ	_	_	20	amod	_	_
+20	jorn	_	NOUN	_	_	9	obl	_	_
+21	de	_	ADP	_	_	22	case	_	_
+22	octobre	_	NOUN	_	_	20	nmod	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	20	punct	_	_
+24	lo	_	DET	_	_	26	det	_	_
+25	quint	_	ADJ	_	_	26	amod	_	_
+26	an	_	NOUN	_	_	9	obl	_	_
+27	de	_	ADP	_	_	29	case	_	_
+28	nostre	_	DET	_	_	29	det	_	_
+29	regne	_	NOUN	_	_	26	nmod	_	SpaceAfter=No
+30	,	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_5_2
+# len = 4
+# text = jo medeys testimoni.
+1	jo	_	PRON	_	_	3	nsubj	_	_
+2	medeys	_	ADJ	_	_	1	amod	_	_
+3	testimoni	_	NOUN	_	_	0	root	_	SpaceAfter=No
+4	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_6_1
+# len = 22
+# text = Nos avem feyt exemplifficar aqueras letras à la requesta deus habitantz deudeyt loc per la tenor de las presens.
+1	Nos	_	PRON	_	_	3	nsubj	_	_
+2	avem	_	AUX	_	_	3	aux	_	_
+3	feyt	_	VERB	_	_	0	root	_	_
+4	exemplifficar	_	VERB	_	_	3	xcomp	_	_
+5	aqueras	_	DET	_	_	6	det	_	_
+6	letras	_	NOUN	_	_	4	obj	_	_
+7	à	_	ADP	_	_	9	case	_	_
+8	la	_	DET	_	_	9	det	_	_
+9	requesta	_	NOUN	_	_	4	obl	_	_
+10-11	deus	_	_	_	_	_	_	_	_
+10	de-	_	ADP	_	_	12	case	_	_
+11	-los	_	DET	_	_	12	det	_	_
+12	habitantz	_	NOUN	_	_	9	nmod	_	_
+13-14	deudeyt	_	_	_	_	_	_	_	_
+13	de-	_	ADP	_	_	15	case	_	_
+14	-lodeyt	_	DET	_	_	15	det	_	_
+15	loc	_	NOUN	_	_	12	nmod	_	_
+16	per	_	ADP	_	_	18	case	_	_
+17	la	_	DET	_	_	18	det	_	_
+18	tenor	_	NOUN	_	_	4	obl	_	_
+19	de	_	ADP	_	_	21	case	_	_
+20	las	_	DET	_	_	21	det	_	_
+21	presens	_	NOUN	_	_	18	nmod	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_6_2
+# len = 40
+# text = En testimoni de laquau causa questas nostras letras patentas avem feyt far, vert Westmonsterii, lo XX jorn de geney, lo XIV ans de nostre regne, mas lo prumey an del nostre regne de France.
+1	En	_	ADP	_	_	2	case	_	_
+2	testimoni	_	NOUN	_	_	11	obl	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	laquau	_	DET	_	_	5	det	_	_
+5	causa	_	NOUN	_	_	2	nmod	_	_
+6	questas	_	DET	_	_	8	det	_	_
+7	nostras	_	ADJ	_	_	8	amod	_	_
+8	letras	_	NOUN	_	_	12	obj	_	_
+9	patentas	_	ADJ	_	_	8	amod	_	_
+10	avem	_	AUX	_	_	11	aux	_	_
+11	feyt	_	VERB	_	_	0	root	_	_
+12	far	_	VERB	_	_	11	xcomp	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	vert	_	ADP	_	_	15	case	_	_
+15	Westmonsterii	_	PROPN	_	_	12	obl	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	lo	_	DET	_	_	19	det	_	_
+18	XX	_	ADJ	_	_	19	amod	_	_
+19	jorn	_	NOUN	_	_	12	obl	_	_
+20	de	_	ADP	_	_	21	case	_	_
+21	geney	_	NOUN	_	_	19	nmod	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	19	punct	_	_
+23	lo	_	DET	_	_	25	det	_	_
+24	XIV	_	ADJ	_	_	25	amod	_	_
+25	ans	_	NOUN	_	_	12	obl	_	_
+26	de	_	ADP	_	_	28	case	_	_
+27	nostre	_	DET	_	_	28	det	_	_
+28	regne	_	NOUN	_	_	25	nmod	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	25	punct	_	_
+30	mas	_	CCONJ	_	_	33	cc	_	_
+31	lo	_	DET	_	_	33	det	_	_
+32	prumey	_	ADJ	_	_	33	amod	_	_
+33	an	_	NOUN	_	_	25	conj	_	_
+34-35	del	_	_	_	_	_	_	_	_
+34	de-	_	ADP	_	_	37	case	_	_
+35	-lo	_	DET	_	_	37	det	_	_
+36	nostre	_	ADJ	_	_	37	amod	_	_
+37	regne	_	NOUN	_	_	33	nmod	_	_
+38	de	_	ADP	_	_	39	case	_	_
+39	France	_	PROPN	_	_	37	nmod	_	SpaceAfter=No
+40	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1214-1342_Deux_1_1_10_6_3
+# len = 8
+# text = Per lo Rey medeys et lo conselh.
+1	Per	_	ADP	_	_	3	case	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	Rey	_	NOUN	_	_	0	root	_	_
+4	medeys	_	ADJ	_	_	3	amod	_	_
+5	et	_	CCONJ	_	_	7	cc	_	_
+6	lo	_	DET	_	_	7	det	_	_
+7	conselh	_	NOUN	_	_	3	conj	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_1_1_1
+# len = 19
+# text = Aquestz son los fors de Bearn en los quoaus fe mention que antiquementz en Bearn no ave senhor.
+1	Aquestz	_	PRON	_	_	0	root	_	_
+2	son	_	AUX	_	_	1	cop	_	_
+3	los	_	DET	_	_	4	det	_	_
+4	fors	_	NOUN	_	_	1	nsubj	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Bearn	_	PROPN	_	_	4	nmod	_	_
+7	en	_	ADP	_	_	9	case	_	_
+8	los	_	DET	_	_	9	det	_	_
+9	quoaus	_	PRON	_	_	10	obl	_	_
+10	fe	_	VERB	_	_	4	acl:relcl	_	_
+11	mention	_	NOUN	_	_	10	obj	_	_
+12	que	_	SCONJ	_	_	17	mark	_	_
+13	antiquementz	_	ADV	_	_	17	advmod	_	_
+14	en	_	ADP	_	_	15	case	_	_
+15	Bearn	_	PROPN	_	_	17	obl	_	_
+16	no	_	ADV	_	_	17	advmod	_	_
+17	ave	_	VERB	_	_	11	acl	_	_
+18	senhor	_	NOUN	_	_	17	obj	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_1_1_2
+# len = 38
+# text = En aqueg temps las gens de Bearn audin laudar ung cavaler de Begorre et anan lo coelher et fens lo senhor de Bearn ung an, et en apres no-ls bolo tenir en fors ni costumes;
+1	En	_	ADP	_	_	3	case	_	_
+2	aqueg	_	DET	_	_	3	det	_	_
+3	temps	_	NOUN	_	_	8	obl	_	_
+4	las	_	DET	_	_	5	det	_	_
+5	gens	_	NOUN	_	_	8	nsubj	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	Bearn	_	PROPN	_	_	5	nmod	_	_
+8	audin	_	VERB	_	_	0	root	_	_
+9	laudar	_	VERB	_	_	8	xcomp	_	_
+10	ung	_	DET	_	_	11	det	_	_
+11	cavaler	_	NOUN	_	_	9	obj	_	_
+12	de	_	ADP	_	_	13	case	_	_
+13	Begorre	_	PROPN	_	_	11	nmod	_	_
+14	et	_	CCONJ	_	_	15	cc	_	_
+15	anan	_	VERB	_	_	8	conj	_	_
+16	lo	_	PRON	_	_	17	obj	_	_
+17	coelher	_	VERB	_	_	15	xcomp	_	_
+18	et	_	CCONJ	_	_	19	cc	_	_
+19	fens	_	VERB	_	_	8	conj	_	_
+20	lo	_	DET	_	_	19	obj	_	_
+21	senhor	_	NOUN	_	_	19	xcomp	_	_
+22	de	_	ADP	_	_	23	case	_	_
+23	Bearn	_	PROPN	_	_	21	nmod	_	_
+24	ung	_	NUM	_	_	25	nummod	_	_
+25	an	_	NOUN	_	_	19	obl	_	SpaceAfter=No
+26	,	_	PUNCT	_	_	8	punct	_	_
+27	et	_	CCONJ	_	_	32	cc	_	_
+28	en	_	ADP	_	_	29	case	_	_
+29	apres	_	ADV	_	_	32	obl	_	_
+30-31	no-ls	_	_	_	_	_	_	_	_
+30	no-	_	ADV	_	_	32	advmod	_	_
+31	-ls	_	PRON	_	_	33	obj	_	_
+32	bolo	_	VERB	_	_	8	conj	_	_
+33	tenir	_	VERB	_	_	32	xcomp	_	_
+34	en	_	ADP	_	_	35	case	_	_
+35	fors	_	NOUN	_	_	33	obl	_	_
+36	ni	_	CCONJ	_	_	37	cc	_	_
+37	costumes	_	NOUN	_	_	35	conj	_	SpaceAfter=No
+38	;	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_1_1_3
+# len = 21
+# text = et la cort de Bearn se amassa a Pau lasbetz et requerin lo que-us tengos en fors et costumes;
+1	et	_	CCONJ	_	_	7	cc	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	cort	_	NOUN	_	_	7	nsubj	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Bearn	_	PROPN	_	_	3	nmod	_	_
+6	se	_	PRON	_	_	7	expl	_	_
+7	amassa	_	VERB	_	_	0	root	_	_
+8	a	_	ADP	_	_	9	case	_	_
+9	Pau	_	PROPN	_	_	7	obl	_	_
+10	lasbetz	_	ADV	_	_	7	advmod	_	_
+11	et	_	CCONJ	_	_	12	cc	_	_
+12	requerin	_	VERB	_	_	7	conj	_	_
+13	lo	_	PRON	_	_	12	iobj	_	_
+14-15	que-us	_	_	_	_	_	_	_	_
+14	que-	_	SCONJ	_	_	16	mark	_	_
+15	-us	_	PRON	_	_	16	obj	_	_
+16	tengos	_	VERB	_	_	12	ccomp	_	_
+17	en	_	ADP	_	_	18	case	_	_
+18	fors	_	NOUN	_	_	16	obl	_	_
+19	et	_	CCONJ	_	_	20	cc	_	_
+20	costumes	_	NOUN	_	_	18	conj	_	SpaceAfter=No
+21	;	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_1_1_4
+# len = 5
+# text = eg no a volo far
+1	eg	_	PRON	_	_	4	nsubj	_	_
+2	no	_	ADV	_	_	4	advmod	_	_
+3	a	_	PRON	_	_	5	obj	_	_
+4	volo	_	VERB	_	_	0	root	_	_
+5	far	_	VERB	_	_	4	xcomp	_	_
+
+# sent_id = 1460_Bearn_1_1_1_1_5
+# len = 8
+# text = et lasbetz aucigon lo en la cort.
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	lasbetz	_	ADV	_	_	3	advmod	_	_
+3	aucigon	_	VERB	_	_	0	root	_	_
+4	lo	_	PRON	_	_	3	obj	_	_
+5	en	_	ADP	_	_	7	case	_	_
+6	la	_	DET	_	_	7	det	_	_
+7	cort	_	NOUN	_	_	3	obl	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_2_1_1
+# len = 11
+# text = Item, apres los lauda home ung prodom cavaler en Auberni
+1	Item	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	apres	_	ADV	_	_	5	advmod	_	_
+4	los	_	PRON	_	_	5	iobj	_	_
+5	lauda	_	VERB	_	_	0	root	_	_
+6	home	_	PRON	_	_	5	nsubj	_	_
+7	ung	_	DET	_	_	8	det	_	_
+8	prodom	_	NOUN	_	_	5	obj	_	_
+9	cavaler	_	NOUN	_	_	8	appos	_	_
+10	en	_	ADP	_	_	11	case	_	_
+11	Auberni	_	PROPN	_	_	9	obl	_	_
+
+# sent_id = 1460_Bearn_1_1_2_1_2
+# len = 11
+# text = et anan lo coelher et fen lo senhor dus antz.
+1	et	_	CCONJ	_	_	2	cc	_	_
+2	anan	_	VERB	_	_	0	root	_	_
+3	lo	_	DET	_	_	4	obj	_	_
+4	coelher	_	VERB	_	_	2	xcomp	_	_
+5	et	_	CCONJ	_	_	6	cc	_	_
+6	fen	_	VERB	_	_	2	conj	_	_
+7	lo	_	DET	_	_	6	obj	_	_
+8	senhor	_	NOUN	_	_	6	xcomp	_	_
+9	dus	_	NUM	_	_	10	nummod	_	_
+10	antz	_	NOUN	_	_	6	obl	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_2_1_3
+# len = 16
+# text = Et en apres se mustra trop orgulhos que no los volo tenir en fors ni costumes
+1	Et	_	CCONJ	_	_	5	cc	_	_
+2	en	_	ADP	_	_	3	case	_	_
+3	apres	_	ADV	_	_	5	advmod	_	_
+4	se	_	PRON	_	_	5	obj	_	_
+5	mustra	_	VERB	_	_	0	root	_	_
+6	trop	_	ADV	_	_	7	advmod	_	_
+7	orgulhos	_	ADJ	_	_	5	xcomp	_	_
+8	que	_	SCONJ	_	_	11	mark	_	_
+9	no	_	ADV	_	_	11	advmod	_	_
+10	los	_	PRON	_	_	12	obj	_	_
+11	volo	_	VERB	_	_	7	acl	_	_
+12	tenir	_	VERB	_	_	11	xcomp	_	_
+13	en	_	ADP	_	_	14	case	_	_
+14	fors	_	NOUN	_	_	12	obl	_	_
+15	ni	_	CCONJ	_	_	16	cc	_	_
+16	costumes	_	NOUN	_	_	14	conj	_	_
+
+# sent_id = 1460_Bearn_1_1_2_1_4
+# len = 33
+# text = et lasbetz la cort lo fe aucider au cap deu pont d'Ossaranh a un escuder loqual lo feri tal cop de l'espiut per davant que darrer li trego.
+1	et	_	CCONJ	_	_	6	cc	_	_
+2	lasbetz	_	ADV	_	_	6	advmod	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	6	nsubj	_	_
+5	lo	_	PRON	_	_	7	obj	_	_
+6	fe	_	VERB	_	_	0	root	_	_
+7	aucider	_	VERB	_	_	6	xcomp	_	_
+8-9	au	_	_	_	_	_	_	_	_
+8	a-	a-	ADP	_	_	10	case	_	_
+9	-lo	-lo	DET	_	_	10	det	_	_
+10	cap	_	NOUN	_	_	7	obl	_	_
+11-12	deu	_	_	_	_	_	_	_	_
+11	de-	de-	ADP	_	_	13	case	_	_
+12	-lo	-lo	DET	_	_	13	det	_	_
+13	pont	_	NOUN	_	_	10	nmod	_	_
+14	d'	_	ADP	_	_	15	case	_	SpaceAfter=No
+15	Ossaranh	_	PROPN	_	_	13	nmod	_	_
+16	a	_	ADP	_	_	18	case	_	_
+17	un	_	DET	_	_	18	det	_	_
+18	escuder	_	NOUN	_	_	7	obl	_	_
+19	loqual	_	PRON	_	_	21	nsubj	_	_
+20	lo	_	PRON	_	_	21	iobj	_	_
+21	feri	_	VERB	_	_	18	acl:relcl	_	_
+22	tal	_	DET	_	_	23	det	_	_
+23	cop	_	NOUN	_	_	21	obj	_	_
+24	de	_	ADP	_	_	26	case	_	_
+25	l'	_	DET	_	_	26	det	_	SpaceAfter=No
+26	espiut	_	NOUN	_	_	21	obl	_	_
+27	per	_	ADP	_	_	28	case	_	_
+28	davant	_	ADV	_	_	21	advmod	_	_
+29	que	_	SCONJ	_	_	32	mark	_	_
+30	darrer	_	ADV	_	_	32	advmod	_	_
+31	li	_	PRON	_	_	32	obj	_	_
+32	trego	_	VERB	_	_	21	advcl	_	SpaceAfter=No
+33	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_2_1_5
+# len = 7
+# text = Et aquest senhor ave nom Sentoc.
+1	Et	_	CCONJ	_	_	4	cc	_	_
+2	aquest	_	DET	_	_	3	det	_	_
+3	senhor	_	NOUN	_	_	4	nsubj	_	_
+4	ave	_	VERB	_	_	0	root	_	_
+5	nom	_	NOUN	_	_	4	obj	_	_
+6	Sentoc	_	PROPN	_	_	4	xcomp	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_3_1_1
+# len = 23
+# text = Item, en apres audin laudar ung cavaler en Cathalonhe, loquau ave agut de ssa molher dus infantz en une bentrade;
+1	Item	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	en	_	ADP	_	_	4	case	_	_
+4	apres	_	ADV	_	_	5	advmod	_	_
+5	audin	_	VERB	_	_	0	root	_	_
+6	laudar	_	VERB	_	_	5	xcomp	_	_
+7	ung	_	DET	_	_	8	det	_	_
+8	cavaler	_	NOUN	_	_	6	obj	_	_
+9	en	_	ADP	_	_	10	case	_	_
+10	Cathalonhe	_	PROPN	_	_	6	obl	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	14	punct	_	_
+12	loquau	_	PRON	_	_	14	nsubj	_	_
+13	ave	_	AUX	_	_	14	aux	_	_
+14	agut	_	VERB	_	_	8	acl:relcl	_	_
+15	de	_	ADP	_	_	17	case	_	_
+16	ssa	_	DET	_	_	17	det	_	_
+17	molher	_	NOUN	_	_	14	obl	_	_
+18	dus	_	NUM	_	_	19	nummod	_	_
+19	infantz	_	NOUN	_	_	14	obj	_	_
+20	en	_	ADP	_	_	22	case	_	_
+21	une	_	NUM	_	_	22	nummod	_	_
+22	bentrade	_	NOUN	_	_	14	obl	_	SpaceAfter=No
+23	;	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_3_1_2
+# len = 27
+# text = et las gens de Bearn agon conselh ente lor que tremetossen dus prodomis de la terre et que requerissen l'un dequetz filhs per senhor;
+1	et	_	CCONJ	_	_	6	cc	_	_
+2	las	_	DET	_	_	3	det	_	_
+3	gens	_	NOUN	_	_	6	nsubj	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	Bearn	_	PROPN	_	_	3	nmod	_	_
+6	agon	_	VERB	_	_	0	root	_	_
+7	conselh	_	NOUN	_	_	6	obj	_	_
+8	ente	_	ADP	_	_	9	case	_	_
+9	lor	_	PRON	_	_	6	obl	_	_
+10	que	_	SCONJ	_	_	11	mark	_	_
+11	tremetossen	_	VERB	_	_	7	acl	_	_
+12	dus	_	NUM	_	_	13	nummod	_	_
+13	prodomis	_	NOUN	_	_	11	obj	_	_
+14	de	_	ADP	_	_	16	case	_	_
+15	la	_	DET	_	_	16	det	_	_
+16	terre	_	NOUN	_	_	13	nmod	_	_
+17	et	_	CCONJ	_	_	19	cc	_	_
+18	que	_	SCONJ	_	_	19	mark	_	_
+19	requerissen	_	VERB	_	_	11	conj	_	_
+20	l'	_	DET	_	_	21	det	_	SpaceAfter=No
+21	un	_	PRON	_	_	19	obj	_	_
+22-23	dequetz	_	_	_	_	_	_	_	_
+22	de-	de-	ADP	_	_	24	case	_	_
+23	-quetz	-quetz	DET	_	_	24	det	_	_
+24	filhs	_	NOUN	_	_	21	nmod	_	_
+25	per	_	ADP	_	_	26	case	_	_
+26	senhor	_	NOUN	_	_	19	obl	_	SpaceAfter=No
+27	;	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_3_1_3
+# len = 25
+# text = et quant fon la, anan beder los filhs, troban los adromitz, l'un maas barrades et l'autre las maas ubertes;
+1	et	_	CCONJ	_	_	11	cc	_	_
+2	quant	_	SCONJ	_	_	3	mark	_	_
+3	fon	_	VERB	_	_	11	advcl	_	_
+4	la	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	anan	_	VERB	_	_	11	advcl	_	_
+7	beder	_	VERB	_	_	6	xcomp	_	_
+8	los	_	DET	_	_	9	det	_	_
+9	filhs	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	6	punct	_	_
+11	troban	_	VERB	_	_	0	root	_	_
+12	los	_	PRON	_	_	11	obj	_	_
+13	adromitz	_	VERB	_	_	11	xcomp	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	11	punct	_	_
+15	l'	_	DET	_	_	16	det	_	SpaceAfter=No
+16	un	_	PRON	_	_	11	dislocated	_	_
+17	maas	_	NOUN	_	_	16	nmod	_	_
+18	barrades	_	ADJ	_	_	17	amod	_	_
+19	et	_	CCONJ	_	_	21	cc	_	_
+20	l'	_	DET	_	_	21	det	_	SpaceAfter=No
+21	autre	_	PRON	_	_	16	conj	_	_
+22	las	_	DET	_	_	23	det	_	_
+23	maas	_	NOUN	_	_	21	nmod	_	_
+24	ubertes	_	ADJ	_	_	23	amod	_	SpaceAfter=No
+25	;	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_3_1_4
+# len = 12
+# text = et bengons s'en ab lo qui ave las maas ubertes.
+1	et	_	CCONJ	_	_	2	cc	_	_
+2	bengons	_	VERB	_	_	0	root	_	_
+3	s'	_	PRON	_	_	2	expl	_	SpaceAfter=No
+4	en	_	PRON	_	_	2	obl	_	_
+5	ab	_	ADP	_	_	6	case	_	_
+6	lo	_	PRON	_	_	2	obl	_	_
+7	qui	_	PRON	_	_	8	nsubj	_	_
+8	ave	_	VERB	_	_	6	acl:relcl	_	_
+9	las	_	DET	_	_	10	det	_	_
+10	maas	_	NOUN	_	_	8	obj	_	_
+11	ubertes	_	ADJ	_	_	10	amod	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_4_1_1
+# len = 57
+# text = Conegude cause sie a totz que Mossen Gaston, vescomte de Bearn, en l'an de Nostre Senhor .M.II.LXXXVIII.LXXXVIII., Sans, avesque de Lescar et En Bernad, avesque d'Oloron, en plene cort au casteg de Pau, davan totz los baroos de Bearn renovan las costumes per lors antecessors establides.
+1	Conegude	_	VERB	_	_	0	root	_	_
+2	cause	_	NOUN	_	_	1	nsubj	_	_
+3	sie	_	AUX	_	_	1	aux:pass	_	_
+4	a	_	ADP	_	_	5	case	_	_
+5	totz	_	PRON	_	_	1	obl	_	_
+6	que	_	SCONJ	_	_	50	mark	_	_
+7	Mossen	_	NOUN	_	_	50	nsubj	_	_
+8	Gaston	_	PROPN	_	_	7	flat	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	vescomte	_	NOUN	_	_	7	appos	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	Bearn	_	PROPN	_	_	10	nmod	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	7	punct	_	_
+14	en	_	ADP	_	_	16	case	_	_
+15	l'	_	DET	_	_	16	det	_	SpaceAfter=No
+16	an	_	NOUN	_	_	50	obl	_	_
+17	de	_	ADP	_	_	19	case	_	_
+18	Nostre	_	DET	_	_	19	det	_	_
+19	Senhor	_	PROPN	_	_	16	nmod	_	_
+20	.M.II.LXXXVIII.LXXXVIII.	_	NUM	_	_	16	nummod	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	16	punct	_	_
+22	Sans	_	NOUN	_	_	7	conj	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	22	punct	_	_
+24	avesque	_	NOUN	_	_	22	appos	_	_
+25	de	_	ADP	_	_	26	case	_	_
+26	Lescar	_	PROPN	_	_	24	nmod	_	_
+27	et	_	CCONJ	_	_	28	cc	_	_
+28	En	_	NOUN	_	_	7	conj	_	_
+29	Bernad	_	PROPN	_	_	28	flat	_	SpaceAfter=No
+30	,	_	PUNCT	_	_	28	punct	_	_
+31	avesque	_	NOUN	_	_	28	appos	_	_
+32	d'	_	ADP	_	_	33	case	_	SpaceAfter=No
+33	Oloron	_	PROPN	_	_	31	nmod	_	SpaceAfter=No
+34	,	_	PUNCT	_	_	28	punct	_	_
+35	en	_	ADP	_	_	37	case	_	_
+36	plene	_	ADJ	_	_	37	amod	_	_
+37	cort	_	NOUN	_	_	50	obl	_	_
+38-39	au	_	_	_	_	_	_	_	_
+38	a-	a-	ADP	_	_	40	case	_	_
+39	-lo	-lo	DET	_	_	40	det	_	_
+40	casteg	_	NOUN	_	_	50	obl	_	_
+41	de	_	ADP	_	_	42	case	_	_
+42	Pau	_	PROPN	_	_	40	nmod	_	SpaceAfter=No
+43	,	_	PUNCT	_	_	40	punct	_	_
+44	davan	_	ADP	_	_	47	case	_	_
+45	totz	_	DET	_	_	47	det	_	_
+46	los	_	DET	_	_	47	det	_	_
+47	baroos	_	NOUN	_	_	50	obl	_	_
+48	de	_	ADP	_	_	49	case	_	_
+49	Bearn	_	PROPN	_	_	47	nmod	_	_
+50	renovan	_	VERB	_	_	2	acl	_	_
+51	las	_	DET	_	_	52	det	_	_
+52	costumes	_	NOUN	_	_	50	obj	_	_
+53	per	_	ADP	_	_	55	case	_	_
+54	lors	_	DET	_	_	55	det	_	_
+55	antecessors	_	NOUN	_	_	56	obl	_	_
+56	establides	_	VERB	_	_	52	acl	_	SpaceAfter=No
+57	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_5_1_1
+# len = 49
+# text = Prumeramentz es estat establit que, quant lo senhor entrara en pocession de la senhorie de Bearn, que jure aus baroos et a tot la cort de Bearn que eg los sera fideu senhor et que judyara dreytureramentz ab lor et que no los fara prejudici.
+1	Prumeramentz	_	ADV	_	_	4	advmod	_	_
+2	es	_	AUX	_	_	4	aux:pass	_	_
+3	estat	_	AUX	_	_	4	aux:pass	_	_
+4	establit	_	VERB	_	_	0	root	_	_
+5	que	_	SCONJ	_	_	20	mark	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	quant	_	SCONJ	_	_	10	mark	_	_
+8	lo	_	DET	_	_	9	det	_	_
+9	senhor	_	NOUN	_	_	10	nsubj	_	_
+10	entrara	_	VERB	_	_	20	advcl	_	_
+11	en	_	ADP	_	_	12	case	_	_
+12	pocession	_	NOUN	_	_	10	obl	_	_
+13	de	_	ADP	_	_	15	case	_	_
+14	la	_	DET	_	_	15	det	_	_
+15	senhorie	_	NOUN	_	_	12	nmod	_	_
+16	de	_	ADP	_	_	17	case	_	_
+17	Bearn	_	PROPN	_	_	15	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	10	punct	_	_
+19	que	_	SCONJ	_	_	20	mark	_	_
+20	jure	_	VERB	_	_	4	ccomp	_	_
+21-22	aus	_	_	_	_	_	_	_	_
+21	a-	a-	ADP	_	_	23	case	_	_
+22	-los	-los	DET	_	_	23	det	_	_
+23	baroos	_	NOUN	_	_	20	obl	_	_
+24	et	_	CCONJ	_	_	28	cc	_	_
+25	a	_	ADP	_	_	28	case	_	_
+26	tot	_	DET	_	_	28	det	_	_
+27	la	_	DET	_	_	28	det	_	_
+28	cort	_	NOUN	_	_	23	conj	_	_
+29	de	_	ADP	_	_	30	case	_	_
+30	Bearn	_	PROPN	_	_	28	nmod	_	_
+31	que	_	SCONJ	_	_	36	mark	_	_
+32	eg	_	PRON	_	_	36	nsubj	_	_
+33	los	_	PRON	_	_	36	iobj	_	_
+34	sera	_	AUX	_	_	36	cop	_	_
+35	fideu	_	ADJ	_	_	36	amod	_	_
+36	senhor	_	NOUN	_	_	20	ccomp	_	_
+37	et	_	CCONJ	_	_	39	cc	_	_
+38	que	_	SCONJ	_	_	39	mark	_	_
+39	judyara	_	VERB	_	_	36	conj	_	_
+40	dreytureramentz	_	ADV	_	_	39	advmod	_	_
+41	ab	_	ADP	_	_	42	case	_	_
+42	lor	_	PRON	_	_	39	obl	_	_
+43	et	_	CCONJ	_	_	47	cc	_	_
+44	que	_	SCONJ	_	_	47	mark	_	_
+45	no	_	ADV	_	_	47	advmod	_	_
+46	los	_	PRON	_	_	47	iobj	_	_
+47	fara	_	VERB	_	_	36	conj	_	_
+48	prejudici	_	NOUN	_	_	47	obj	_	SpaceAfter=No
+49	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_5_1_2
+# len = 24
+# text = Et apres, egs deven jurar a luy que lo seran fideus et que-u thieran en senhor per judyament de la cort.
+1	Et	_	CCONJ	_	_	5	cc	_	_
+2	apres	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	egs	_	PRON	_	_	5	nsubj	_	_
+5	deven	_	VERB	_	_	0	root	_	_
+6	jurar	_	VERB	_	_	5	xcomp	_	_
+7	a	_	ADP	_	_	8	case	_	_
+8	luy	_	PRON	_	_	6	obl	_	_
+9	que	_	SCONJ	_	_	12	mark	_	_
+10	lo	_	PRON	_	_	12	iobj	_	_
+11	seran	_	AUX	_	_	12	cop	_	_
+12	fideus	_	ADJ	_	_	6	ccomp	_	_
+13	et	_	CCONJ	_	_	16	cc	_	_
+14-15	que-u	_	_	_	_	_	_	_	_
+14	que-	_	SCONJ	_	_	16	mark	_	_
+15	-u	_	PRON	_	_	16	obj	_	_
+16	thieran	_	VERB	_	_	12	conj	_	_
+17	en	_	ADP	_	_	18	case	_	_
+18	senhor	_	NOUN	_	_	16	obl	_	_
+19	per	_	ADP	_	_	20	case	_	_
+20	judyament	_	NOUN	_	_	16	obl	_	_
+21	de	_	ADP	_	_	23	case	_	_
+22	la	_	DET	_	_	23	det	_	_
+23	cort	_	NOUN	_	_	20	nmod	_	SpaceAfter=No
+24	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_6_1_1
+# len = 42
+# text = E asso es assaber que lo senhor ha sober los sons sosmes man de cort, so es mayor, et de place, so es cort particular, et que deus assignar cort per nau dies et place per tres.
+1	E	_	CCONJ	_	_	3	cc	_	_
+2	asso	_	PRON	_	_	3	nsubj	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	assaber	_	VERB	_	_	3	xcomp	_	_
+5	que	_	SCONJ	_	_	8	mark	_	_
+6	lo	_	DET	_	_	7	det	_	_
+7	senhor	_	NOUN	_	_	8	nsubj	_	_
+8	ha	_	VERB	_	_	4	ccomp	_	_
+9	sober	_	ADP	_	_	12	case	_	_
+10	los	_	DET	_	_	12	det	_	_
+11	sons	_	ADJ	_	_	12	amod	_	_
+12	sosmes	_	NOUN	_	_	8	obl	_	_
+13	man	_	NOUN	_	_	8	obj	_	_
+14	de	_	ADP	_	_	15	case	_	_
+15	cort	_	NOUN	_	_	13	nmod	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	so	_	PRON	_	ExtPos=ADV	19	advmod	_	_
+18	es	_	AUX	_	_	17	fixed	_	_
+19	mayor	_	ADJ	_	_	15	amod	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	13	punct	_	_
+21	et	_	CCONJ	_	_	23	cc	_	_
+22	de	_	ADP	_	_	23	case	_	_
+23	place	_	NOUN	_	_	13	conj	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	23	punct	_	_
+25	so	_	PRON	_	ExtPos=ADV	27	advmod	_	_
+26	es	_	AUX	_	_	25	fixed	_	_
+27	cort	_	NOUN	_	_	23	appos	_	_
+28	particular	_	ADJ	_	_	27	amod	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	8	punct	_	_
+30	et	_	CCONJ	_	_	32	cc	_	_
+31	que	_	SCONJ	_	_	32	mark	_	_
+32	deus	_	VERB	_	_	8	conj	_	_
+33	assignar	_	VERB	_	_	32	xcomp	_	_
+34	cort	_	NOUN	_	_	33	obj	_	_
+35	per	_	ADP	_	_	37	case	_	_
+36	nau	_	NUM	_	_	37	nummod	_	_
+37	dies	_	NOUN	_	_	34	nmod	_	_
+38	et	_	CCONJ	_	_	39	cc	_	_
+39	place	_	NOUN	_	_	34	conj	_	_
+40	per	_	ADP	_	_	41	case	_	_
+41	tres	_	NUM	_	_	39	nmod	_	SpaceAfter=No
+42	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_6_2_1
+# len = 34
+# text = En auguns fors, place es aperade placitum, et es cort petite, simple et particular, laquoal lo senhor o sson bayle o messadge mane et deu manar per tres jorns.
+1	En	_	ADP	_	_	3	case	_	_
+2	auguns	_	DET	_	_	3	det	_	_
+3	fors	_	NOUN	_	_	7	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	place	_	NOUN	_	_	7	nsubj	_	_
+6	es	_	AUX	_	_	7	aux:pass	_	_
+7	aperade	_	VERB	_	_	0	root	_	_
+8	placitum	_	NOUN	_	_	7	xcomp	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	et	_	CCONJ	_	_	12	cc	_	_
+11	es	_	AUX	_	_	12	cop	_	_
+12	cort	_	NOUN	_	_	7	conj	_	_
+13	petite	_	ADJ	_	_	12	amod	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	13	punct	_	_
+15	simple	_	ADJ	_	_	13	conj	_	_
+16	et	_	CCONJ	_	_	17	cc	_	_
+17	particular	_	ADJ	_	_	13	conj	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	12	punct	_	_
+19	laquoal	_	PRON	_	_	27	obj	_	_
+20	lo	_	DET	_	_	21	det	_	_
+21	senhor	_	NOUN	_	_	27	nsubj	_	_
+22	o	_	CCONJ	_	_	24	cc	_	_
+23	sson	_	DET	_	_	24	det	_	_
+24	bayle	_	NOUN	_	_	21	conj	_	_
+25	o	_	CCONJ	_	_	26	cc	_	_
+26	messadge	_	NOUN	_	_	24	conj	_	_
+27	mane	_	VERB	_	_	12	acl:relcl	_	_
+28	et	_	CCONJ	_	_	29	cc	_	_
+29	deu	_	VERB	_	_	27	conj	_	_
+30	manar	_	VERB	_	_	29	xcomp	_	_
+31	per	_	ADP	_	_	33	case	_	_
+32	tres	_	NUM	_	_	33	nummod	_	_
+33	jorns	_	NOUN	_	_	27	obl	_	SpaceAfter=No
+34	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_7_1_1
+# len = 37
+# text = En la cort â€” suple mayor â€” et en place â€” so es cort simple et particular â€” deu far la mession lo senhor de aquetz a coey manara ab lors companhons et ab lors cavalgadures;
+1	En	_	ADP	_	_	3	case	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	cort	_	NOUN	_	_	20	obl	_	_
+4	â€”	_	PUNCT	_	_	3	punct	_	_
+5	suple	_	ADV	_	_	6	advmod	_	_
+6	mayor	_	ADJ	_	_	3	amod	_	_
+7	â€”	_	PUNCT	_	_	3	punct	_	_
+8	et	_	CCONJ	_	_	10	cc	_	_
+9	en	_	ADP	_	_	10	case	_	_
+10	place	_	NOUN	_	_	3	conj	_	_
+11	â€”	_	PUNCT	_	_	10	punct	_	_
+12	so	_	PRON	_	ExtPos=ADV	14	advmod	_	_
+13	es	_	AUX	_	_	12	fixed	_	_
+14	cort	_	NOUN	_	_	10	appos	_	_
+15	simple	_	ADJ	_	_	14	amod	_	_
+16	et	_	CCONJ	_	_	17	cc	_	_
+17	particular	_	ADJ	_	_	15	conj	_	_
+18	â€”	_	PUNCT	_	_	10	punct	_	_
+19	deu	_	VERB	_	_	0	root	_	_
+20	far	_	VERB	_	_	19	xcomp	_	_
+21	la	_	DET	_	_	22	det	_	_
+22	mession	_	NOUN	_	_	20	obj	_	_
+23	lo	_	DET	_	_	24	det	_	_
+24	senhor	_	NOUN	_	_	19	nsubj	_	_
+25	de	_	ADP	_	_	26	case	_	_
+26	aquetz	_	PRON	_	_	20	obl	_	_
+27	a	_	ADP	_	_	28	case	_	_
+28	coey	_	PRON	_	_	29	obl	_	_
+29	manara	_	VERB	_	_	26	acl:relcl	_	_
+30	ab	_	ADP	_	_	32	case	_	_
+31	lors	_	DET	_	_	32	det	_	_
+32	companhons	_	NOUN	_	_	29	obl	_	_
+33	et	_	CCONJ	_	_	36	cc	_	_
+34	ab	_	ADP	_	_	36	case	_	_
+35	lors	_	DET	_	_	36	det	_	_
+36	cavalgadures	_	NOUN	_	_	32	conj	_	SpaceAfter=No
+37	;	_	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_7_1_2
+# len = 37
+# text = exementz deu far ad aquetz qui per injuries qui hom los ha feytes bieran a la cort rencurantz, si mes y an ad estar de ung die a ffaute que no los aye feyt dret.
+1	exementz	_	ADV	_	_	2	advmod	_	_
+2	deu	_	VERB	_	_	0	root	_	_
+3	far	_	VERB	_	_	2	xcomp	_	_
+4	ad	_	ADP	_	_	5	case	_	_
+5	aquetz	_	PRON	_	_	3	obl	_	_
+6	qui	_	PRON	_	_	14	nsubj	_	_
+7	per	_	ADP	_	_	8	case	_	_
+8	injuries	_	NOUN	_	_	14	obl	_	_
+9	qui	_	PRON	_	_	13	obj	_	_
+10	hom	_	PRON	_	_	13	nsubj	_	_
+11	los	_	PRON	_	_	13	iobj	_	_
+12	ha	_	AUX	_	_	13	aux	_	_
+13	feytes	_	VERB	_	_	8	acl:relcl	_	_
+14	bieran	_	VERB	_	_	5	acl:relcl	_	_
+15	a	_	ADP	_	_	17	case	_	_
+16	la	_	DET	_	_	17	det	_	_
+17	cort	_	NOUN	_	_	18	obl	_	_
+18	rencurantz	_	VERB	_	_	14	xcomp	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	14	punct	_	_
+20	si	_	SCONJ	_	_	23	mark	_	_
+21	mes	_	ADV	_	_	25	advmod	_	_
+22	y	_	PRON	_	_	25	obl	_	_
+23	an	_	VERB	_	_	2	advcl	_	_
+24	ad	_	ADP	_	_	25	mark	_	_
+25	estar	_	VERB	_	_	23	xcomp	_	_
+26	de	_	ADP	_	_	28	case	_	_
+27	ung	_	DET	_	_	28	det	_	_
+28	die	_	NOUN	_	_	21	nmod	_	_
+29	a	_	ADP	_	ExtPos=SCONJ	35	mark	_	_
+30	ffaute	_	NOUN	_	_	29	fixed	_	_
+31	que	_	SCONJ	_	_	29	fixed	_	_
+32	no	_	ADV	_	_	35	advmod	_	_
+33	los	_	PRON	_	_	35	iobj	_	_
+34	aye	_	AUX	_	_	35	aux	_	_
+35	feyt	_	VERB	_	_	23	advcl	_	_
+36	dret	_	NOUN	_	_	35	obj	_	SpaceAfter=No
+37	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_8_1_1
+# len = 17
+# text = Es estat establit que totz los qui bieran a ssa cort bienquen segurs de totz enemicx;
+1	Es	_	AUX	_	_	3	aux:pass	_	_
+2	estat	_	AUX	_	_	3	aux:pass	_	_
+3	establit	_	VERB	_	_	0	root	_	_
+4	que	_	SCONJ	_	_	12	mark	_	_
+5	totz	_	DET	_	_	6	det	_	_
+6	los	_	PRON	_	_	12	nsubj	_	_
+7	qui	_	PRON	_	_	8	nsubj	_	_
+8	bieran	_	VERB	_	_	6	acl:relcl	_	_
+9	a	_	ADP	_	_	11	case	_	_
+10	ssa	_	DET	_	_	11	det	_	_
+11	cort	_	NOUN	_	_	8	obl	_	_
+12	bienquen	_	VERB	_	_	3	ccomp	_	_
+13	segurs	_	ADJ	_	_	12	xcomp	_	_
+14	de	_	ADP	_	_	16	case	_	_
+15	totz	_	DET	_	_	16	det	_	_
+16	enemicx	_	NOUN	_	_	13	obl	_	SpaceAfter=No
+17	;	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_8_1_2
+# len = 48
+# text = et si per abenture ad augun ere feyte injurie de quetz qui bieran a la cort o s'en tornaran, aqueg malfaytor no deu estar audit et, sens clamor, per lo senhor et per la cort a integre restitution deu dampnadge sie destret.
+1	et	_	CCONJ	_	_	25	cc	_	_
+2	si	_	SCONJ	_	_	8	mark	_	_
+3	per	_	ADP	_	_	4	case	_	_
+4	abenture	_	NOUN	_	_	8	obl	_	_
+5	ad	_	ADP	_	_	6	case	_	_
+6	augun	_	PRON	_	_	8	obl	_	_
+7	ere	_	AUX	_	_	8	aux:pass	_	_
+8	feyte	_	VERB	_	_	25	advcl	_	_
+9	injurie	_	NOUN	_	_	8	nsubj	_	_
+10	de	_	ADP	_	_	11	case	_	_
+11	quetz	_	PRON	_	_	8	obl	_	_
+12	qui	_	PRON	_	_	13	nsubj	_	_
+13	bieran	_	VERB	_	_	11	acl:relcl	_	_
+14	a	_	ADP	_	_	16	case	_	_
+15	la	_	DET	_	_	16	det	_	_
+16	cort	_	NOUN	_	_	13	obl	_	_
+17	o	_	CCONJ	_	_	20	cc	_	_
+18	s'	_	PRON	_	_	20	expl	_	SpaceAfter=No
+19	en	_	PRON	_	_	20	obl	_	_
+20	tornaran	_	VERB	_	_	13	conj	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	8	punct	_	_
+22	aqueg	_	DET	_	_	23	det	_	_
+23	malfaytor	_	NOUN	_	_	25	nsubj	_	_
+24	no	_	ADV	_	_	25	advmod	_	_
+25	deu	_	VERB	_	_	0	root	_	_
+26	estar	_	VERB	_	_	25	xcomp	_	_
+27	audit	_	VERB	_	_	26	xcomp	_	_
+28	et	_	CCONJ	_	_	47	cc	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	28	punct	_	_
+30	sens	_	ADP	_	_	31	case	_	_
+31	clamor	_	NOUN	_	_	47	obl	_	SpaceAfter=No
+32	,	_	PUNCT	_	_	31	punct	_	_
+33	per	_	ADP	_	_	35	case	_	_
+34	lo	_	DET	_	_	35	det	_	_
+35	senhor	_	NOUN	_	_	47	obl	_	_
+36	et	_	CCONJ	_	_	39	cc	_	_
+37	per	_	ADP	_	_	39	case	_	_
+38	la	_	DET	_	_	39	det	_	_
+39	cort	_	NOUN	_	_	35	conj	_	_
+40	a	_	ADP	_	_	42	case	_	_
+41	integre	_	ADJ	_	_	42	amod	_	_
+42	restitution	_	NOUN	_	_	47	obl	_	_
+43-44	deu	_	_	_	_	_	_	_	_
+43	de-	de-	ADP	_	_	45	case	_	_
+44	-lo	-lo	DET	_	_	45	det	_	_
+45	dampnadge	_	NOUN	_	_	42	nmod	_	_
+46	sie	_	AUX	_	_	47	aux:pass	_	_
+47	destret	_	VERB	_	_	25	conj	_	SpaceAfter=No
+48	.	_	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_8_1_3
+# len = 40
+# text = Exementz, si, a degun homi estan en cort o retornan s'en, augune cause de ssa mayson de lor moble l'ere estremade, integrementz lo sie feyte restitution entro que sien tornatz a lor mayson.
+1	Exementz	_	ADV	_	_	31	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	si	_	SCONJ	_	_	26	mark	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	a	_	ADP	_	_	7	case	_	_
+6	degun	_	DET	_	_	7	det	_	_
+7	homi	_	NOUN	_	_	26	obl	_	_
+8	estan	_	VERB	_	_	7	acl	_	_
+9	en	_	ADP	_	_	10	case	_	_
+10	cort	_	NOUN	_	_	8	obl	_	_
+11	o	_	CCONJ	_	_	12	cc	_	_
+12	retornan	_	VERB	_	_	8	conj	_	_
+13	s'	_	PRON	_	_	12	expl	_	SpaceAfter=No
+14	en	_	PRON	_	_	12	obl	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	8	punct	_	_
+16	augune	_	DET	_	_	17	det	_	_
+17	cause	_	NOUN	_	_	26	nsubj	_	_
+18	de	_	ADP	_	_	20	case	_	_
+19	ssa	_	DET	_	_	20	det	_	_
+20	mayson	_	NOUN	_	_	17	nmod	_	_
+21	de	_	ADP	_	_	23	case	_	_
+22	lor	_	DET	_	_	23	det	_	_
+23	moble	_	NOUN	_	_	20	conj	_	_
+24	l'	_	PRON	_	_	26	iobj	_	SpaceAfter=No
+25	ere	_	AUX	_	_	26	aux:pass	_	_
+26	estremade	_	VERB	_	_	31	advcl	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	26	punct	_	_
+28	integrementz	_	ADV	_	_	31	advmod	_	_
+29	lo	_	PRON	_	_	31	iobj	_	_
+30	sie	_	AUX	_	_	31	aux:pass	_	_
+31	feyte	_	VERB	_	_	0	root	_	_
+32	restitution	_	NOUN	_	_	31	nsubj	_	_
+33	entro	_	ADP	_	ExtPos=SCONJ	36	mark	_	_
+34	que	_	SCONJ	_	_	33	fixed	_	_
+35	sien	_	AUX	_	_	36	aux	_	_
+36	tornatz	_	VERB	_	_	31	advcl	_	_
+37	a	_	ADP	_	_	39	case	_	_
+38	lor	_	DET	_	_	39	det	_	_
+39	mayson	_	NOUN	_	_	36	obl	_	SpaceAfter=No
+40	.	_	PUNCT	_	_	31	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_9_1_1
+# len = 41
+# text = Item, es estat establit que, si en qualque loc auguns fore la soe terre aven goerre, si lo senhor a la une partide vole ajudar, que mandi cort et que ac mustre a tote la cort;
+1	Item	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	es	_	AUX	_	_	5	aux:pass	_	_
+4	estat	_	AUX	_	_	5	aux:pass	_	_
+5	establit	_	VERB	_	_	0	root	_	_
+6	que	_	SCONJ	_	_	31	mark	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	si	_	SCONJ	_	_	17	mark	_	_
+9	en	_	ADP	_	_	11	case	_	_
+10	qualque	_	DET	_	_	11	det	_	_
+11	loc	_	NOUN	_	_	17	obl	_	_
+12	auguns	_	ADJ	_	_	11	amod	_	_
+13	fore	_	ADP	_	_	16	case	_	_
+14	la	_	DET	_	_	16	det	_	_
+15	soe	_	ADJ	_	_	16	amod	_	_
+16	terre	_	NOUN	_	_	17	obl	_	_
+17	aven	_	VERB	_	_	31	advcl	_	_
+18	goerre	_	NOUN	_	_	17	obj	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	17	punct	_	_
+20	si	_	SCONJ	_	_	27	mark	_	_
+21	lo	_	DET	_	_	22	det	_	_
+22	senhor	_	NOUN	_	_	27	nsubj	_	_
+23	a	_	ADP	_	_	26	case	_	_
+24	la	_	DET	_	_	26	det	_	_
+25	une	_	NUM	_	_	26	nummod	_	_
+26	partide	_	NOUN	_	_	28	obl	_	_
+27	vole	_	VERB	_	_	31	advcl	_	_
+28	ajudar	_	VERB	_	_	27	xcomp	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	27	punct	_	_
+30	que	_	SCONJ	_	_	31	mark	_	_
+31	mandi	_	VERB	_	_	5	ccomp	_	_
+32	cort	_	NOUN	_	_	31	obj	_	_
+33	et	_	CCONJ	_	_	36	cc	_	_
+34	que	_	SCONJ	_	_	36	mark	_	_
+35	ac	_	PRON	_	_	36	obj	_	_
+36	mustre	_	VERB	_	_	31	conj	_	_
+37	a	_	ADP	_	_	40	case	_	_
+38	tote	_	DET	_	_	40	det	_	_
+39	la	_	DET	_	_	40	det	_	_
+40	cort	_	NOUN	_	_	36	obl	_	SpaceAfter=No
+41	;	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_9_1_2
+# len = 19
+# text = et, de qui avant, nulhs hom de ssa terre no deu aiudar a l'autre partide.
+1	et	_	CCONJ	_	_	13	cc	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	de	_	ADP	_	_	4	case	_	_
+4	qui	_	ADV	_	_	13	obl	_	_
+5	avant	_	ADV	_	_	4	advmod	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	nulhs	_	DET	_	_	8	det	_	_
+8	hom	_	NOUN	_	_	13	nsubj	_	_
+9	de	_	ADP	_	_	11	case	_	_
+10	ssa	_	DET	_	_	11	det	_	_
+11	terre	_	NOUN	_	_	8	nmod	_	_
+12	no	_	ADV	_	_	13	advmod	_	_
+13	deu	_	VERB	_	_	0	root	_	_
+14	aiudar	_	VERB	_	_	13	xcomp	_	_
+15	a	_	ADP	_	_	18	case	_	_
+16	l'	_	DET	_	_	18	det	_	SpaceAfter=No
+17	autre	_	ADJ	_	_	18	amod	_	_
+18	partide	_	NOUN	_	_	14	obl	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_9_1_3
+# len = 22
+# text = Empero, si auguns de sons homis prumer ajudaben a l'autre partide, no deu lo senhor ad aqueg arthier.
+1	Empero	_	ADV	_	_	16	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	si	_	SCONJ	_	_	9	mark	_	_
+4	auguns	_	PRON	_	_	9	nsubj	_	_
+5	de	_	ADP	_	_	7	case	_	_
+6	sons	_	DET	_	_	7	det	_	_
+7	homis	_	NOUN	_	_	4	nmod	_	_
+8	prumer	_	ADV	_	_	9	advmod	_	_
+9	ajudaben	_	VERB	_	_	16	advcl	_	_
+10	a	_	ADP	_	_	13	case	_	_
+11	l'	_	DET	_	_	13	det	_	SpaceAfter=No
+12	autre	_	ADJ	_	_	13	amod	_	_
+13	partide	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	9	punct	_	_
+15	no	_	ADV	_	_	16	advmod	_	_
+16	deu	_	VERB	_	_	0	root	_	_
+17	lo	_	DET	_	_	18	det	_	_
+18	senhor	_	NOUN	_	_	16	nsubj	_	_
+19	ad	_	ADP	_	_	20	case	_	_
+20	aqueg	_	PRON	_	_	21	obl	_	_
+21	arthier	_	VERB	_	_	16	xcomp	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_9_1_4
+# len = 63
+# text = Si barons fore de la terre de Bearn aven goerre et auguns de -ssa terre volen ajudar a la une partide et lo vescomte ave patz ab lor per tres dies davant que mau y fassen ac deu mustrar au senhor, et apres, quant lo mau aura feyt, no deu entrar en sa terre per tres dies apres.
+1	Si	_	SCONJ	_	_	9	mark	_	_
+2	barons	_	NOUN	_	_	9	nsubj	_	_
+3	fore	_	ADV	_	ExtPos=ADP	6	case	_	_
+4	de	_	ADP	_	_	3	fixed	_	_
+5	la	_	DET	_	_	6	det	_	_
+6	terre	_	NOUN	_	_	9	obl	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Bearn	_	PROPN	_	_	6	nmod	_	_
+9	aven	_	VERB	_	_	38	advcl	_	_
+10	goerre	_	NOUN	_	_	9	obj	_	_
+11	et	_	CCONJ	_	_	16	cc	_	_
+12	auguns	_	PRON	_	_	16	nsubj	_	_
+13	de	_	ADP	_	_	15	case	_	_
+14	-ssa	_	DET	_	_	15	det	_	_
+15	terre	_	NOUN	_	_	12	nmod	_	_
+16	volen	_	VERB	_	_	9	conj	_	_
+17	ajudar	_	VERB	_	_	16	xcomp	_	_
+18	a	_	ADP	_	_	21	case	_	_
+19	la	_	DET	_	_	21	det	_	_
+20	une	_	NUM	_	_	21	nummod	_	_
+21	partide	_	NOUN	_	_	17	obl	_	_
+22	et	_	CCONJ	_	_	25	cc	_	_
+23	lo	_	DET	_	_	24	det	_	_
+24	vescomte	_	NOUN	_	_	25	nsubj	_	_
+25	ave	_	VERB	_	_	9	conj	_	_
+26	patz	_	NOUN	_	_	25	obj	_	_
+27	ab	_	ADP	_	_	28	case	_	_
+28	lor	_	PRON	_	_	25	obl	_	_
+29	per	_	ADP	_	_	31	case	_	_
+30	tres	_	NUM	_	_	31	nummod	_	_
+31	dies	_	NOUN	_	_	25	obl	_	_
+32	davant	_	ADV	_	ExtPos=SCONJ	36	mark	_	_
+33	que	_	SCONJ	_	_	32	fixed	_	_
+34	mau	_	NOUN	_	_	36	obj	_	_
+35	y	_	PRON	_	_	36	obl	_	_
+36	fassen	_	VERB	_	_	25	advcl	_	_
+37	ac	_	PRON	_	_	39	obj	_	_
+38	deu	_	VERB	_	_	0	root	_	_
+39	mustrar	_	VERB	_	_	38	xcomp	_	_
+40-41	au	_	_	_	_	_	_	_	_
+40	a-	a-	ADP	_	_	42	case	_	_
+41	-lo	-lo	DET	_	_	42	det	_	_
+42	senhor	_	NOUN	_	_	39	obl	_	SpaceAfter=No
+43	,	_	PUNCT	_	_	38	punct	_	_
+44	et	_	CCONJ	_	_	54	cc	_	_
+45	apres	_	ADV	_	_	54	advmod	_	SpaceAfter=No
+46	,	_	PUNCT	_	_	45	punct	_	_
+47	quant	_	SCONJ	_	_	51	mark	_	_
+48	lo	_	DET	_	_	49	det	_	_
+49	mau	_	NOUN	_	_	51	obj	_	_
+50	aura	_	AUX	_	_	51	aux	_	_
+51	feyt	_	VERB	_	_	54	advcl	_	SpaceAfter=No
+52	,	_	PUNCT	_	_	51	punct	_	_
+53	no	_	ADV	_	_	54	advmod	_	_
+54	deu	_	VERB	_	_	38	conj	_	_
+55	entrar	_	VERB	_	_	54	xcomp	_	_
+56	en	_	ADP	_	_	58	case	_	_
+57	sa	_	DET	_	_	58	det	_	_
+58	terre	_	NOUN	_	_	55	obl	_	_
+59	per	_	ADP	_	_	61	case	_	_
+60	tres	_	NUM	_	_	61	nummod	_	_
+61	dies	_	NOUN	_	_	55	obl	_	_
+62	apres	_	ADV	_	_	61	advmod	_	SpaceAfter=No
+63	.	_	PUNCT	_	_	38	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_10_1_1
+# len = 34
+# text = D'autre part, si augun homi embadive la soe cort, .LXVI. ss. de Morlass ne deu aver lo senhor; exementz ad aqueg qui lo camii o la carrere afforade imbadira.
+1	D'	_	ADP	_	_	3	case	_	SpaceAfter=No
+2	autre	_	DET	_	_	3	det	_	_
+3	part	_	NOUN	_	_	18	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	si	_	SCONJ	_	_	8	mark	_	_
+6	augun	_	DET	_	_	7	det	_	_
+7	homi	_	NOUN	_	_	8	nsubj	_	_
+8	embadive	_	VERB	_	_	18	advcl	_	_
+9	la	_	DET	_	_	11	det	_	_
+10	soe	_	ADJ	_	_	11	amod	_	_
+11	cort	_	NOUN	_	_	8	obj	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	8	punct	_	_
+13	.LXVI.	_	NUM	_	_	14	nummod	_	_
+14	ss.	_	NOUN	_	_	19	obj	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	Morlass	_	PROPN	_	_	14	nmod	_	_
+17	ne	_	PRON	_	_	19	obl	_	_
+18	deu	_	VERB	_	_	0	root	_	_
+19	aver	_	VERB	_	_	18	xcomp	_	_
+20	lo	_	DET	_	_	21	det	_	_
+21	senhor	_	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+22	;	_	PUNCT	_	_	18	punct	_	_
+23	exementz	_	ADV	_	_	25	advmod	_	_
+24	ad	_	ADP	_	_	25	case	_	_
+25	aqueg	_	PRON	_	_	18	conj	_	_
+26	qui	_	PRON	_	_	33	nsubj	_	_
+27	lo	_	DET	_	_	28	det	_	_
+28	camii	_	NOUN	_	_	33	obj	_	_
+29	o	_	CCONJ	_	_	31	cc	_	_
+30	la	_	DET	_	_	31	det	_	_
+31	carrere	_	NOUN	_	_	28	conj	_	_
+32	afforade	_	ADJ	_	_	31	amod	_	_
+33	imbadira	_	VERB	_	_	25	acl:relcl	_	SpaceAfter=No
+34	.	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_11_1_1
+# len = 54
+# text = Item es estat judyat a Morlaas per la cort sober lo pleyt de Berard d'Abos et d'En Guilhem Ramon d'Arbuus que si jo ey cort, de tote ma companhe et de tots mons homis fare dret en ma maa, si doncx en goerre garreyade no aven feyt mau,
+1	Item	_	ADV	_	_	4	advmod	_	_
+2	es	_	AUX	_	_	4	aux:pass	_	_
+3	estat	_	AUX	_	_	4	aux:pass	_	_
+4	judyat	_	VERB	_	_	0	root	_	_
+5	a	_	ADP	_	_	6	case	_	_
+6	Morlaas	_	PROPN	_	_	4	obl	_	_
+7	per	_	ADP	_	_	9	case	_	_
+8	la	_	DET	_	_	9	det	_	_
+9	cort	_	NOUN	_	_	4	obl	_	_
+10	sober	_	ADP	_	_	12	case	_	_
+11	lo	_	DET	_	_	12	det	_	_
+12	pleyt	_	NOUN	_	_	4	obl	_	_
+13	de	_	ADP	_	_	14	case	_	_
+14	Berard	_	PROPN	_	_	12	nmod	_	_
+15	d'	_	ADP	_	_	16	case	_	SpaceAfter=No
+16	Abos	_	PROPN	_	_	14	nmod	_	_
+17	et	_	CCONJ	_	_	19	cc	_	_
+18	d'	_	ADP	_	_	19	case	_	SpaceAfter=No
+19	En	_	NOUN	_	_	14	conj	_	_
+20	Guilhem	_	PROPN	_	_	19	flat	_	_
+21	Ramon	_	PROPN	_	_	20	flat	_	_
+22	d'	_	ADP	_	_	23	case	_	SpaceAfter=No
+23	Arbuus	_	PROPN	_	_	20	nmod	_	_
+24	que	_	SCONJ	_	_	39	mark	_	_
+25	si	_	SCONJ	_	_	27	mark	_	_
+26	jo	_	PRON	_	_	27	nsubj	_	_
+27	ey	_	VERB	_	_	39	advcl	_	_
+28	cort	_	NOUN	_	_	27	obj	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	27	punct	_	_
+30	de	_	ADP	_	_	33	case	_	_
+31	tote	_	DET	_	_	33	det	_	_
+32	ma	_	DET	_	_	33	det	_	_
+33	companhe	_	NOUN	_	_	39	obl	_	_
+34	et	_	CCONJ	_	_	38	cc	_	_
+35	de	_	ADP	_	_	38	case	_	_
+36	tots	_	DET	_	_	38	det	_	_
+37	mons	_	DET	_	_	38	det	_	_
+38	homis	_	NOUN	_	_	33	conj	_	_
+39	fare	_	VERB	_	_	4	ccomp	_	_
+40	dret	_	NOUN	_	_	39	obj	_	_
+41	en	_	ADP	_	_	43	case	_	_
+42	ma	_	DET	_	_	43	det	_	_
+43	maa	_	NOUN	_	_	39	obl	_	SpaceAfter=No
+44	,	_	PUNCT	_	_	39	punct	_	_
+45	si	_	SCONJ	_	_	52	mark	_	_
+46	doncx	_	ADV	_	_	52	advmod	_	_
+47	en	_	ADP	_	_	48	case	_	_
+48	goerre	_	NOUN	_	_	52	obl	_	_
+49	garreyade	_	ADJ	_	_	48	amod	_	_
+50	no	_	ADV	_	_	52	advmod	_	_
+51	aven	_	AUX	_	_	52	aux	_	_
+52	feyt	_	VERB	_	_	39	advcl	_	_
+53	mau	_	NOUN	_	_	52	obj	_	SpaceAfter=No
+54	,	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_11_1_2
+# len = 10
+# text = car labetz ne deu far dret lo senhor mayor.
+1	car	_	CCONJ	_	_	4	cc	_	_
+2	labetz	_	ADV	_	_	4	advmod	_	_
+3	ne	_	PRON	_	_	5	obl	_	_
+4	deu	_	VERB	_	_	0	root	_	_
+5	far	_	VERB	_	_	4	xcomp	_	_
+6	dret	_	NOUN	_	_	5	obj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	4	nsubj	_	_
+9	mayor	_	ADJ	_	_	8	amod	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_12_1_1
+# len = 36
+# text = Item, qui ditz mau de jurat o juratz en cort, en cade un ha lo senhor .VI. ss. de Morlaas et la partida .III. ss., de tantz juratz cum seran estatz maudiitz.
+1	Item	_	ADV	_	_	16	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	qui	_	PRON	_	_	16	dislocated	_	_
+4	ditz	_	VERB	_	_	3	acl	_	_
+5	mau	_	NOUN	_	_	4	obj	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	jurat	_	NOUN	_	_	4	obl	_	_
+8	o	_	CCONJ	_	_	9	cc	_	_
+9	juratz	_	NOUN	_	_	7	conj	_	_
+10	en	_	ADP	_	_	11	case	_	_
+11	cort	_	NOUN	_	_	4	obl	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	4	punct	_	_
+13	en	_	ADP	_	_	15	case	_	_
+14	cade	_	DET	_	_	15	det	_	_
+15	un	_	PRON	_	_	16	obl	_	_
+16	ha	_	VERB	_	_	0	root	_	_
+17	lo	_	DET	_	_	18	det	_	_
+18	senhor	_	NOUN	_	_	16	nsubj	_	_
+19	.VI.	_	NUM	_	_	20	nummod	_	_
+20	ss.	_	NOUN	_	_	16	obj	_	_
+21	de	_	ADP	_	_	22	case	_	_
+22	Morlaas	_	PROPN	_	_	20	nmod	_	_
+23	et	_	CCONJ	_	_	27	cc	_	_
+24	la	_	DET	_	_	25	det	_	_
+25	partida	_	NOUN	_	_	27	orphan	_	_
+26	.III.	_	NUM	_	_	27	nummod	_	_
+27	ss.	_	NOUN	_	_	16	conj	_	SpaceAfter=No
+28	,	_	PUNCT	_	_	16	punct	_	_
+29	de	_	ADP	_	_	31	case	_	_
+30	tantz	_	DET	_	_	31	det	_	_
+31	juratz	_	NOUN	_	_	16	obl	_	_
+32	cum	_	SCONJ	_	_	35	mark	_	_
+33	seran	_	AUX	_	_	35	aux:pass	_	_
+34	estatz	_	AUX	_	_	35	aux:pass	_	_
+35	maudiitz	_	VERB	_	_	31	acl	_	SpaceAfter=No
+36	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_13_1_1
+# len = 14
+# text = Item, tot domenger se deu judyar per la cort deus cavers,
+1	Item	_	ADV	_	_	6	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	tot	_	DET	_	_	4	det	_	_
+4	domenger	_	NOUN	_	_	6	nsubj	_	_
+5	se	_	PRON	_	_	7	expl	_	_
+6	deu	_	VERB	_	_	0	root	_	_
+7	judyar	_	VERB	_	_	6	xcomp	_	_
+8	per	_	ADP	_	_	10	case	_	_
+9	la	_	DET	_	_	10	det	_	_
+10	cort	_	NOUN	_	_	7	obl	_	_
+11-12	deus	_	_	_	_	_	_	_	_
+11	de-	de-	ADP	_	_	13	case	_	_
+12	-los	-los	DET	_	_	13	det	_	_
+13	cavers	_	NOUN	_	_	10	nmod	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_13_1_2
+# len = 16
+# text = car aixi an acostumat, de voler deu senhor et de la cort mayor.
+1	car	_	CCONJ	_	_	3	cc	_	_
+2	aixi	_	ADV	_	_	3	advmod	_	_
+3	an	_	VERB	_	_	0	root	_	_
+4	acostumat	_	NOUN	_	_	3	obj	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	voler	_	NOUN	_	_	3	obl	_	_
+8-9	deu	_	_	_	_	_	_	_	_
+8	de-	de-	ADP	_	_	10	case	_	_
+9	-lo	-lo	DET	_	_	10	det	_	_
+10	senhor	_	NOUN	_	_	7	nmod	_	_
+11	et	_	CCONJ	_	_	14	cc	_	_
+12	de	_	ADP	_	_	14	case	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	cort	_	NOUN	_	_	10	conj	_	_
+15	mayor	_	ADJ	_	_	14	amod	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_13_1_3
+# len = 17
+# text = Empero si lo domenger ha feyt plagues o mort, d'aquero no conexeran los cavers.
+1	Empero	_	ADV	_	_	14	advmod	_	_
+2	si	_	SCONJ	_	_	6	mark	_	_
+3	lo	_	DET	_	_	4	det	_	_
+4	domenger	_	NOUN	_	_	6	nsubj	_	_
+5	ha	_	AUX	_	_	6	aux	_	_
+6	feyt	_	VERB	_	_	14	advcl	_	_
+7	plagues	_	NOUN	_	_	6	obj	_	_
+8	o	_	CCONJ	_	_	9	cc	_	_
+9	mort	_	NOUN	_	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	6	punct	_	_
+11	d'	_	ADP	_	_	12	case	_	SpaceAfter=No
+12	aquero	_	PRON	_	_	14	obl	_	_
+13	no	_	ADV	_	_	14	advmod	_	_
+14	conexeran	_	VERB	_	_	0	root	_	_
+15	los	_	DET	_	_	16	det	_	_
+16	cavers	_	NOUN	_	_	14	nsubj	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_13_1_4
+# len = 5
+# text = Et aixi se observe.
+1	Et	_	CCONJ	_	_	4	cc	_	_
+2	aixi	_	ADV	_	_	4	advmod	_	_
+3	se	_	PRON	_	_	4	expl	_	_
+4	observe	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_13_1_5
+# len = 13
+# text = De hoc infra, capitulo de domengers et domenyadures, capitulo ultimo.
+1	De	_	ADP	_	_	2	case	_	_
+2	hoc	_	PRON	_	_	0	root	_	_
+3	infra	_	ADV	_	_	2	advmod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	capitulo	_	NOUN	_	_	3	nmod	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	domengers	_	NOUN	_	_	5	nmod	_	_
+8	et	_	CCONJ	_	_	9	cc	_	_
+9	domenyadures	_	NOUN	_	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	11	punct	_	_
+11	capitulo	_	NOUN	_	_	3	nmod	_	_
+12	ultimo	_	ADJ	_	_	11	amod	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_14_1_1
+# len = 16
+# text = Item, si domenger a homis, que fasen dret et ley en sa maa;
+1	Item	_	ADV	_	_	9	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	si	_	SCONJ	_	_	5	mark	_	_
+4	domenger	_	NOUN	_	_	5	nsubj	_	_
+5	a	_	VERB	_	_	9	advcl	_	_
+6	homis	_	NOUN	_	_	5	obj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	que	_	PART	_	_	9	expl	_	_
+9	fasen	_	VERB	_	_	0	root	_	_
+10	dret	_	NOUN	_	_	9	obj	_	_
+11	et	_	CCONJ	_	_	12	cc	_	_
+12	ley	_	NOUN	_	_	10	conj	_	_
+13	en	_	ADP	_	_	15	case	_	_
+14	sa	_	DET	_	_	15	det	_	_
+15	maa	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+16	;	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_14_1_2
+# len = 34
+# text = si los homis se volen fugir de dret et de ley, far a podin, si no que lo domenger aye carte de lor que en sa man fasen dret et ley;
+1	si	_	SCONJ	_	_	5	mark	_	_
+2	los	_	DET	_	_	3	det	_	_
+3	homis	_	NOUN	_	_	5	nsubj	_	_
+4	se	_	PRON	_	_	6	expl	_	_
+5	volen	_	VERB	_	_	15	advcl	_	_
+6	fugir	_	VERB	_	_	5	xcomp	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	dret	_	NOUN	_	_	6	obl	_	_
+9	et	_	CCONJ	_	_	11	cc	_	_
+10	de	_	ADP	_	_	11	case	_	_
+11	ley	_	NOUN	_	_	8	conj	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	6	punct	_	_
+13	far	_	VERB	_	_	15	xcomp	_	_
+14	a	_	PRON	_	_	13	obj	_	_
+15	podin	_	VERB	_	_	0	root	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	si	_	SCONJ	_	ExtPos=SCONJ	22	mark	_	_
+18	no	_	ADV	_	_	17	fixed	_	_
+19	que	_	SCONJ	_	_	17	fixed	_	_
+20	lo	_	DET	_	_	21	det	_	_
+21	domenger	_	NOUN	_	_	22	nsubj	_	_
+22	aye	_	VERB	_	_	15	advcl	_	_
+23	carte	_	NOUN	_	_	22	obj	_	_
+24	de	_	ADP	_	_	25	case	_	_
+25	lor	_	PRON	_	_	23	nmod	_	_
+26	que	_	SCONJ	_	_	30	mark	_	_
+27	en	_	ADP	_	_	29	case	_	_
+28	sa	_	DET	_	_	29	det	_	_
+29	man	_	NOUN	_	_	30	obl	_	_
+30	fasen	_	VERB	_	_	23	acl	_	_
+31	dret	_	NOUN	_	_	30	obj	_	_
+32	et	_	CCONJ	_	_	33	cc	_	_
+33	ley	_	NOUN	_	_	31	conj	_	SpaceAfter=No
+34	;	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_14_1_3
+# len = 11
+# text = et que lo domenger aye aygues, padoent et herm;
+1	et	_	CCONJ	_	_	5	cc	_	_
+2	que	_	PART	_	_	5	expl	_	_
+3	lo	_	DET	_	_	4	det	_	_
+4	domenger	_	NOUN	_	_	5	nsubj	_	_
+5	aye	_	VERB	_	_	0	root	_	_
+6	aygues	_	NOUN	_	_	5	obj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	padoent	_	NOUN	_	_	6	conj	_	_
+9	et	_	CCONJ	_	_	10	cc	_	_
+10	herm	_	NOUN	_	_	6	conj	_	SpaceAfter=No
+11	;	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_14_1_4
+# len = 20
+# text = et si la cort deus cavers los judyan lo contre, que s'en aperin a cort mayor.
+1	et	_	CCONJ	_	_	16	cc	_	_
+2	si	_	SCONJ	_	_	9	mark	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	9	nsubj	_	_
+5-6	deus	_	_	_	_	_	_	_	_
+5	de-	de-	ADP	_	_	7	case	_	_
+6	-los	-los	DET	_	_	7	det	_	_
+7	cavers	_	NOUN	_	_	4	nmod	_	_
+8	los	_	PRON	_	_	9	obj	_	_
+9	judyan	_	VERB	_	_	16	advcl	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	contre	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	9	punct	_	_
+13	que	_	PART	_	_	16	expl	_	_
+14	s'	_	PRON	_	_	16	expl	_	SpaceAfter=No
+15	en	_	PRON	_	_	16	obl	_	_
+16	aperin	_	VERB	_	_	0	root	_	_
+17	a	_	ADP	_	_	18	case	_	_
+18	cort	_	NOUN	_	_	16	obl	_	_
+19	mayor	_	ADJ	_	_	18	amod	_	SpaceAfter=No
+20	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_15_1_1
+# len = 82
+# text = Item, que si un caver ha dret et ley sober homis et que-us mani a cort per augun negoci de tort que -us fe, et puix, quant manat aura la cort, eg los es falhent de cort per malebolence, dues betz, et los homis s'en an a tirar a d'autre senhor per faute, car eg no los thiey cort, lo caver pot aver tres caas per losquoaus se pot excusar:
+1	Item	_	ADV	_	_	73	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	que	_	PART	_	_	73	expl	_	_
+4	si	_	SCONJ	_	_	7	mark	_	_
+5	un	_	DET	_	_	6	det	_	_
+6	caver	_	NOUN	_	_	7	nsubj	_	_
+7	ha	_	VERB	_	_	73	advcl	_	_
+8	dret	_	NOUN	_	_	7	obj	_	_
+9	et	_	CCONJ	_	_	10	cc	_	_
+10	ley	_	NOUN	_	_	8	conj	_	_
+11	sober	_	ADP	_	_	12	case	_	_
+12	homis	_	NOUN	_	_	7	obl	_	_
+13	et	_	CCONJ	_	_	16	cc	_	_
+14-15	que-us	_	_	_	_	_	_	_	_
+14	que-	_	SCONJ	_	_	16	mark	_	_
+15	-us	_	PRON	_	_	16	obj	_	_
+16	mani	_	VERB	_	_	7	conj	_	_
+17	a	_	ADP	_	_	18	case	_	_
+18	cort	_	NOUN	_	_	16	obl	_	_
+19	per	_	ADP	_	_	21	case	_	_
+20	augun	_	DET	_	_	21	det	_	_
+21	negoci	_	NOUN	_	_	16	obl	_	_
+22	de	_	ADP	_	_	23	case	_	_
+23	tort	_	NOUN	_	_	21	nmod	_	_
+24	que	_	PRON	_	_	26	obj	_	_
+25	-us	_	PRON	_	_	26	iobj	_	_
+26	fe	_	VERB	_	_	21	acl:relcl	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	7	punct	_	_
+28	et	_	CCONJ	_	_	29	cc	_	_
+29	puix	_	ADV	_	_	40	advmod	_	SpaceAfter=No
+30	,	_	PUNCT	_	_	29	punct	_	_
+31	quant	_	SCONJ	_	_	32	mark	_	_
+32	manat	_	VERB	_	_	40	advcl	_	_
+33	aura	_	AUX	_	_	32	aux	_	_
+34	la	_	DET	_	_	35	det	_	_
+35	cort	_	NOUN	_	_	32	obj	_	SpaceAfter=No
+36	,	_	PUNCT	_	_	32	punct	_	_
+37	eg	_	PRON	_	_	40	nsubj	_	_
+38	los	_	PRON	_	_	40	iobj	_	_
+39	es	_	AUX	_	_	40	cop	_	_
+40	falhent	_	ADJ	_	_	7	conj	_	_
+41	de	_	ADP	_	_	42	case	_	_
+42	cort	_	NOUN	_	_	40	obl	_	_
+43	per	_	ADP	_	_	44	case	_	_
+44	malebolence	_	NOUN	_	_	40	obl	_	SpaceAfter=No
+45	,	_	PUNCT	_	_	40	punct	_	_
+46	dues	_	NUM	_	_	47	nummod	_	_
+47	betz	_	NOUN	_	_	40	obl	_	SpaceAfter=No
+48	,	_	PUNCT	_	_	40	punct	_	_
+49	et	_	CCONJ	_	_	54	cc	_	_
+50	los	_	DET	_	_	51	det	_	_
+51	homis	_	NOUN	_	_	54	nsubj	_	_
+52	s'	_	PRON	_	_	56	expl	_	SpaceAfter=No
+53	en	_	PRON	_	_	56	obl	_	_
+54	an	_	VERB	_	_	7	conj	_	_
+55	a	_	ADP	_	_	56	mark	_	_
+56	tirar	_	VERB	_	_	54	xcomp	_	_
+57	a	_	ADP	_	_	60	case	_	_
+58	d'	_	DET	_	_	60	det	_	SpaceAfter=No
+59	autre	_	ADJ	_	_	60	amod	_	_
+60	senhor	_	NOUN	_	_	56	obl	_	_
+61	per	_	ADP	_	_	62	case	_	_
+62	faute	_	NOUN	_	_	56	obl	_	SpaceAfter=No
+63	,	_	PUNCT	_	_	54	punct	_	_
+64	car	_	CCONJ	_	_	68	cc	_	_
+65	eg	_	PRON	_	_	68	nsubj	_	_
+66	no	_	ADV	_	_	68	advmod	_	_
+67	los	_	PRON	_	_	68	obj	_	_
+68	thiey	_	VERB	_	_	54	advcl	_	_
+69	cort	_	NOUN	_	_	68	obl	_	SpaceAfter=No
+70	,	_	PUNCT	_	_	68	punct	_	_
+71	lo	_	DET	_	_	72	det	_	_
+72	caver	_	NOUN	_	_	73	nsubj	_	_
+73	pot	_	VERB	_	_	0	root	_	_
+74	aver	_	VERB	_	_	73	xcomp	_	_
+75	tres	_	NUM	_	_	76	nummod	_	_
+76	caas	_	NOUN	_	_	74	obj	_	_
+77	per	_	ADP	_	_	78	case	_	_
+78	losquoaus	_	PRON	_	_	80	obl	_	_
+79	se	_	PRON	_	_	81	expl	_	_
+80	pot	_	VERB	_	_	76	acl:relcl	_	_
+81	excusar	_	VERB	_	_	80	xcomp	_	SpaceAfter=No
+82	:	_	PUNCT	_	_	73	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_15_1_2
+# len = 9
+# text = l'un es per man de senhor mayor,
+1	l'	_	DET	_	_	2	det	_	SpaceAfter=No
+2	un	_	PRON	_	_	3	nsubj	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	per	_	ADP	_	_	5	case	_	_
+5	man	_	NOUN	_	_	3	obl	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	senhor	_	NOUN	_	_	5	nmod	_	_
+8	mayor	_	ADJ	_	_	7	amod	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_15_1_3
+# len = 8
+# text = l'autre es per mandement d'avesque,
+1	l'	_	DET	_	_	2	det	_	SpaceAfter=No
+2	autre	_	PRON	_	_	3	nsubj	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	per	_	ADP	_	_	5	case	_	_
+5	mandement	_	NOUN	_	_	3	obl	_	_
+6	d'	_	ADP	_	_	7	case	_	SpaceAfter=No
+7	avesque	_	NOUN	_	_	5	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_15_1_4
+# len = 12
+# text = la terce cause es per feyt de malaudie de sson coos;
+1	la	_	DET	_	_	3	det	_	_
+2	terce	_	ADJ	_	_	3	amod	_	_
+3	cause	_	NOUN	_	_	4	nsubj	_	_
+4	es	_	VERB	_	_	0	root	_	_
+5	per	_	ADP	_	_	6	case	_	_
+6	feyt	_	NOUN	_	_	4	obl	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	malaudie	_	NOUN	_	_	6	nmod	_	_
+9	de	_	ADP	_	_	11	case	_	_
+10	sson	_	DET	_	_	11	det	_	_
+11	coos	_	NOUN	_	_	8	nmod	_	SpaceAfter=No
+12	;	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_15_1_5
+# len = 8
+# text = en autre maniere, no ha loc.
+1	en	_	ADP	_	_	3	case	_	_
+2	autre	_	DET	_	_	3	det	_	_
+3	maniere	_	NOUN	_	_	6	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	no	_	ADV	_	_	6	advmod	_	_
+6	ha	_	VERB	_	_	0	root	_	_
+7	loc	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_16_1_1
+# len = 57
+# text = Item, judya la cort a Morlaas que si lo senhor o son bayle thienen cort en loc afforat et totas las partides son davant los juratz et augun embadeix la cort et fe plague, que lo senhor y a .LXVI. ss. per l'embaudiment, sens l'autre ley qui ha per la plague.
+1	Item	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	judya	_	VERB	_	_	0	root	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	cort	_	NOUN	_	_	3	nsubj	_	_
+6	a	_	ADP	_	_	7	case	_	_
+7	Morlaas	_	PROPN	_	_	3	obl	_	_
+8	que	_	SCONJ	_	_	41	mark	_	_
+9	si	_	SCONJ	_	_	15	mark	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	senhor	_	NOUN	_	_	15	nsubj	_	_
+12	o	_	CCONJ	_	_	14	cc	_	_
+13	son	_	DET	_	_	14	det	_	_
+14	bayle	_	NOUN	_	_	11	conj	_	_
+15	thienen	_	VERB	_	_	41	advcl	_	_
+16	cort	_	NOUN	_	_	15	obj	_	_
+17	en	_	ADP	_	_	18	case	_	_
+18	loc	_	NOUN	_	_	15	obl	_	_
+19	afforat	_	ADJ	_	_	18	amod	_	_
+20	et	_	CCONJ	_	_	24	cc	_	_
+21	totas	_	DET	_	_	23	det	_	_
+22	las	_	DET	_	_	23	det	_	_
+23	partides	_	NOUN	_	_	24	nsubj	_	_
+24	son	_	VERB	_	_	15	conj	_	_
+25	davant	_	ADP	_	_	27	case	_	_
+26	los	_	DET	_	_	27	det	_	_
+27	juratz	_	NOUN	_	_	24	obl	_	_
+28	et	_	CCONJ	_	_	30	cc	_	_
+29	augun	_	PRON	_	_	30	nsubj	_	_
+30	embadeix	_	VERB	_	_	15	conj	_	_
+31	la	_	DET	_	_	32	det	_	_
+32	cort	_	NOUN	_	_	30	obj	_	_
+33	et	_	CCONJ	_	_	34	cc	_	_
+34	fe	_	VERB	_	_	30	conj	_	_
+35	plague	_	NOUN	_	_	34	obj	_	SpaceAfter=No
+36	,	_	PUNCT	_	_	15	punct	_	_
+37	que	_	SCONJ	_	_	41	mark	_	_
+38	lo	_	DET	_	_	39	det	_	_
+39	senhor	_	NOUN	_	_	41	nsubj	_	_
+40	y	_	PRON	_	_	41	obl	_	_
+41	a	_	VERB	_	_	3	ccomp	_	_
+42	.LXVI.	_	NUM	_	_	43	nummod	_	_
+43	ss.	_	NOUN	_	_	41	obj	_	_
+44	per	_	ADP	_	_	46	case	_	_
+45	l'	_	DET	_	_	46	det	_	SpaceAfter=No
+46	embaudiment	_	NOUN	_	_	41	obl	_	SpaceAfter=No
+47	,	_	PUNCT	_	_	41	punct	_	_
+48	sens	_	ADP	_	_	51	case	_	_
+49	l'	_	DET	_	_	51	det	_	SpaceAfter=No
+50	autre	_	ADJ	_	_	51	amod	_	_
+51	ley	_	NOUN	_	_	41	obl	_	_
+52	qui	_	PRON	_	_	53	obj	_	_
+53	ha	_	VERB	_	_	51	acl:relcl	_	_
+54	per	_	ADP	_	_	56	case	_	_
+55	la	_	DET	_	_	56	det	_	_
+56	plague	_	NOUN	_	_	53	obl	_	SpaceAfter=No
+57	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_16_1_2
+# len = 10
+# text = Navalhes, Andonhs, Coarrasa, Gergerest ac judyan.
+1	Navalhes	_	PROPN	_	_	9	nsubj	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	Andonhs	_	PROPN	_	_	1	conj	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	Coarrasa	_	PROPN	_	_	1	conj	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	Gergerest	_	PROPN	_	_	1	conj	_	_
+8	ac	_	PRON	_	_	9	obj	_	_
+9	judyan	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_17_1_1
+# len = 33
+# text = Item, judya la cort mayor que en maa de homi qui no ha domenyadure ni cort proprie, no deu hom far ni prener dret, si caas sufficient no mustre.
+1	Item	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	judya	_	VERB	_	_	0	root	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	cort	_	NOUN	_	_	3	nsubj	_	_
+6	mayor	_	ADJ	_	_	5	amod	_	_
+7	que	_	SCONJ	_	_	21	mark	_	_
+8	en	_	ADP	_	_	9	case	_	_
+9	maa	_	NOUN	_	_	23	obl	_	_
+10	de	_	ADP	_	_	11	case	_	_
+11	homi	_	NOUN	_	_	9	nmod	_	_
+12	qui	_	PRON	_	_	14	nsubj	_	_
+13	no	_	ADV	_	_	14	advmod	_	_
+14	ha	_	VERB	_	_	11	acl:relcl	_	_
+15	domenyadure	_	NOUN	_	_	14	obj	_	_
+16	ni	_	CCONJ	_	_	17	cc	_	_
+17	cort	_	NOUN	_	_	15	conj	_	_
+18	proprie	_	ADJ	_	_	17	amod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	9	punct	_	_
+20	no	_	ADV	_	_	21	advmod	_	_
+21	deu	_	VERB	_	_	3	ccomp	_	_
+22	hom	_	PRON	_	_	21	nsubj	_	_
+23	far	_	VERB	_	_	21	xcomp	_	_
+24	ni	_	CCONJ	_	_	25	cc	_	_
+25	prener	_	VERB	_	_	23	conj	_	_
+26	dret	_	NOUN	_	_	23	obj	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	21	punct	_	_
+28	si	_	SCONJ	_	_	32	mark	_	_
+29	caas	_	NOUN	_	_	32	obj	_	_
+30	sufficient	_	ADJ	_	_	29	amod	_	_
+31	no	_	ADV	_	_	32	advmod	_	_
+32	mustre	_	VERB	_	_	21	advcl	_	SpaceAfter=No
+33	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_18_1_1
+# len = 54
+# text = Item, si augun caver ave feyt injurie au vescomte et no vole estar au judyament de la cort, lo vescomte aye la soe terre, et que-n prenque so qui far deu, et que fasse de la mayson a ssa voluntat, en arden o en destrugen.
+1	Item	_	ADV	_	_	25	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	si	_	SCONJ	_	_	7	mark	_	_
+4	augun	_	DET	_	_	5	det	_	_
+5	caver	_	NOUN	_	_	7	nsubj	_	_
+6	ave	_	AUX	_	_	7	aux	_	_
+7	feyt	_	VERB	_	_	25	advcl	_	_
+8	injurie	_	NOUN	_	_	7	obj	_	_
+9-10	au	_	_	_	_	_	_	_	_
+9	a-	_	ADP	_	_	11	case	_	_
+10	-lo	_	DET	_	_	11	det	_	_
+11	vescomte	_	NOUN	_	_	7	obl	_	_
+12	et	_	CCONJ	_	_	14	cc	_	_
+13	no	_	ADV	_	_	14	advmod	_	_
+14	vole	_	VERB	_	_	7	conj	_	_
+15	estar	_	VERB	_	_	14	xcomp	_	_
+16-17	au	_	_	_	_	_	_	_	_
+16	a-	_	ADP	_	_	18	case	_	_
+17	-lo	_	DET	_	_	18	det	_	_
+18	judyament	_	NOUN	_	_	15	obl	_	_
+19	de	_	ADP	_	_	21	case	_	_
+20	la	_	DET	_	_	21	det	_	_
+21	cort	_	NOUN	_	_	18	nmod	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	7	punct	_	_
+23	lo	_	DET	_	_	24	det	_	_
+24	vescomte	_	NOUN	_	_	25	nsubj	_	_
+25	aye	_	VERB	_	_	0	root	_	_
+26	la	_	DET	_	_	28	det	_	_
+27	soe	_	ADJ	_	_	28	amod	_	_
+28	terre	_	NOUN	_	_	25	obj	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	25	punct	_	_
+30	et	_	CCONJ	_	_	33	cc	_	_
+31-32	que-n	_	_	_	_	_	_	_	_
+31	que-	_	PART	_	_	33	expl	_	_
+32	-n	_	PRON	_	_	33	obl	_	_
+33	prenque	_	VERB	_	_	25	conj	_	_
+34	so	_	PRON	_	_	33	obj	_	_
+35	qui	_	PRON	_	_	36	obj	_	_
+36	far	_	VERB	_	_	37	xcomp	_	_
+37	deu	_	VERB	_	_	34	acl:relcl	_	SpaceAfter=No
+38	,	_	PUNCT	_	_	33	punct	_	_
+39	et	_	CCONJ	_	_	41	cc	_	_
+40	que	_	PART	_	_	41	expl	_	_
+41	fasse	_	VERB	_	_	25	conj	_	_
+42	de	_	ADP	_	_	44	case	_	_
+43	la	_	DET	_	_	44	det	_	_
+44	mayson	_	NOUN	_	_	41	obl	_	_
+45	a	_	ADP	_	_	47	case	_	_
+46	ssa	_	DET	_	_	47	det	_	_
+47	voluntat	_	NOUN	_	_	41	obl	_	SpaceAfter=No
+48	,	_	PUNCT	_	_	41	punct	_	_
+49	en	_	ADP	_	_	50	mark	_	_
+50	arden	_	VERB	_	_	41	advcl	_	_
+51	o	_	CCONJ	_	_	53	cc	_	_
+52	en	_	ADP	_	_	53	mark	_	_
+53	destrugen	_	VERB	_	_	50	conj	_	SpaceAfter=No
+54	.	_	PUNCT	_	_	25	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_19_1_1
+# len = 236
+# text = Item, quar se trobe de tot jorn per aules pagadors et bons malhevadors et per tropes autres gentz franques que-s obligan ab cartes publiques a paguar, far, dar, o autres contraytz prometer et autreyar en tropes manieres ab segrament per lor prestat et se obligan a compultion et destret de totz senhors et judges; et se trobe a totz jorns que ataus obligatz, per lors grans malesses, per fugir a justicie en gran prejudici de partides et dampnament de lors animes, no curantz ni attendentz de lors renunciations ni segramentz que ayen prestat, domanden per lors grans cavillations remission a lor cort et vic et esser saubatz en lors priviledges, libertatz et franquesses et letres de estat, a lasquoaus auran segont la obligance de las cartes renunciat expressament, actendut que son persones franques et se son podutz obligar, actendut lor segrament contre loquoal en negune maniere no podin ni devin anar, ni degun for, ni costume no los excuse que lo segrament no deyen tenir et servar, per so, fo establit que totes cortz temporaus de Bearn fasen dret et judyament et reden justicie a partide, segont las obligations et renunciations de las cartas, et que aqueres sien tengudes et servades de punt a punt, sens nulhe remission et breumentz, sens nulhe pleytesie.
+1	Item	_	ADV	_	_	189	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	quar	_	SCONJ	_	_	5	mark	_	_
+4	se	_	PRON	_	_	5	expl	_	_
+5	trobe	_	VERB	_	_	189	advcl	_	_
+6	de	_	ADP	_	_	8	case	_	_
+7	tot	_	DET	_	_	8	det	_	_
+8	jorn	_	NOUN	_	_	5	obl	_	_
+9	per	_	ADP	_	_	11	case	_	_
+10	aules	_	ADJ	_	_	11	amod	_	_
+11	pagadors	_	NOUN	_	_	5	obl	_	_
+12	et	_	CCONJ	_	_	14	cc	_	_
+13	bons	_	ADJ	_	_	14	amod	_	_
+14	malhevadors	_	NOUN	_	_	11	conj	_	_
+15	et	_	CCONJ	_	_	19	cc	_	_
+16	per	_	ADP	_	_	19	case	_	_
+17	tropes	_	ADJ	_	_	19	amod	_	_
+18	autres	_	DET	_	_	19	det	_	_
+19	gentz	_	NOUN	_	_	11	conj	_	_
+20	franques	_	ADJ	_	_	19	amod	_	_
+21-22	que-s	_	_	_	_	_	_	_	_
+21	que-	_	SCONJ	_	_	23	mark	_	_
+22	-s	_	PRON	_	_	23	expl	_	_
+23	obligan	_	VERB	_	_	5	ccomp	_	_
+24	ab	_	ADP	_	_	25	case	_	_
+25	cartes	_	NOUN	_	_	23	obl	_	_
+26	publiques	_	ADJ	_	_	25	amod	_	_
+27	a	_	ADP	_	_	28	mark	_	_
+28	paguar	_	VERB	_	_	23	xcomp	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	28	punct	_	_
+30	far	_	VERB	_	_	28	conj	_	SpaceAfter=No
+31	,	_	PUNCT	_	_	30	punct	_	_
+32	dar	_	VERB	_	_	28	conj	_	SpaceAfter=No
+33	,	_	PUNCT	_	_	32	punct	_	_
+34	o	_	CCONJ	_	_	37	cc	_	_
+35	autres	_	DET	_	_	36	det	_	_
+36	contraytz	_	NOUN	_	_	37	obj	_	_
+37	prometer	_	VERB	_	_	28	conj	_	_
+38	et	_	CCONJ	_	_	39	cc	_	_
+39	autreyar	_	VERB	_	_	37	conj	_	_
+40	en	_	ADP	_	_	42	case	_	_
+41	tropes	_	ADJ	_	_	42	amod	_	_
+42	manieres	_	NOUN	_	_	28	obl	_	_
+43	ab	_	ADP	_	_	44	case	_	_
+44	segrament	_	NOUN	_	_	28	obl	_	_
+45	per	_	ADP	_	_	46	case	_	_
+46	lor	_	PRON	_	_	47	obl	_	_
+47	prestat	_	VERB	_	_	44	acl	_	_
+48	et	_	CCONJ	_	_	50	cc	_	_
+49	se	_	PRON	_	_	50	expl	_	_
+50	obligan	_	VERB	_	_	23	conj	_	_
+51	a	_	ADP	_	_	52	case	_	_
+52	compultion	_	NOUN	_	_	50	obl	_	_
+53	et	_	CCONJ	_	_	54	cc	_	_
+54	destret	_	NOUN	_	_	52	conj	_	_
+55	de	_	ADP	_	_	57	case	_	_
+56	totz	_	DET	_	_	57	det	_	_
+57	senhors	_	NOUN	_	_	52	nmod	_	_
+58	et	_	CCONJ	_	_	59	cc	_	_
+59	judges	_	NOUN	_	_	57	conj	_	SpaceAfter=No
+60	;	_	PUNCT	_	_	5	punct	_	_
+61	et	_	CCONJ	_	_	63	cc	_	_
+62	se	_	PRON	_	_	63	expl	_	_
+63	trobe	_	VERB	_	_	5	conj	_	_
+64	a	_	ADP	_	_	66	case	_	_
+65	totz	_	DET	_	_	66	det	_	_
+66	jorns	_	NOUN	_	_	63	obl	_	_
+67	que	_	SCONJ	_	_	104	mark	_	_
+68	ataus	_	PRON	_	_	104	nsubj	_	_
+69	obligatz	_	VERB	_	_	68	acl:relcl	_	SpaceAfter=No
+70	,	_	PUNCT	_	_	68	punct	_	_
+71	per	_	ADP	_	_	74	case	_	_
+72	lors	_	DET	_	_	74	det	_	_
+73	grans	_	ADJ	_	_	74	amod	_	_
+74	malesses	_	NOUN	_	_	104	obl	_	SpaceAfter=No
+75	,	_	PUNCT	_	_	74	punct	_	_
+76	per	_	ADP	_	_	77	mark	_	_
+77	fugir	_	VERB	_	_	104	advcl	_	_
+78	a	_	ADP	_	_	79	case	_	_
+79	justicie	_	NOUN	_	_	77	obl	_	_
+80	en	_	ADP	_	_	82	case	_	_
+81	gran	_	ADJ	_	_	82	amod	_	_
+82	prejudici	_	NOUN	_	_	77	obl	_	_
+83	de	_	ADP	_	_	84	case	_	_
+84	partides	_	NOUN	_	_	82	nmod	_	_
+85	et	_	CCONJ	_	_	86	cc	_	_
+86	dampnament	_	NOUN	_	_	82	conj	_	_
+87	de	_	ADP	_	_	89	case	_	_
+88	lors	_	DET	_	_	89	det	_	_
+89	animes	_	NOUN	_	_	86	nmod	_	SpaceAfter=No
+90	,	_	PUNCT	_	_	77	punct	_	_
+91	no	_	ADV	_	_	92	advmod	_	_
+92	curantz	_	VERB	_	_	104	advcl	_	_
+93	ni	_	CCONJ	_	_	94	cc	_	_
+94	attendentz	_	VERB	_	_	92	conj	_	_
+95	de	_	ADP	_	_	97	case	_	_
+96	lors	_	DET	_	_	97	det	_	_
+97	renunciations	_	NOUN	_	_	92	obl	_	_
+98	ni	_	CCONJ	_	_	99	cc	_	_
+99	segramentz	_	NOUN	_	_	97	conj	_	_
+100	que	_	PRON	_	_	102	obj	_	_
+101	ayen	_	AUX	_	_	102	aux	_	_
+102	prestat	_	VERB	_	_	99	acl:relcl	_	SpaceAfter=No
+103	,	_	PUNCT	_	_	92	punct	_	_
+104	domanden	_	VERB	_	_	63	ccomp	_	_
+105	per	_	ADP	_	_	108	case	_	_
+106	lors	_	DET	_	_	108	det	_	_
+107	grans	_	ADJ	_	_	108	amod	_	_
+108	cavillations	_	NOUN	_	_	104	obl	_	_
+109	remission	_	NOUN	_	_	104	obj	_	_
+110	a	_	ADP	_	_	112	case	_	_
+111	lor	_	DET	_	_	112	det	_	_
+112	cort	_	NOUN	_	_	104	obl	_	_
+113	et	_	CCONJ	_	_	114	cc	_	_
+114	vic	_	NOUN	_	_	112	conj	_	_
+115	et	_	CCONJ	_	_	117	cc	_	_
+116	esser	_	AUX	_	_	117	aux:pass	_	_
+117	saubatz	_	VERB	_	_	109	conj	_	_
+118	en	_	ADP	_	_	120	case	_	_
+119	lors	_	DET	_	_	120	det	_	_
+120	priviledges	_	NOUN	_	_	117	obl	_	SpaceAfter=No
+121	,	_	PUNCT	_	_	120	punct	_	_
+122	libertatz	_	NOUN	_	_	120	conj	_	_
+123	et	_	CCONJ	_	_	124	cc	_	_
+124	franquesses	_	NOUN	_	_	120	conj	_	_
+125	et	_	CCONJ	_	_	126	cc	_	_
+126	letres	_	NOUN	_	_	120	conj	_	_
+127	de	_	ADP	_	_	128	case	_	_
+128	estat	_	NOUN	_	_	126	nmod	_	SpaceAfter=No
+129	,	_	PUNCT	_	_	120	punct	_	_
+130	a	_	ADP	_	_	131	case	_	_
+131	lasquoaus	_	PRON	_	_	139	obl	_	_
+132	auran	_	AUX	_	_	139	aux	_	_
+133	segont	_	ADP	_	_	135	case	_	_
+134	la	_	DET	_	_	135	det	_	_
+135	obligance	_	NOUN	_	_	139	obl	_	_
+136	de	_	ADP	_	_	138	case	_	_
+137	las	_	DET	_	_	138	det	_	_
+138	cartes	_	NOUN	_	_	135	nmod	_	_
+139	renunciat	_	VERB	_	_	120	acl:relcl	_	_
+140	expressament	_	ADV	_	_	139	advmod	_	SpaceAfter=No
+141	,	_	PUNCT	_	_	5	punct	_	_
+142	actendut	_	VERB	_	_	189	advcl	_	_
+143	que	_	SCONJ	_	_	145	mark	_	_
+144	son	_	AUX	_	_	145	cop	_	_
+145	persones	_	NOUN	_	_	142	ccomp	_	_
+146	franques	_	ADJ	_	_	145	amod	_	_
+147	et	_	CCONJ	_	_	150	cc	_	_
+148	se	_	PRON	_	_	151	expl	_	_
+149	son	_	AUX	_	_	150	aux	_	_
+150	podutz	_	VERB	_	_	145	conj	_	_
+151	obligar	_	VERB	_	_	150	xcomp	_	SpaceAfter=No
+152	,	_	PUNCT	_	_	142	punct	_	_
+153	actendut	_	VERB	_	_	142	conj	_	_
+154	lor	_	DET	_	_	155	det	_	_
+155	segrament	_	NOUN	_	_	153	obj	_	_
+156	contre	_	ADP	_	_	157	case	_	_
+157	loquoal	_	PRON	_	_	162	obl	_	_
+158	en	_	ADP	_	_	160	case	_	_
+159	negune	_	DET	_	_	160	det	_	_
+160	maniere	_	NOUN	_	_	162	obl	_	_
+161	no	_	ADV	_	_	162	advmod	_	_
+162	podin	_	VERB	_	_	155	acl:relcl	_	_
+163	ni	_	CCONJ	_	_	164	cc	_	_
+164	devin	_	VERB	_	_	162	conj	_	_
+165	anar	_	VERB	_	_	162	xcomp	_	SpaceAfter=No
+166	,	_	PUNCT	_	_	153	punct	_	_
+167	ni	_	CCONJ	_	_	175	cc	_	_
+168	degun	_	DET	_	_	169	det	_	_
+169	for	_	NOUN	_	_	175	nsubj	_	SpaceAfter=No
+170	,	_	PUNCT	_	_	169	punct	_	_
+171	ni	_	CCONJ	_	_	172	cc	_	_
+172	costume	_	NOUN	_	_	169	conj	_	_
+173	no	_	ADV	_	_	175	advmod	_	_
+174	los	_	PRON	_	_	175	obj	_	_
+175	excuse	_	VERB	_	_	142	conj	_	_
+176	que	_	SCONJ	_	_	180	mark	_	_
+177	lo	_	DET	_	_	178	det	_	_
+178	segrament	_	NOUN	_	_	181	obj	_	_
+179	no	_	ADV	_	_	180	advmod	_	_
+180	deyen	_	VERB	_	_	175	ccomp	_	_
+181	tenir	_	VERB	_	_	180	xcomp	_	_
+182	et	_	CCONJ	_	_	183	cc	_	_
+183	servar	_	VERB	_	_	181	conj	_	SpaceAfter=No
+184	,	_	PUNCT	_	_	142	punct	_	_
+185	per	_	ADP	_	_	186	case	_	_
+186	so	_	PRON	_	_	189	obl	_	SpaceAfter=No
+187	,	_	PUNCT	_	_	186	punct	_	_
+188	fo	_	AUX	_	_	189	aux:pass	_	_
+189	establit	_	VERB	_	_	0	root	_	_
+190	que	_	SCONJ	_	_	196	mark	_	_
+191	totes	_	DET	_	_	192	det	_	_
+192	cortz	_	NOUN	_	_	196	nsubj	_	_
+193	temporaus	_	ADJ	_	_	192	amod	_	_
+194	de	_	ADP	_	_	195	case	_	_
+195	Bearn	_	PROPN	_	_	192	nmod	_	_
+196	fasen	_	VERB	_	_	189	ccomp	_	_
+197	dret	_	NOUN	_	_	196	obj	_	_
+198	et	_	CCONJ	_	_	199	cc	_	_
+199	judyament	_	NOUN	_	_	197	conj	_	_
+200	et	_	CCONJ	_	_	201	cc	_	_
+201	reden	_	VERB	_	_	196	conj	_	_
+202	justicie	_	NOUN	_	_	201	obj	_	_
+203	a	_	ADP	_	_	204	case	_	_
+204	partide	_	NOUN	_	_	201	obl	_	SpaceAfter=No
+205	,	_	PUNCT	_	_	196	punct	_	_
+206	segont	_	ADP	_	_	208	case	_	_
+207	las	_	DET	_	_	208	det	_	_
+208	obligations	_	NOUN	_	_	196	obl	_	_
+209	et	_	CCONJ	_	_	210	cc	_	_
+210	renunciations	_	NOUN	_	_	208	conj	_	_
+211	de	_	ADP	_	_	213	case	_	_
+212	las	_	DET	_	_	213	det	_	_
+213	cartas	_	NOUN	_	_	208	nmod	_	SpaceAfter=No
+214	,	_	PUNCT	_	_	196	punct	_	_
+215	et	_	CCONJ	_	_	219	cc	_	_
+216	que	_	SCONJ	_	_	219	mark	_	_
+217	aqueres	_	PRON	_	_	219	nsubj	_	_
+218	sien	_	AUX	_	_	219	aux:pass	_	_
+219	tengudes	_	VERB	_	_	196	conj	_	_
+220	et	_	CCONJ	_	_	221	cc	_	_
+221	servades	_	VERB	_	_	219	conj	_	_
+222	de	_	ADP	_	_	223	case	_	_
+223	punt	_	NOUN	_	_	219	obl	_	_
+224	a	_	ADP	_	_	225	case	_	_
+225	punt	_	NOUN	_	_	223	nmod	_	SpaceAfter=No
+226	,	_	PUNCT	_	_	219	punct	_	_
+227	sens	_	ADP	_	_	229	case	_	_
+228	nulhe	_	DET	_	_	229	det	_	_
+229	remission	_	NOUN	_	_	219	obl	_	_
+230	et	_	CCONJ	_	_	231	cc	_	_
+231	breumentz	_	ADV	_	_	229	conj	_	SpaceAfter=No
+232	,	_	PUNCT	_	_	231	punct	_	_
+233	sens	_	ADP	_	_	235	case	_	_
+234	nulhe	_	DET	_	_	235	det	_	_
+235	pleytesie	_	NOUN	_	_	229	conj	_	SpaceAfter=No
+236	.	_	PUNCT	_	_	189	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_19_1_2
+# len = 35
+# text = Empero, de las autres cartes qui no son renunciades et de totz autres contraytz o pleytz, cascun aye remission a ssa cort et vic, segont lo for et la costume antique.
+1	Empero	_	ADV	_	_	20	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	de	_	ADP	_	_	6	case	_	_
+4	las	_	DET	_	_	6	det	_	_
+5	autres	_	ADJ	_	_	6	amod	_	_
+6	cartes	_	NOUN	_	_	20	obl	_	_
+7	qui	_	PRON	_	_	10	nsubj	_	_
+8	no	_	ADV	_	_	10	advmod	_	_
+9	son	_	AUX	_	_	10	aux:pass	_	_
+10	renunciades	_	VERB	_	_	6	acl:relcl	_	_
+11	et	_	CCONJ	_	_	15	cc	_	_
+12	de	_	ADP	_	_	15	case	_	_
+13	totz	_	DET	_	_	15	det	_	_
+14	autres	_	ADJ	_	_	15	amod	_	_
+15	contraytz	_	NOUN	_	_	6	conj	_	_
+16	o	_	CCONJ	_	_	17	cc	_	_
+17	pleytz	_	NOUN	_	_	15	conj	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	6	punct	_	_
+19	cascun	_	PRON	_	_	20	nsubj	_	_
+20	aye	_	VERB	_	_	0	root	_	_
+21	remission	_	NOUN	_	_	20	obj	_	_
+22	a	_	ADP	_	_	24	case	_	_
+23	ssa	_	DET	_	_	24	det	_	_
+24	cort	_	NOUN	_	_	20	obl	_	_
+25	et	_	CCONJ	_	_	26	cc	_	_
+26	vic	_	NOUN	_	_	24	conj	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	20	punct	_	_
+28	segont	_	ADP	_	_	30	case	_	_
+29	lo	_	DET	_	_	30	det	_	_
+30	for	_	NOUN	_	_	20	obl	_	_
+31	et	_	CCONJ	_	_	33	cc	_	_
+32	la	_	DET	_	_	33	det	_	_
+33	costume	_	NOUN	_	_	30	conj	_	_
+34	antique	_	ADJ	_	_	33	amod	_	SpaceAfter=No
+35	.	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_20_1_1
+# len = 49
+# text = Item, judya lo senhor et la cort que lo senhor d'Andaus deu responer en la cort mayor per rason deu mau feyt aus domengers, per far dret et prener, no obstan so qui eg allega que deve esser remetut a sson vic.
+1	Item	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	judya	_	VERB	_	_	0	root	_	_
+4	lo	_	DET	_	_	5	det	_	_
+5	senhor	_	NOUN	_	_	3	nsubj	_	_
+6	et	_	CCONJ	_	_	8	cc	_	_
+7	la	_	DET	_	_	8	det	_	_
+8	cort	_	NOUN	_	_	5	conj	_	_
+9	que	_	SCONJ	_	_	14	mark	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	senhor	_	NOUN	_	_	14	nsubj	_	_
+12	d'	_	ADP	_	_	13	case	_	SpaceAfter=No
+13	Andaus	_	PROPN	_	_	11	nmod	_	_
+14	deu	_	VERB	_	_	3	ccomp	_	_
+15	responer	_	VERB	_	_	14	xcomp	_	_
+16	en	_	ADP	_	_	18	case	_	_
+17	la	_	DET	_	_	18	det	_	_
+18	cort	_	NOUN	_	_	15	obl	_	_
+19	mayor	_	ADJ	_	_	18	amod	_	_
+20	per	_	ADP	_	_	21	case	_	_
+21	rason	_	NOUN	_	_	15	obl	_	_
+22-23	deu	_	_	_	_	_	_	_	_
+22	de-	_	ADP	_	_	24	case	_	_
+23	-lo	_	DET	_	_	24	det	_	_
+24	mau	_	NOUN	_	_	21	nmod	_	_
+25	feyt	_	VERB	_	_	24	acl	_	_
+26-27	aus	_	_	_	_	_	_	_	_
+26	a-	_	ADP	_	_	28	case	_	_
+27	-los	_	DET	_	_	28	det	_	_
+28	domengers	_	NOUN	_	_	25	obl	_	SpaceAfter=No
+29	,	_	PUNCT	_	_	14	punct	_	_
+30	per	_	ADP	_	_	31	mark	_	_
+31	far	_	VERB	_	_	14	advcl	_	_
+32	dret	_	NOUN	_	_	31	obj	_	_
+33	et	_	CCONJ	_	_	34	cc	_	_
+34	prener	_	VERB	_	_	31	conj	_	SpaceAfter=No
+35	,	_	PUNCT	_	_	31	punct	_	_
+36	no	_	ADV	_	ExtPos=ADP	38	case	_	_
+37	obstan	_	ADP	_	_	36	fixed	_	_
+38	so	_	PRON	_	_	31	obl	_	_
+39	qui	_	PRON	_	_	41	obj	_	_
+40	eg	_	PRON	_	_	41	nsubj	_	_
+41	allega	_	VERB	_	_	38	acl:relcl	_	_
+42	que	_	SCONJ	_	_	43	mark	_	_
+43	deve	_	VERB	_	_	41	ccomp	_	_
+44	esser	_	AUX	_	_	45	aux:pass	_	_
+45	remetut	_	VERB	_	_	43	xcomp	_	_
+46	a	_	ADP	_	_	48	case	_	_
+47	sson	_	DET	_	_	48	det	_	_
+48	vic	_	NOUN	_	_	45	obl	_	SpaceAfter=No
+49	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_20_1_2
+# len = 32
+# text = Et aixi deu-s notar que totz los cavers aperatz a cort mayor et totz autres de Bearn, mayors et mendres deven aqui responer et son de la cort mayor.
+1	Et	_	CCONJ	_	_	3	cc	_	_
+2	aixi	_	ADV	_	_	3	advmod	_	_
+3-4	deu-s	_	_	_	_	_	_	_	_
+3	deu-	_	VERB	_	_	0	root	_	_
+4	-s	_	PRON	_	_	5	expl	_	_
+5	notar	_	VERB	_	_	3	xcomp	_	_
+6	que	_	SCONJ	_	_	23	mark	_	_
+7	totz	_	DET	_	_	9	det	_	_
+8	los	_	DET	_	_	9	det	_	_
+9	cavers	_	NOUN	_	_	23	nsubj	_	_
+10	aperatz	_	VERB	_	_	9	acl	_	_
+11	a	_	ADP	_	_	12	case	_	_
+12	cort	_	NOUN	_	_	10	obl	_	_
+13	mayor	_	ADJ	_	_	12	amod	_	_
+14	et	_	CCONJ	_	_	16	cc	_	_
+15	totz	_	DET	_	_	16	det	_	_
+16	autres	_	PRON	_	_	9	conj	_	_
+17	de	_	ADP	_	_	18	case	_	_
+18	Bearn	_	PROPN	_	_	16	nmod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	16	punct	_	_
+20	mayors	_	ADJ	_	_	16	amod	_	_
+21	et	_	CCONJ	_	_	22	cc	_	_
+22	mendres	_	ADJ	_	_	20	conj	_	_
+23	deven	_	VERB	_	_	5	ccomp	_	_
+24	aqui	_	ADV	_	_	25	advmod	_	_
+25	responer	_	VERB	_	_	23	xcomp	_	_
+26	et	_	CCONJ	_	_	27	cc	_	_
+27	son	_	VERB	_	_	23	conj	_	_
+28	de	_	ADP	_	_	30	case	_	_
+29	la	_	DET	_	_	30	det	_	_
+30	cort	_	NOUN	_	_	27	obl	_	_
+31	mayor	_	ADJ	_	_	30	amod	_	SpaceAfter=No
+32	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_21_1_1
+# len = 31
+# text = Conegude cause sie a totz que totz los cavers de Bearn deben lors filhs presentar au senhor, exceptat aqueg qui volera que sie son successor a ssa terre.
+1	Conegude	_	VERB	_	_	0	root	_	_
+2	cause	_	NOUN	_	_	1	nsubj	_	_
+3	sie	_	AUX	_	_	1	aux:pass	_	_
+4	a	_	ADP	_	_	5	case	_	_
+5	totz	_	PRON	_	_	1	obl	_	_
+6	que	_	SCONJ	_	_	12	mark	_	_
+7	totz	_	DET	_	_	9	det	_	_
+8	los	_	DET	_	_	9	det	_	_
+9	cavers	_	NOUN	_	_	12	nsubj	_	_
+10	de	_	ADP	_	_	11	case	_	_
+11	Bearn	_	PROPN	_	_	9	nmod	_	_
+12	deben	_	VERB	_	_	2	acl	_	_
+13	lors	_	DET	_	_	14	det	_	_
+14	filhs	_	NOUN	_	_	15	obj	_	_
+15	presentar	_	VERB	_	_	12	xcomp	_	_
+16-17	au	_	_	_	_	_	_	_	_
+16	a-	a-	ADP	_	_	18	case	_	_
+17	-lo	-lo	DET	_	_	18	det	_	_
+18	senhor	_	NOUN	_	_	15	obl	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	12	punct	_	_
+20	exceptat	_	ADP	_	_	21	case	_	_
+21	aqueg	_	PRON	_	_	12	obl	_	_
+22	qui	_	PRON	_	_	23	nsubj	_	_
+23	volera	_	VERB	_	_	21	acl:relcl	_	_
+24	que	_	SCONJ	_	_	27	mark	_	_
+25	sie	_	AUX	_	_	27	cop	_	_
+26	son	_	DET	_	_	27	det	_	_
+27	successor	_	NOUN	_	_	23	ccomp	_	_
+28	a	_	ADP	_	_	30	case	_	_
+29	ssa	_	DET	_	_	30	det	_	_
+30	terre	_	NOUN	_	_	27	obl	_	SpaceAfter=No
+31	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_21_1_2
+# len = 43
+# text = Et lo senhor que-us deu thier entro que sie segur de lor, en tau maniere que de qui avant lo pay o la may no sia tribalhat de pagar per lor, ni pluus presentar lors filhs au senhor.
+1	Et	_	CCONJ	_	_	6	cc	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	senhor	_	NOUN	_	_	6	nsubj	_	_
+4-5	que-us	_	_	_	_	_	_	_	_
+4	que-	_	PART	_	_	6	expl	_	_
+5	-us	_	PRON	_	_	7	obj	_	_
+6	deu	_	VERB	_	_	0	root	_	_
+7	thier	_	VERB	_	_	6	xcomp	_	_
+8	entro	_	ADP	_	ExtPos=SCONJ	11	mark	_	_
+9	que	_	SCONJ	_	_	8	fixed	_	_
+10	sie	_	AUX	_	_	11	cop	_	_
+11	segur	_	ADJ	_	_	6	advcl	_	_
+12	de	_	ADP	_	_	13	case	_	_
+13	lor	_	PRON	_	_	11	obl	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	6	punct	_	_
+15	en	_	ADP	_	ExtPos=SCONJ	29	mark	_	_
+16	tau	_	DET	_	_	15	fixed	_	_
+17	maniere	_	NOUN	_	_	15	fixed	_	_
+18	que	_	SCONJ	_	_	15	fixed	_	_
+19	de	_	ADP	_	_	20	case	_	_
+20	qui	_	ADV	_	_	29	obl	_	_
+21	avant	_	ADV	_	_	20	advmod	_	_
+22	lo	_	DET	_	_	23	det	_	_
+23	pay	_	NOUN	_	_	29	nsubj	_	_
+24	o	_	CCONJ	_	_	26	cc	_	_
+25	la	_	DET	_	_	26	det	_	_
+26	may	_	NOUN	_	_	23	conj	_	_
+27	no	_	ADV	_	_	29	advmod	_	_
+28	sia	_	AUX	_	_	29	aux:pass	_	_
+29	tribalhat	_	VERB	_	_	6	advcl	_	_
+30	de	_	ADP	_	_	31	mark	_	_
+31	pagar	_	VERB	_	_	29	xcomp	_	_
+32	per	_	ADP	_	_	33	case	_	_
+33	lor	_	PRON	_	_	31	obl	_	SpaceAfter=No
+34	,	_	PUNCT	_	_	31	punct	_	_
+35	ni	_	CCONJ	_	_	37	cc	_	_
+36	pluus	_	ADV	_	_	37	advmod	_	_
+37	presentar	_	VERB	_	_	31	conj	_	_
+38	lors	_	DET	_	_	39	det	_	_
+39	filhs	_	NOUN	_	_	37	obj	_	_
+40-41	au	_	_	_	_	_	_	_	_
+40	a-	_	ADP	_	_	42	case	_	_
+41	-lo	_	DET	_	_	42	det	_	_
+42	senhor	_	NOUN	_	_	37	obl	_	SpaceAfter=No
+43	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_21_1_3
+# len = 11
+# text = Pero, son prim filh hereter no presentara a luy,
+1	Pero	_	ADV	_	_	8	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	8	punct	_	_
+3	son	_	DET	_	_	5	det	_	_
+4	prim	_	ADJ	_	_	5	amod	_	_
+5	filh	_	NOUN	_	_	8	obj	_	_
+6	hereter	_	ADJ	_	_	5	amod	_	_
+7	no	_	ADV	_	_	8	advmod	_	_
+8	presentara	_	VERB	_	_	0	root	_	_
+9	a	_	ADP	_	_	10	case	_	_
+10	luy	_	PRON	_	_	8	obl	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_21_1_4
+# len = 10
+# text = quar lo pay es thiencut de pagar son delicte.
+1	quar	_	CCONJ	_	_	5	cc	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	pay	_	NOUN	_	_	5	nsubj	_	_
+4	es	_	AUX	_	_	5	aux:pass	_	_
+5	thiencut	_	VERB	_	_	0	root	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	pagar	_	VERB	_	_	5	xcomp	_	_
+8	son	_	DET	_	_	9	det	_	_
+9	delicte	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_22_1_1
+# len = 32
+# text = Et si per abenture lo vesconte vole los lors castegs, suple, prener per lors delictes, sia irat o pagat, a luy los deven reder tres betz l'an
+1	Et	_	CCONJ	_	_	27	cc	_	_
+2	si	_	SCONJ	_	_	7	mark	_	_
+3	per	_	ADP	_	_	4	case	_	_
+4	abenture	_	NOUN	_	_	7	obl	_	_
+5	lo	_	DET	_	_	6	det	_	_
+6	vesconte	_	NOUN	_	_	7	nsubj	_	_
+7	vole	_	VERB	_	_	27	advcl	_	_
+8	los	_	DET	_	_	10	det	_	_
+9	lors	_	ADJ	_	_	10	amod	_	_
+10	castegs	_	NOUN	_	_	14	obj	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	suple	_	VERB	_	_	7	discourse	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	prener	_	VERB	_	_	7	xcomp	_	_
+15	per	_	ADP	_	_	17	case	_	_
+16	lors	_	DET	_	_	17	det	_	_
+17	delictes	_	NOUN	_	_	14	obl	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	14	punct	_	_
+19	sia	_	AUX	_	_	20	cop	_	_
+20	irat	_	ADJ	_	_	7	advcl	_	_
+21	o	_	CCONJ	_	_	22	cc	_	_
+22	pagat	_	ADJ	_	_	20	conj	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	20	punct	_	_
+24	a	_	ADP	_	_	25	case	_	_
+25	luy	_	PRON	_	_	28	obl	_	_
+26	los	_	PRON	_	_	28	obj	_	_
+27	deven	_	VERB	_	_	0	root	_	_
+28	reder	_	VERB	_	_	27	xcomp	_	_
+29	tres	_	NUM	_	_	30	nummod	_	_
+30	betz	_	NOUN	_	_	28	obl	_	_
+31	l'	_	DET	_	_	32	det	_	SpaceAfter=No
+32	an	_	NOUN	_	_	30	nmod	_	_
+
+# sent_id = 1460_Bearn_1_1_22_1_2
+# len = 33
+# text = et lo senhor no y deu far injuria, si lo caver pot dar a luy fidances que de las injuries feytes per lo caver satisfare audit vescomte et autes rencurantz.
+1	et	_	CCONJ	_	_	6	cc	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	senhor	_	NOUN	_	_	6	nsubj	_	_
+4	no	_	ADV	_	_	6	advmod	_	_
+5	y	_	PRON	_	_	7	obl	_	_
+6	deu	_	VERB	_	_	0	root	_	_
+7	far	_	VERB	_	_	6	xcomp	_	_
+8	injuria	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	si	_	SCONJ	_	_	13	mark	_	_
+11	lo	_	DET	_	_	12	det	_	_
+12	caver	_	NOUN	_	_	13	nsubj	_	_
+13	pot	_	VERB	_	_	6	advcl	_	_
+14	dar	_	VERB	_	_	13	xcomp	_	_
+15	a	_	ADP	_	_	16	case	_	_
+16	luy	_	PRON	_	_	14	obl	_	_
+17	fidances	_	NOUN	_	_	14	obj	_	_
+18	que	_	SCONJ	_	_	26	mark	_	_
+19	de	_	ADP	_	_	21	case	_	_
+20	las	_	DET	_	_	21	det	_	_
+21	injuries	_	NOUN	_	_	26	obl	_	_
+22	feytes	_	VERB	_	_	21	acl	_	_
+23	per	_	ADP	_	_	25	case	_	_
+24	lo	_	DET	_	_	25	det	_	_
+25	caver	_	NOUN	_	_	22	obl	_	_
+26	satisfare	_	VERB	_	_	17	acl	_	_
+27-28	audit	_	_	_	_	_	_	_	_
+27	a-	_	ADP	_	_	29	case	_	_
+28	-lodit	_	DET	_	_	29	det	_	_
+29	vescomte	_	NOUN	_	_	26	obl	_	_
+30	et	_	CCONJ	_	_	32	cc	_	_
+31	autes	_	DET	_	_	32	det	_	_
+32	rencurantz	_	NOUN	_	_	29	conj	_	SpaceAfter=No
+33	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_22_1_3
+# len = 25
+# text = Et si sover so lo senhor fase injuri au casteg, nulhs hom no l'es thiencut de reder de qui en abant.
+1	Et	_	CCONJ	_	_	18	cc	_	_
+2	si	_	SCONJ	_	_	7	mark	_	_
+3	sover	_	ADP	_	_	4	case	_	_
+4	so	_	PRON	_	_	7	obl	_	_
+5	lo	_	DET	_	_	6	det	_	_
+6	senhor	_	NOUN	_	_	7	nsubj	_	_
+7	fase	_	VERB	_	_	18	advcl	_	_
+8	injuri	_	NOUN	_	_	7	obj	_	_
+9-10	au	_	_	_	_	_	_	_	_
+9	a-	a-	ADP	_	_	11	case	_	_
+10	-lo	-lo	DET	_	_	11	det	_	_
+11	casteg	_	NOUN	_	_	7	obl	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	7	punct	_	_
+13	nulhs	_	DET	_	_	14	det	_	_
+14	hom	_	NOUN	_	_	18	nsubj	_	_
+15	no	_	ADV	_	_	18	advmod	_	_
+16	l'	_	PRON	_	_	18	iobj	_	SpaceAfter=No
+17	es	_	AUX	_	_	18	aux:pass	_	_
+18	thiencut	_	VERB	_	_	0	root	_	_
+19	de	_	ADP	_	_	20	case	_	_
+20	reder	_	VERB	_	_	18	xcomp	_	_
+21	de	_	ADP	_	_	22	case	_	_
+22	qui	_	ADV	_	_	18	advmod	_	_
+23	en	_	ADP	_	_	24	case	_	_
+24	abant	_	ADV	_	_	22	obl	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_23_1_1
+# len = 30
+# text = Item, la maior ley qui lo senhor deu aver de sons cavers es de .LXVI. ss. de Morlaas, si eg no ss'en ere obligat a enmende.
+1	Item	_	ADV	_	_	14	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	la	_	DET	_	_	5	det	_	_
+4	maior	_	ADJ	_	_	5	amod	_	_
+5	ley	_	NOUN	_	_	14	nsubj	_	_
+6	qui	_	PRON	_	_	9	obj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	9	nsubj	_	_
+9	deu	_	VERB	_	_	5	acl:relcl	_	_
+10	aver	_	VERB	_	_	9	xcomp	_	_
+11	de	_	ADP	_	_	13	case	_	_
+12	sons	_	DET	_	_	13	det	_	_
+13	cavers	_	NOUN	_	_	10	obl	_	_
+14	es	_	VERB	_	_	0	root	_	_
+15	de	_	ADP	_	_	17	case	_	_
+16	.LXVI.	_	NUM	_	_	17	nummod	_	_
+17	ss.	_	NOUN	_	_	14	obl	_	_
+18	de	_	ADP	_	_	19	case	_	_
+19	Morlaas	_	PROPN	_	_	17	nmod	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	14	punct	_	_
+21	si	_	SCONJ	_	_	27	mark	_	_
+22	eg	_	PRON	_	_	27	nsubj	_	_
+23	no	_	ADV	_	_	27	advmod	_	_
+24	ss'	_	PRON	_	_	27	expl	_	SpaceAfter=No
+25	en	_	PRON	_	_	27	obl	_	_
+26	ere	_	AUX	_	_	27	aux	_	_
+27	obligat	_	VERB	_	_	14	advcl	_	_
+28	a	_	ADP	_	_	29	case	_	_
+29	enmende	_	NOUN	_	_	27	obl	_	SpaceAfter=No
+30	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_24_1_1
+# len = 25
+# text = D'aute part, nulhs hom no deu far casteg balletum et clausum en sa terre, si no ab licenci deu senhor.
+1	D'	_	ADP	_	_	3	case	_	SpaceAfter=No
+2	aute	_	DET	_	_	3	det	_	_
+3	part	_	NOUN	_	_	8	obl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	nulhs	_	DET	_	_	6	det	_	_
+6	hom	_	NOUN	_	_	8	nsubj	_	_
+7	no	_	ADV	_	_	8	advmod	_	_
+8	deu	_	VERB	_	_	0	root	_	_
+9	far	_	VERB	_	_	8	xcomp	_	_
+10	casteg	_	NOUN	_	_	9	obj	_	_
+11	balletum	_	ADJ	_	_	10	amod	_	_
+12	et	_	CCONJ	_	_	13	cc	_	_
+13	clausum	_	ADJ	_	_	11	conj	_	_
+14	en	_	ADP	_	_	16	case	_	_
+15	sa	_	DET	_	_	16	det	_	_
+16	terre	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	9	punct	_	_
+18	si	_	SCONJ	_	ExtPos=ADV	21	advmod	_	_
+19	no	_	ADV	_	_	18	fixed	_	_
+20	ab	_	ADP	_	_	21	case	_	_
+21	licenci	_	NOUN	_	_	8	obl	_	_
+22-23	deu	_	_	_	_	_	_	_	_
+22	de-	_	ADP	_	_	24	case	_	_
+23	-lo	_	DET	_	_	24	det	_	_
+24	senhor	_	NOUN	_	_	21	nmod	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_25_1_1
+# len = 24
+# text = Enter las autes causes, la cort a establit que augunes causes son en lasquoaus no deben esser donades fidances, mas thiensers:
+1	Enter	_	ADP	_	_	4	case	_	_
+2	las	_	DET	_	_	4	det	_	_
+3	autes	_	ADJ	_	_	4	amod	_	_
+4	causes	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	la	_	DET	_	_	7	det	_	_
+7	cort	_	NOUN	_	_	9	nsubj	_	_
+8	a	_	AUX	_	_	9	aux	_	_
+9	establit	_	VERB	_	_	0	root	_	_
+10	que	_	SCONJ	_	_	13	mark	_	_
+11	augunes	_	DET	_	_	12	det	_	_
+12	causes	_	NOUN	_	_	13	nsubj	_	_
+13	son	_	VERB	_	_	9	ccomp	_	_
+14	en	_	ADP	_	_	15	case	_	_
+15	lasquoaus	lasquoaus	PRON	_	_	17	obl	_	_
+16	no	_	ADV	_	_	17	advmod	_	_
+17	deben	_	VERB	_	_	12	acl:relcl	_	_
+18	esser	_	AUX	_	_	19	aux:pass	_	_
+19	donades	_	VERB	_	_	17	xcomp	_	_
+20	fidances	_	NOUN	_	_	19	nsubj	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	20	punct	_	_
+22	mas	_	CCONJ	_	_	23	cc	_	_
+23	thiensers	_	NOUN	_	_	20	conj	_	SpaceAfter=No
+24	:	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_25_1_2
+# len = 31
+# text = la prumera es que si dus homis de la terre aven goerre goarreyade et aqui que los age trobatz lo senhor, no prenera de lor fidances, mes thiensers.
+1	la	_	DET	_	_	2	det	_	_
+2	prumera	_	NOUN	_	_	0	root	_	_
+3	es	_	AUX	_	_	2	cop	_	_
+4	que	_	SCONJ	_	_	24	mark	_	_
+5	si	_	SCONJ	_	_	13	mark	_	_
+6	dus	_	NUM	_	_	7	nummod	_	_
+7	homis	_	NOUN	_	_	13	nsubj	_	_
+8	de	_	ADP	_	_	10	case	_	_
+9	la	_	DET	_	_	10	det	_	_
+10	terre	_	NOUN	_	_	7	nmod	_	_
+11	aven	_	AUX	_	_	13	aux	_	_
+12	goerre	_	NOUN	_	_	13	obj	_	_
+13	goarreyade	_	VERB	_	_	24	advcl	_	_
+14	et	_	CCONJ	_	_	19	cc	_	_
+15	aqui	_	ADV	_	_	19	advmod	_	_
+16	que	_	SCONJ	_	_	19	mark	_	_
+17	los	_	PRON	_	_	19	obj	_	_
+18	age	_	AUX	_	_	19	aux	_	_
+19	trobatz	_	VERB	_	_	13	conj	_	_
+20	lo	_	DET	_	_	21	det	_	_
+21	senhor	_	NOUN	_	_	19	nsubj	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	13	punct	_	_
+23	no	_	ADV	_	_	24	advmod	_	_
+24	prenera	_	VERB	_	_	2	ccomp	_	_
+25	de	_	ADP	_	_	26	case	_	_
+26	lor	_	PRON	_	_	24	obl	_	_
+27	fidances	_	NOUN	_	_	24	obj	_	SpaceAfter=No
+28	,	_	PUNCT	_	_	29	punct	_	_
+29	mes	_	CCONJ	_	_	30	cc	_	_
+30	thiensers	_	NOUN	_	_	27	conj	_	SpaceAfter=No
+31	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_25_1_3
+# len = 22
+# text = Et aquero medix qui apere aute de traytion davant lo senhor o en cort, disen: jo t'en conbatere;
+1	Et	_	CCONJ	_	_	2	cc	_	_
+2	aquero	_	PRON	_	_	0	root	_	_
+3	medix	_	ADJ	_	_	2	amod	_	_
+4	qui	_	PRON	_	_	5	nsubj	_	_
+5	apere	_	VERB	_	_	2	acl:relcl	_	_
+6	aute	_	PRON	_	_	5	obj	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	traytion	_	NOUN	_	_	5	obl	_	_
+9	davant	_	ADP	_	_	11	case	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	senhor	_	NOUN	_	_	5	obl	_	_
+12	o	_	CCONJ	_	_	14	cc	_	_
+13	en	_	ADP	_	_	14	case	_	_
+14	cort	_	NOUN	_	_	11	conj	_	SpaceAfter=No
+15	,	_	PUNCT	_	_	5	punct	_	_
+16	disen	_	VERB	_	_	5	advcl	_	SpaceAfter=No
+17	:	_	PUNCT	_	_	16	punct	_	_
+18	jo	_	PRON	_	_	21	nsubj	_	_
+19	t'	_	PRON	_	_	21	iobj	_	SpaceAfter=No
+20	en	_	PRON	_	_	21	obj	_	_
+21	conbatere	_	VERB	_	_	16	ccomp	_	SpaceAfter=No
+22	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_25_1_4
+# len = 11
+# text = et aquero medix de quegs qui auran batalhe de targue.
+1	et	_	CCONJ	_	_	2	cc	_	_
+2	aquero	_	PRON	_	_	0	root	_	_
+3	medix	_	ADJ	_	_	2	amod	_	_
+4	de	_	ADP	_	_	5	case	_	_
+5	quegs	_	PRON	_	_	2	nmod	_	_
+6	qui	_	PRON	_	_	7	nsubj	_	_
+7	auran	_	VERB	_	_	5	acl:relcl	_	_
+8	batalhe	_	NOUN	_	_	7	obj	_	_
+9	de	_	ADP	_	_	10	case	_	_
+10	targue	_	NOUN	_	_	8	nmod	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_25_1_5
+# len = 11
+# text = Et qui enbadira la cort deu senhor dara thiensers.
+1	Et	_	CCONJ	_	_	9	cc	_	_
+2	qui	_	PRON	_	_	3	nsubj	_	_
+3	enbadira	_	VERB	_	_	9	csubj	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	cort	_	NOUN	_	_	3	obj	_	_
+6-7	deu	_	_	_	_	_	_	_	_
+6	de-	de-	ADP	_	_	8	case	_	_
+7	-lo	-lo	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	5	nmod	_	_
+9	dara	_	VERB	_	_	0	root	_	_
+10	thiensers	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_1
+# len = 11
+# text = Per sinc caas o causes deu prener lo senhor thiansers:
+1	Per	_	ADP	_	_	3	case	_	_
+2	sinc	_	NUM	_	_	3	nummod	_	_
+3	caas	_	NOUN	_	_	6	obl	_	_
+4	o	_	CCONJ	_	_	5	cc	_	_
+5	causes	_	NOUN	_	_	3	conj	_	_
+6	deu	_	VERB	_	_	0	root	_	_
+7	prener	_	VERB	_	_	6	xcomp	_	_
+8	lo	_	DET	_	_	9	det	_	_
+9	senhor	_	NOUN	_	_	6	nsubj	_	_
+10	thiansers	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+11	:	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_2
+# len = 10
+# text = la une es si los trobe en goerra goarreyade;
+1	la	_	DET	_	_	2	det	_	_
+2	une	_	PRON	_	_	3	nsubj	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	si	_	SCONJ	_	_	6	mark	_	_
+5	los	_	PRON	_	_	6	obj	_	_
+6	trobe	_	VERB	_	_	3	advcl	_	_
+7	en	_	ADP	_	_	8	case	_	_
+8	goerra	_	NOUN	_	_	6	obl	_	_
+9	goarreyade	_	ADJ	_	_	8	amod	_	SpaceAfter=No
+10	;	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_3
+# len = 10
+# text = l'aute es si hom apere aute de traytion;
+1	l'	_	DET	_	_	2	det	_	SpaceAfter=No
+2	aute	_	PRON	_	_	3	nsubj	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	si	_	SCONJ	_	_	6	mark	_	_
+5	hom	_	PRON	_	_	6	nsubj	_	_
+6	apere	_	VERB	_	_	3	advcl	_	_
+7	aute	_	PRON	_	_	6	obj	_	_
+8	de	_	ADP	_	_	9	case	_	_
+9	traytion	_	NOUN	_	_	6	obl	_	SpaceAfter=No
+10	;	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_4
+# len = 7
+# text = la terce de batalhe de targue;
+1	la	_	DET	_	_	2	det	_	_
+2	terce	_	ADJ	_	_	0	root	_	_
+3	de	_	ADP	_	_	4	case	_	_
+4	batalhe	_	NOUN	_	_	2	orphan	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	targue	_	NOUN	_	_	4	nmod	_	SpaceAfter=No
+7	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_5
+# len = 10
+# text = la quoarta si la cort deu senhor embadeix;
+1	la	_	DET	_	_	2	det	_	_
+2	quoarta	_	ADJ	_	_	0	root	_	_
+3	si	_	SCONJ	_	_	9	mark	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	cort	_	NOUN	_	_	9	obj	_	_
+6-7	deu	_	_	_	_	_	_	_	_
+6	de-	de-	ADP	_	_	8	case	_	_
+7	-lo	-lo	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	5	nmod	_	_
+9	embadeix	_	VERB	_	_	2	advcl	_	SpaceAfter=No
+10	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_26_1_6
+# len = 10
+# text = la quinte d'omicidi, plague leyau o alep.
+1	la	_	DET	_	_	2	det	_	_
+2	quinte	_	NOUN	_	_	0	root	_	_
+3	d'	_	ADP	_	_	4	case	_	SpaceAfter=No
+4	omicidi	_	NOUN	_	_	2	orphan	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	plague	_	NOUN	_	_	4	conj	_	_
+7	leyau	_	ADJ	_	_	6	amod	_	_
+8	o	_	CCONJ	_	_	9	cc	_	_
+9	alep	_	NOUN	_	_	4	conj	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_27_1_1
+# len = 47
+# text = Item judya la cort mayor de Bearn que tot mau et tote tale qui sie feyte sober thiansers datz deu far et emendar, prumer que aqueg qui prees l'aura respone ad ares, si donc d'aute man de prumer no ave passat judyament;
+1	Item	_	ADV	_	_	2	advmod	_	_
+2	judya	_	VERB	_	_	0	root	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	2	nsubj	_	_
+5	mayor	_	ADJ	_	_	4	amod	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	Bearn	_	PROPN	_	_	4	nmod	_	_
+8	que	_	SCONJ	_	_	20	mark	_	_
+9	tot	_	DET	_	_	10	det	_	_
+10	mau	_	NOUN	_	_	21	obj	_	_
+11	et	_	CCONJ	_	_	13	cc	_	_
+12	tote	_	DET	_	_	13	det	_	_
+13	tale	_	NOUN	_	_	10	conj	_	_
+14	qui	_	PRON	_	_	16	nsubj	_	_
+15	sie	_	AUX	_	_	16	aux:pass	_	_
+16	feyte	_	VERB	_	_	10	acl:relcl	_	_
+17	sober	_	ADP	_	_	18	case	_	_
+18	thiansers	_	NOUN	_	_	16	obl	_	_
+19	datz	_	ADJ	_	_	18	amod	_	_
+20	deu	_	VERB	_	_	2	ccomp	_	_
+21	far	_	VERB	_	_	20	xcomp	_	_
+22	et	_	CCONJ	_	_	23	cc	_	_
+23	emendar	_	VERB	_	_	21	conj	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	20	punct	_	_
+25	prumer	_	ADV	_	ExtPos=SCONJ	32	mark	_	_
+26	que	_	SCONJ	_	_	25	fixed	_	_
+27	aqueg	_	PRON	_	_	32	nsubj	_	_
+28	qui	_	PRON	_	_	29	nsubj	_	_
+29	prees	_	VERB	_	_	27	acl:relcl	_	_
+30	l'	_	PRON	_	_	29	obj	_	SpaceAfter=No
+31	aura	_	AUX	_	_	29	aux	_	_
+32	respone	_	VERB	_	_	20	advcl	_	_
+33	ad	_	ADP	_	_	34	case	_	_
+34	ares	_	NOUN	_	_	32	obl	_	SpaceAfter=No
+35	,	_	PUNCT	_	_	32	punct	_	_
+36	si	_	SCONJ	_	_	45	mark	_	_
+37	donc	_	ADV	_	_	45	advmod	_	_
+38	d'	_	ADP	_	_	40	case	_	SpaceAfter=No
+39	aute	_	DET	_	_	40	det	_	_
+40	man	_	NOUN	_	_	45	obl	_	_
+41	de	_	ADP	_	_	42	case	_	_
+42	prumer	_	ADV	_	_	45	advmod	_	_
+43	no	_	ADV	_	_	45	advmod	_	_
+44	ave	_	AUX	_	_	45	aux	_	_
+45	passat	_	VERB	_	_	20	advcl	_	_
+46	judyament	_	NOUN	_	_	45	obj	_	SpaceAfter=No
+47	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_27_1_2
+# len = 21
+# text = car aqueg ont udyament fos passat deu far prumer lo senhor complir la tale et lo mau qui prees aura.
+1	car	_	CCONJ	_	_	7	cc	_	_
+2	aqueg	_	PRON	_	_	8	iobj	_	_
+3	ont	_	PRON	_	_	6	obl	_	_
+4	udyament	_	NOUN	_	_	6	nsubj	_	_
+5	fos	_	AUX	_	_	6	aux:pass	_	_
+6	passat	_	VERB	_	_	2	acl:relcl	_	_
+7	deu	_	VERB	_	_	0	root	_	_
+8	far	_	VERB	_	_	7	xcomp	_	_
+9	prumer	_	ADV	_	_	8	advmod	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	senhor	_	NOUN	_	_	7	nsubj	_	_
+12	complir	_	VERB	_	_	8	xcomp	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	tale	_	NOUN	_	_	12	obj	_	_
+15	et	_	CCONJ	_	_	17	cc	_	_
+16	lo	_	DET	_	_	17	det	_	_
+17	mau	_	NOUN	_	_	14	conj	_	_
+18	qui	_	PRON	_	_	19	obj	_	_
+19	prees	_	VERB	_	_	14	acl:relcl	_	_
+20	aura	_	AUX	_	_	19	aux	_	SpaceAfter=No
+21	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_27_1_3
+# len = 34
+# text = Et si no es soalhade, que ac deu proar a conegude de la cort en quoau loc l'aura prese, et apres, que la deu aberar quoant vale ab espetitz.
+1	Et	_	CCONJ	_	_	9	cc	_	_
+2	si	_	SCONJ	_	_	5	mark	_	_
+3	no	_	ADV	_	_	5	advmod	_	_
+4	es	_	AUX	_	_	5	cop	_	_
+5	soalhade	_	NOUN	_	_	9	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	que	_	PART	_	_	9	expl	_	_
+8	ac	_	PRON	_	_	10	obj	_	_
+9	deu	_	VERB	_	_	0	root	_	_
+10	proar	_	VERB	_	_	9	xcomp	_	_
+11	a	_	ADP	_	_	12	case	_	_
+12	conegude	_	NOUN	_	_	10	obl	_	_
+13	de	_	ADP	_	_	15	case	_	_
+14	la	_	DET	_	_	15	det	_	_
+15	cort	_	NOUN	_	_	12	nmod	_	_
+16	en	_	ADP	_	_	18	case	_	_
+17	quoau	_	DET	_	_	18	det	_	_
+18	loc	_	NOUN	_	_	21	obl	_	_
+19	l'	_	PRON	_	_	21	obj	_	SpaceAfter=No
+20	aura	_	AUX	_	_	21	aux	_	_
+21	prese	_	VERB	_	_	15	acl:relcl	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	9	punct	_	_
+23	et	_	CCONJ	_	_	28	cc	_	_
+24	apres	_	ADV	_	_	28	advmod	_	SpaceAfter=No
+25	,	_	PUNCT	_	_	24	punct	_	_
+26	que	_	PART	_	_	28	expl	_	_
+27	la	_	PRON	_	_	29	obj	_	_
+28	deu	_	VERB	_	_	9	conj	_	_
+29	aberar	_	VERB	_	_	28	xcomp	_	_
+30	quoant	_	SCONJ	_	_	31	mark	_	_
+31	vale	_	VERB	_	_	29	ccomp	_	_
+32	ab	_	ADP	_	_	33	case	_	_
+33	espetitz	_	NOUN	_	_	29	obl	_	SpaceAfter=No
+34	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_27_1_4
+# len = 32
+# text = Et per ung mees apres que l'aberament sera feyt, que-s deven far las enmendes de totes causes, saub de homicidi que-s deu far per tres mays.
+1	Et	_	CCONJ	_	_	14	cc	_	_
+2	per	_	ADP	_	_	4	case	_	_
+3	ung	_	DET	_	_	4	det	_	_
+4	mees	_	NOUN	_	_	14	obl	_	_
+5	apres	_	ADV	_	ExtPos=SCONJ	10	mark	_	_
+6	que	_	SCONJ	_	_	5	fixed	_	_
+7	l'	_	DET	_	_	8	det	_	SpaceAfter=No
+8	aberament	_	NOUN	_	_	10	nsubj	_	_
+9	sera	_	AUX	_	_	10	aux:pass	_	_
+10	feyt	_	VERB	_	_	14	advcl	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12-13	que-s	_	_	_	_	_	_	_	_
+12	que-	_	PART	_	_	14	expl	_	_
+13	-s	_	PRON	_	_	15	expl	_	_
+14	deven	_	VERB	_	_	0	root	_	_
+15	far	_	VERB	_	_	14	xcomp	_	_
+16	las	_	DET	_	_	17	det	_	_
+17	enmendes	_	NOUN	_	_	15	obj	_	_
+18	de	_	ADP	_	_	20	case	_	_
+19	totes	_	DET	_	_	20	det	_	_
+20	causes	_	NOUN	_	_	17	nmod	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	15	punct	_	_
+22	saub	_	ADP	_	ExtPos=ADP	24	case	_	_
+23	de	_	ADP	_	_	22	fixed	_	_
+24	homicidi	_	NOUN	_	_	15	obl	_	_
+25-26	que-s	_	_	_	_	_	_	_	_
+25	que-	_	PRON	_	_	27	nsubj	_	_
+26	-s	_	PRON	_	_	28	expl	_	_
+27	deu	_	VERB	_	_	24	acl:relcl	_	_
+28	far	_	VERB	_	_	27	xcomp	_	_
+29	per	_	ADP	_	_	31	case	_	_
+30	tres	_	NUM	_	_	31	nummod	_	_
+31	mays	_	NOUN	_	_	28	obl	_	SpaceAfter=No
+32	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_27_1_5
+# len = 19
+# text = Asso fo judyat et feyt a Morlaas sober lo pleyt deu senhor de Navalhesa et d'Andonhs.
+1	Asso	_	PRON	_	_	3	nsubj	_	_
+2	fo	_	AUX	_	_	3	aux:pass	_	_
+3	judyat	_	VERB	_	_	0	root	_	_
+4	et	_	CCONJ	_	_	5	cc	_	_
+5	feyt	_	VERB	_	_	3	conj	_	_
+6	a	_	ADP	_	_	7	case	_	_
+7	Morlaas	_	PROPN	_	_	3	obl	_	_
+8	sober	_	ADP	_	_	10	case	_	_
+9	lo	_	DET	_	_	10	det	_	_
+10	pleyt	_	NOUN	_	_	3	obl	_	_
+11-12	deu	_	_	_	_	_	_	_	_
+11	de-	de-	ADP	_	_	13	case	_	_
+12	-lo	-lo	DET	_	_	13	det	_	_
+13	senhor	_	NOUN	_	_	10	nmod	_	_
+14	de	_	ADP	_	_	15	case	_	_
+15	Navalhesa	_	PROPN	_	_	13	nmod	_	_
+16	et	_	CCONJ	_	_	18	cc	_	_
+17	d'	_	ADP	_	_	18	case	_	SpaceAfter=No
+18	Andonhs	_	PROPN	_	_	15	conj	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_28_1_1
+# len = 54
+# text = Item, si dus homis se peleyen, que sien besins et que l'un aucigue a l'autre et que lo mord aye frays que no sien estatz en la mort ny feyt nulh mau semblant a partide, lo senhor no-n deu prener thiansers ni los deu meter en triubes.
+1	Item	_	ADV	_	_	45	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	si	_	SCONJ	_	_	7	mark	_	_
+4	dus	_	NUM	_	_	5	nummod	_	_
+5	homis	_	NOUN	_	_	7	nsubj	_	_
+6	se	_	PRON	_	_	7	expl	_	_
+7	peleyen	_	VERB	_	_	45	advcl	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	que	_	SCONJ	_	_	11	mark	_	_
+10	sien	_	AUX	_	_	11	cop	_	_
+11	besins	_	NOUN	_	_	7	conj	_	_
+12	et	_	CCONJ	_	_	16	cc	_	_
+13	que	_	SCONJ	_	_	16	mark	_	_
+14	l'	_	DET	_	_	15	det	_	SpaceAfter=No
+15	un	_	PRON	_	_	16	nsubj	_	_
+16	aucigue	_	VERB	_	_	7	conj	_	_
+17	a	_	ADP	_	_	19	case	_	_
+18	l'	_	DET	_	_	19	det	_	SpaceAfter=No
+19	autre	_	PRON	_	_	16	obl	_	_
+20	et	_	CCONJ	_	_	24	cc	_	_
+21	que	_	SCONJ	_	_	24	mark	_	_
+22	lo	_	DET	_	_	23	det	_	_
+23	mord	_	NOUN	_	_	24	nsubj	_	_
+24	aye	_	VERB	_	_	7	conj	_	_
+25	frays	_	NOUN	_	_	24	obj	_	_
+26	que	_	PRON	_	_	29	nsubj	_	_
+27	no	_	ADV	_	_	29	advmod	_	_
+28	sien	_	AUX	_	_	29	aux:pass	_	_
+29	estatz	_	VERB	_	_	25	acl:relcl	_	_
+30	en	_	ADP	_	_	32	case	_	_
+31	la	_	DET	_	_	32	det	_	_
+32	mort	_	NOUN	_	_	29	obl	_	_
+33	ny	_	CCONJ	_	_	34	cc	_	_
+34	feyt	_	VERB	_	_	24	conj	_	_
+35	nulh	_	DET	_	_	36	det	_	_
+36	mau	_	NOUN	_	_	34	obj	_	_
+37	semblant	_	ADJ	_	_	36	amod	_	_
+38	a	_	ADP	_	_	39	case	_	_
+39	partide	_	NOUN	_	_	34	obl	_	SpaceAfter=No
+40	,	_	PUNCT	_	_	7	punct	_	_
+41	lo	_	DET	_	_	42	det	_	_
+42	senhor	_	NOUN	_	_	45	nsubj	_	_
+43-44	no-n	_	_	_	_	_	_	_	_
+43	no-	_	ADV	_	_	45	advmod	_	_
+44	-n	_	PRON	_	_	46	obl	_	_
+45	deu	_	VERB	_	_	0	root	_	_
+46	prener	_	VERB	_	_	45	xcomp	_	_
+47	thiansers	_	NOUN	_	_	46	obj	_	_
+48	ni	_	CCONJ	_	_	50	cc	_	_
+49	los	_	PRON	_	_	51	obj	_	_
+50	deu	_	VERB	_	_	45	conj	_	_
+51	meter	_	VERB	_	_	50	xcomp	_	_
+52	en	_	ADP	_	_	53	case	_	_
+53	triubes	_	NOUN	_	_	51	obl	_	SpaceAfter=No
+54	.	_	PUNCT	_	_	45	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_28_1_2
+# len = 19
+# text = Asso fo judyat a Ortes per la cort de Madona Margaride per la mort de Menaud de Saubaterre:
+1	Asso	_	PRON	_	_	3	nsubj	_	_
+2	fo	_	AUX	_	_	3	aux:pass	_	_
+3	judyat	_	VERB	_	_	0	root	_	_
+4	a	_	ADP	_	_	5	case	_	_
+5	Ortes	_	PROPN	_	_	3	obl	_	_
+6	per	_	ADP	_	_	8	case	_	_
+7	la	_	DET	_	_	8	det	_	_
+8	cort	_	NOUN	_	_	3	obl	_	_
+9	de	_	ADP	_	_	10	case	_	_
+10	Madona	_	NOUN	_	_	8	nmod	_	_
+11	Margaride	_	PROPN	_	_	10	flat	_	_
+12	per	_	ADP	_	_	14	case	_	_
+13	la	_	DET	_	_	14	det	_	_
+14	mort	_	NOUN	_	_	3	obl	_	_
+15	de	_	ADP	_	_	16	case	_	_
+16	Menaud	_	PROPN	_	_	14	nmod	_	_
+17	de	_	ADP	_	_	18	case	_	_
+18	Saubaterre	_	PROPN	_	_	16	nmod	_	SpaceAfter=No
+19	:	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_28_1_3
+# len = 30
+# text = car lo bayle thiene los thiansers en l'ostau deu fray deu mort qui no y ere estat ny feyt no ave semblant que estatz y fos.
+1	car	_	CCONJ	_	_	4	cc	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	bayle	_	NOUN	_	_	4	nsubj	_	_
+4	thiene	_	VERB	_	_	0	root	_	_
+5	los	_	DET	_	_	6	det	_	_
+6	thiansers	_	NOUN	_	_	4	obj	_	_
+7	en	_	ADP	_	_	9	case	_	_
+8	l'	_	DET	_	_	9	det	_	SpaceAfter=No
+9	ostau	_	NOUN	_	_	4	obl	_	_
+10-11	deu	_	_	_	_	_	_	_	_
+10	de-	de-	ADP	_	_	12	case	_	_
+11	-lo	-lo	DET	_	_	12	det	_	_
+12	fray	_	NOUN	_	_	9	nmod	_	_
+13-14	deu	_	_	_	_	_	_	_	_
+13	de-	de-	ADP	_	_	15	case	_	_
+14	-lo	-lo	DET	_	_	15	det	_	_
+15	mort	_	NOUN	_	_	12	nmod	_	_
+16	qui	_	PRON	_	_	20	nsubj	_	_
+17	no	_	ADV	_	_	20	advmod	_	_
+18	y	_	PRON	_	_	20	obl	_	_
+19	ere	_	AUX	_	_	20	aux	_	_
+20	estat	_	VERB	_	_	3	acl:relcl	_	_
+21	ny	_	CCONJ	_	_	22	cc	_	_
+22	feyt	_	VERB	_	_	20	conj	_	_
+23	no	_	ADV	_	_	22	advmod	_	_
+24	ave	_	AUX	_	_	22	aux	_	_
+25	semblant	_	NOUN	_	_	22	obj	_	_
+26	que	_	SCONJ	_	_	27	mark	_	_
+27	estatz	_	VERB	_	_	25	acl	_	_
+28	y	_	PRON	_	_	27	obl	_	_
+29	fos	_	AUX	_	_	27	aux	_	SpaceAfter=No
+30	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_29_1_1
+# len = 43
+# text = Item judya la cort a Pau que, jassie que lo senhor tengue thiansers auguns homis en sengles locx, que no los poden tessar aquegs qui mes los y an que no responen aus clamantz, si n'i ha.
+1	Item	_	ADV	_	_	2	advmod	_	_
+2	judya	_	VERB	_	_	0	root	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	2	nsubj	_	_
+5	a	_	ADP	_	_	6	case	_	_
+6	Pau	_	PROPN	_	_	2	obl	_	_
+7	que	_	SCONJ	_	_	24	mark	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	jassie	_	SCONJ	_	ExtPos=SCONJ	13	mark	_	_
+10	que	_	SCONJ	_	_	9	fixed	_	_
+11	lo	_	DET	_	_	12	det	_	_
+12	senhor	_	NOUN	_	_	13	nsubj	_	_
+13	tengue	_	VERB	_	_	24	advcl	_	_
+14	thiansers	_	NOUN	_	_	13	xcomp	_	_
+15	auguns	_	DET	_	_	16	det	_	_
+16	homis	_	NOUN	_	_	13	obj	_	_
+17	en	_	ADP	_	_	19	case	_	_
+18	sengles	_	DET	_	_	19	det	_	_
+19	locx	_	NOUN	_	_	13	obl	_	SpaceAfter=No
+20	,	_	PUNCT	_	_	13	punct	_	_
+21	que	_	SCONJ	_	_	24	mark	_	_
+22	no	_	ADV	_	_	24	advmod	_	_
+23	los	_	PRON	_	_	25	obj	_	_
+24	poden	_	VERB	_	_	2	ccomp	_	_
+25	tessar	_	VERB	_	_	24	xcomp	_	_
+26	aquegs	_	PRON	_	_	24	nsubj	_	_
+27	qui	_	PRON	_	_	28	nsubj	_	_
+28	mes	_	VERB	_	_	26	acl:relcl	_	_
+29	los	_	PRON	_	_	28	obj	_	_
+30	y	_	PRON	_	_	28	obl	_	_
+31	an	_	AUX	_	_	28	aux	_	_
+32	que	_	SCONJ	_	_	34	mark	_	_
+33	no	_	ADV	_	_	34	advmod	_	_
+34	responen	_	VERB	_	_	24	advcl	_	_
+35-36	aus	_	_	_	_	_	_	_	_
+35	a-	a-	ADP	_	_	37	case	_	_
+36	-los	-los	DET	_	_	37	det	_	_
+37	clamantz	_	NOUN	_	_	34	obl	_	SpaceAfter=No
+38	,	_	PUNCT	_	_	34	punct	_	_
+39	si	_	SCONJ	_	_	42	mark	_	_
+40	n'	_	PRON	_	_	42	obl	_	SpaceAfter=No
+41	i	_	PRON	_	_	42	expl	_	_
+42	ha	_	VERB	_	_	34	advcl	_	SpaceAfter=No
+43	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_29_1_2
+# len = 13
+# text = Sober lo pleyt de Sent Martii et deu casteg de Salies.
+1	Sober	_	ADP	_	_	3	case	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	pleyt	_	NOUN	_	_	0	root	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	Sent	_	ADJ	_	_	6	amod	_	_
+6	Martii	_	PROPN	_	_	3	nmod	_	_
+7	et	_	CCONJ	_	_	10	cc	_	_
+8-9	deu	_	_	_	_	_	_	_	_
+8	de-	de-	ADP	_	_	10	case	_	_
+9	-lo	-lo	DET	_	_	10	det	_	_
+10	casteg	_	NOUN	_	_	6	conj	_	_
+11	de	_	ADP	_	_	12	case	_	_
+12	Salies	_	PROPN	_	_	10	nmod	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_30_1_1
+# len = 15
+# text = Item tot thianser deu aver paus per tres dies abantz que ost de exir;
+1	Item	_	ADV	_	_	4	advmod	_	_
+2	tot	_	DET	_	_	3	det	_	_
+3	thianser	_	NOUN	_	_	4	nsubj	_	_
+4	deu	_	VERB	_	_	0	root	_	_
+5	aver	_	VERB	_	_	4	xcomp	_	_
+6	paus	_	NOUN	_	_	5	obj	_	_
+7	per	_	ADP	_	_	9	case	_	_
+8	tres	_	NUM	_	_	9	nummod	_	_
+9	dies	_	NOUN	_	_	5	obl	_	_
+10	abantz	_	ADV	_	ExtPos=SCONJ	13	mark	_	_
+11	que	_	SCONJ	_	_	10	fixed	_	_
+12	ost	_	NOUN	_	_	13	nsubj	_	_
+13	de	_	VERB	_	_	4	advcl	_	_
+14	exir	_	VERB	_	_	13	xcomp	_	SpaceAfter=No
+15	;	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_30_1_2
+# len = 14
+# text = et si va, que deu tomar, et quant biencut sie autaben.
+1	et	_	CCONJ	_	_	6	cc	_	_
+2	si	_	SCONJ	_	_	3	mark	_	_
+3	va	_	VERB	_	_	6	advcl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	que	_	PART	_	_	6	expl	_	_
+6	deu	_	VERB	_	_	0	root	_	_
+7	tomar	_	VERB	_	_	6	xcomp	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	et	_	CCONJ	_	_	11	cc	_	_
+10	quant	_	SCONJ	_	_	11	mark	_	_
+11	biencut	_	VERB	_	_	6	advcl	_	_
+12	sie	_	AUX	_	_	11	aux:pass	_	_
+13	autaben	_	ADV	_	_	11	advmod	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_31_1_1
+# len = 49
+# text = Item, sober la requeste que lo senhor d'Abidos fase au senhor mayor que lo donas malheute de sons thiansers, judya la cort mayor que lo senhor lo doni los thiansers a malhevar, eg dan triube et patz, et no en aute maneyre.
+1	Item	_	ADV	_	_	24	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	sober	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	requeste	_	NOUN	_	_	24	obl	_	_
+6	que	_	PRON	_	_	11	obj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	11	nsubj	_	_
+9	d'	_	ADP	_	_	10	case	_	SpaceAfter=No
+10	Abidos	_	PROPN	_	_	8	nmod	_	_
+11	fase	_	VERB	_	_	5	acl:relcl	_	_
+12-13	au	_	_	_	_	_	_	_	_
+12	a-	a-	ADP	_	_	14	case	_	_
+13	-lo	-lo	DET	_	_	14	det	_	_
+14	senhor	_	NOUN	_	_	11	obl	_	_
+15	mayor	_	ADJ	_	_	14	amod	_	_
+16	que	_	SCONJ	_	_	18	mark	_	_
+17	lo	_	PRON	_	_	18	iobj	_	_
+18	donas	_	VERB	_	_	11	ccomp	_	_
+19	malheute	_	NOUN	_	_	18	obj	_	_
+20	de	_	ADP	_	_	22	case	_	_
+21	sons	_	DET	_	_	22	det	_	_
+22	thiansers	_	NOUN	_	_	19	nmod	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	5	punct	_	_
+24	judya	_	VERB	_	_	0	root	_	_
+25	la	_	DET	_	_	26	det	_	_
+26	cort	_	NOUN	_	_	24	nsubj	_	_
+27	mayor	_	ADJ	_	_	26	amod	_	_
+28	que	_	SCONJ	_	_	32	mark	_	_
+29	lo	_	DET	_	_	30	det	_	_
+30	senhor	_	NOUN	_	_	32	nsubj	_	_
+31	lo	_	PRON	_	_	32	iobj	_	_
+32	doni	_	VERB	_	_	24	ccomp	_	_
+33	los	_	DET	_	_	34	det	_	_
+34	thiansers	_	NOUN	_	_	32	obj	_	_
+35	a	_	ADP	_	_	36	mark	_	_
+36	malhevar	_	VERB	_	_	32	xcomp	_	SpaceAfter=No
+37	,	_	PUNCT	_	_	32	punct	_	_
+38	eg	_	PRON	_	_	39	nsubj	_	_
+39	dan	_	VERB	_	_	32	advcl	_	_
+40	triube	_	NOUN	_	_	39	obj	_	_
+41	et	_	CCONJ	_	_	42	cc	_	_
+42	patz	_	NOUN	_	_	40	conj	_	SpaceAfter=No
+43	,	_	PUNCT	_	_	39	punct	_	_
+44	et	_	CCONJ	_	_	48	cc	_	_
+45	no	_	ADV	_	_	48	advmod	_	_
+46	en	_	ADP	_	_	48	case	_	_
+47	aute	_	DET	_	_	48	det	_	_
+48	maneyre	_	NOUN	_	_	39	conj	_	SpaceAfter=No
+49	.	_	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_32_1_1
+# len = 27
+# text = Item judya la cort mayor que aqueg qui mane la cort, es a diser los thiansers, deu jurar sober santz que mandat l'a;
+1	Item	_	ADV	_	_	2	advmod	_	_
+2	judya	_	VERB	_	_	0	root	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	2	nsubj	_	_
+5	mayor	_	ADJ	_	_	4	amod	_	_
+6	que	_	SCONJ	_	_	19	mark	_	_
+7	aqueg	_	PRON	_	_	19	nsubj	_	_
+8	qui	_	PRON	_	_	9	nsubj	_	_
+9	mane	_	VERB	_	_	7	acl:relcl	_	_
+10	la	_	DET	_	_	11	det	_	_
+11	cort	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	es	_	VERB	_	ExtPos=ADV	17	advmod	_	_
+14	a	_	ADP	_	_	13	fixed	_	_
+15	diser	_	VERB	_	_	13	fixed	_	_
+16	los	_	DET	_	_	17	det	_	_
+17	thiansers	_	NOUN	_	_	11	appos	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	7	punct	_	_
+19	deu	_	VERB	_	_	2	ccomp	_	_
+20	jurar	_	VERB	_	_	19	xcomp	_	_
+21	sober	_	ADP	_	_	22	case	_	_
+22	santz	_	NOUN	_	_	20	obl	_	_
+23	que	_	SCONJ	_	_	24	mark	_	_
+24	mandat	_	VERB	_	_	20	ccomp	_	_
+25	l'	_	PRON	_	_	24	iobj	_	SpaceAfter=No
+26	a	_	AUX	_	_	24	aux	_	SpaceAfter=No
+27	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_32_1_2
+# len = 9
+# text = et aixi es la ley deu manador.
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	aixi	_	ADV	_	_	3	advmod	_	_
+3	es	_	VERB	_	_	0	root	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	ley	_	NOUN	_	_	3	nsubj	_	_
+6-7	deu	_	_	_	_	_	_	_	_
+6	de-	de-	ADP	_	_	8	case	_	_
+7	-lo	-lo	DET	_	_	8	det	_	_
+8	manador	_	NOUN	_	_	5	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_33_1_1
+# len = 119
+# text = Item, sober la domane que lo senhor mayor fase au senhor de Andonhs de thiansers, que dise que ab lo senhor de Gerserest et ab lo senhor de Balensun ave goerre et que per cascune ne deve dar, et lo senhor d'Andonhs dise que no ave goerre ab lo senhor de Gerserest et que dat n'ave de sso de Balenssun, lo senhor disen que si car sober luy ab armes ere anat, judye lo senhor et la cort que dues son las goerres et que per cascune deu dar thiensers, tant entro que lo senhor de Balensun aye aberat que lo senhor de Gerserest es per luy en goerre.
+1	Item	_	ADV	_	_	81	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	sober	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	domane	_	NOUN	_	_	81	obl	_	_
+6	que	_	PRON	_	_	10	obj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	10	nsubj	_	_
+9	mayor	_	ADJ	_	_	8	amod	_	_
+10	fase	_	VERB	_	_	5	acl:relcl	_	_
+11-12	au	_	_	_	_	_	_	_	_
+11	a-	_	ADP	_	_	13	case	_	_
+12	-lo	_	DET	_	_	13	det	_	_
+13	senhor	_	NOUN	_	_	10	obl	_	_
+14	de	_	ADP	_	_	15	case	_	_
+15	Andonhs	_	PROPN	_	_	13	nmod	_	_
+16	de	_	ADP	_	_	17	case	_	_
+17	thiansers	_	NOUN	_	_	5	nmod	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	5	punct	_	_
+19	que	_	PRON	_	_	20	nsubj	_	_
+20	dise	_	VERB	_	_	5	acl:relcl	_	_
+21	que	_	SCONJ	_	_	33	mark	_	_
+22	ab	_	ADP	_	_	24	case	_	_
+23	lo	_	DET	_	_	24	det	_	_
+24	senhor	_	NOUN	_	_	33	obl	_	_
+25	de	_	ADP	_	_	26	case	_	_
+26	Gerserest	_	PROPN	_	_	24	nmod	_	_
+27	et	_	CCONJ	_	_	30	cc	_	_
+28	ab	_	ADP	_	_	30	case	_	_
+29	lo	_	DET	_	_	30	det	_	_
+30	senhor	_	NOUN	_	_	24	conj	_	_
+31	de	_	ADP	_	_	32	case	_	_
+32	Balensun	_	PROPN	_	_	30	nmod	_	_
+33	ave	_	VERB	_	_	20	ccomp	_	_
+34	goerre	_	NOUN	_	_	33	obj	_	_
+35	et	_	CCONJ	_	_	40	cc	_	_
+36	que	_	SCONJ	_	_	40	mark	_	_
+37	per	_	ADP	_	_	38	case	_	_
+38	cascune	_	PRON	_	_	41	obl	_	_
+39	ne	_	PRON	_	_	41	obl	_	_
+40	deve	_	VERB	_	_	33	conj	_	_
+41	dar	_	VERB	_	_	40	xcomp	_	SpaceAfter=No
+42	,	_	PUNCT	_	_	20	punct	_	_
+43	et	_	CCONJ	_	_	48	cc	_	_
+44	lo	_	DET	_	_	45	det	_	_
+45	senhor	_	NOUN	_	_	48	nsubj	_	_
+46	d'	_	ADP	_	_	47	case	_	SpaceAfter=No
+47	Andonhs	_	PROPN	_	_	45	nmod	_	_
+48	dise	_	VERB	_	_	20	conj	_	_
+49	que	_	SCONJ	_	_	51	mark	_	_
+50	no	_	ADV	_	_	51	advmod	_	_
+51	ave	_	VERB	_	_	48	ccomp	_	_
+52	goerre	_	NOUN	_	_	51	obj	_	_
+53	ab	_	ADP	_	_	55	case	_	_
+54	lo	_	DET	_	_	55	det	_	_
+55	senhor	_	NOUN	_	_	51	obl	_	_
+56	de	_	ADP	_	_	57	case	_	_
+57	Gerserest	_	PROPN	_	_	55	nmod	_	_
+58	et	_	CCONJ	_	_	60	cc	_	_
+59	que	_	SCONJ	_	_	60	mark	_	_
+60	dat	_	VERB	_	_	48	conj	_	_
+61	n'	_	PRON	_	_	60	obl	_	SpaceAfter=No
+62	ave	_	AUX	_	_	60	aux	_	_
+63	de	_	ADP	_	_	64	case	_	_
+64	sso	_	PRON	_	_	60	obl	_	_
+65	de	_	ADP	_	_	66	case	_	_
+66	Balenssun	_	PROPN	_	_	64	nmod	_	SpaceAfter=No
+67	,	_	PUNCT	_	_	48	punct	_	_
+68	lo	_	DET	_	_	69	det	_	_
+69	senhor	_	NOUN	_	_	70	nsubj	_	_
+70	disen	_	VERB	_	_	20	conj	_	_
+71	que	_	SCONJ	_	_	72	mark	_	_
+72	si	_	ADV	_	_	70	ccomp	_	_
+73	car	_	SCONJ	_	_	79	mark	_	_
+74	sober	_	ADP	_	_	75	case	_	_
+75	luy	_	PRON	_	_	79	obl	_	_
+76	ab	_	ADP	_	_	77	case	_	_
+77	armes	_	NOUN	_	_	79	obl	_	_
+78	ere	_	AUX	_	_	79	aux	_	_
+79	anat	_	VERB	_	_	70	advcl	_	SpaceAfter=No
+80	,	_	PUNCT	_	_	5	punct	_	_
+81	judye	_	VERB	_	_	0	root	_	_
+82	lo	_	DET	_	_	83	det	_	_
+83	senhor	_	NOUN	_	_	81	nsubj	_	_
+84	et	_	CCONJ	_	_	86	cc	_	_
+85	la	_	DET	_	_	86	det	_	_
+86	cort	_	NOUN	_	_	83	conj	_	_
+87	que	_	SCONJ	_	_	88	mark	_	_
+88	dues	_	NUM	_	_	81	ccomp	_	_
+89	son	_	AUX	_	_	88	cop	_	_
+90	las	_	DET	_	_	91	det	_	_
+91	goerres	_	NOUN	_	_	88	nsubj	_	_
+92	et	_	CCONJ	_	_	96	cc	_	_
+93	que	_	SCONJ	_	_	96	mark	_	_
+94	per	_	ADP	_	_	95	case	_	_
+95	cascune	_	PRON	_	_	97	obl	_	_
+96	deu	_	VERB	_	_	88	conj	_	_
+97	dar	_	VERB	_	_	96	xcomp	_	_
+98	thiensers	_	NOUN	_	_	97	obj	_	SpaceAfter=No
+99	,	_	PUNCT	_	_	96	punct	_	_
+100	tant	_	ADV	_	ExtPos=SCONJ	108	mark	_	_
+101	entro	_	ADP	_	_	100	fixed	_	_
+102	que	_	SCONJ	_	_	100	fixed	_	_
+103	lo	_	DET	_	_	104	det	_	_
+104	senhor	_	NOUN	_	_	108	nsubj	_	_
+105	de	_	ADP	_	_	106	case	_	_
+106	Balensun	_	PROPN	_	_	104	nmod	_	_
+107	aye	_	AUX	_	_	108	aux	_	_
+108	aberat	_	VERB	_	_	96	advcl	_	_
+109	que	_	SCONJ	_	_	114	mark	_	_
+110	lo	_	DET	_	_	111	det	_	_
+111	senhor	_	NOUN	_	_	114	nsubj	_	_
+112	de	_	ADP	_	_	113	case	_	_
+113	Gerserest	_	PROPN	_	_	111	nmod	_	_
+114	es	_	VERB	_	_	108	ccomp	_	_
+115	per	_	ADP	_	_	116	case	_	_
+116	luy	_	PRON	_	_	114	obl	_	_
+117	en	_	ADP	_	_	118	case	_	_
+118	goerre	_	NOUN	_	_	114	obl	_	SpaceAfter=No
+119	.	_	PUNCT	_	_	81	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_34_1_1
+# len = 61
+# text = Item, sober la requeste que lo senhor de Laas fase au senhor deus thiansers que lo donas soute o malheute, lo senhor disent que aquegs thie per sas leys, judya la cort que lo senhor pot thenir los thiansers per sas leys puix que eg coffessa que y ago goerre et patz n'es feyte.
+1	Item	_	ADV	_	_	35	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	sober	_	ADP	_	_	5	case	_	_
+4	la	_	DET	_	_	5	det	_	_
+5	requeste	_	NOUN	_	_	35	obl	_	_
+6	que	_	PRON	_	_	11	obj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	senhor	_	NOUN	_	_	11	nsubj	_	_
+9	de	_	ADP	_	_	10	case	_	_
+10	Laas	_	PROPN	_	_	8	nmod	_	_
+11	fase	_	VERB	_	_	5	acl:relcl	_	_
+12-13	au	_	_	_	_	_	_	_	_
+12	a-	_	ADP	_	_	14	case	_	_
+13	-lo	_	DET	_	_	14	det	_	_
+14	senhor	_	NOUN	_	_	11	obl	_	_
+15-16	deus	_	_	_	_	_	_	_	_
+15	de-	_	ADP	_	_	17	case	_	_
+16	-los	_	DET	_	_	17	det	_	_
+17	thiansers	_	NOUN	_	_	11	obl	_	_
+18	que	_	SCONJ	_	_	20	mark	_	_
+19	lo	_	PRON	_	_	20	iobj	_	_
+20	donas	_	VERB	_	_	5	acl	_	_
+21	soute	_	NOUN	_	_	20	obj	_	_
+22	o	_	CCONJ	_	_	23	cc	_	_
+23	malheute	_	NOUN	_	_	21	conj	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	20	punct	_	_
+25	lo	_	DET	_	_	26	det	_	_
+26	senhor	_	NOUN	_	_	27	nsubj	_	_
+27	disent	_	VERB	_	_	20	conj	_	_
+28	que	_	SCONJ	_	_	30	mark	_	_
+29	aquegs	_	PRON	_	_	30	obj	_	_
+30	thie	_	VERB	_	_	27	ccomp	_	_
+31	per	_	ADP	_	_	33	case	_	_
+32	sas	_	DET	_	_	33	det	_	_
+33	leys	_	NOUN	_	_	30	obl	_	SpaceAfter=No
+34	,	_	PUNCT	_	_	5	punct	_	_
+35	judya	_	VERB	_	_	0	root	_	_
+36	la	_	DET	_	_	37	det	_	_
+37	cort	_	NOUN	_	_	35	nsubj	_	_
+38	que	_	SCONJ	_	_	41	mark	_	_
+39	lo	_	DET	_	_	40	det	_	_
+40	senhor	_	NOUN	_	_	41	nsubj	_	_
+41	pot	_	VERB	_	_	35	ccomp	_	_
+42	thenir	_	VERB	_	_	41	xcomp	_	_
+43	los	_	DET	_	_	44	det	_	_
+44	thiansers	_	NOUN	_	_	42	obj	_	_
+45	per	_	ADP	_	_	47	case	_	_
+46	sas	_	DET	_	_	47	det	_	_
+47	leys	_	NOUN	_	_	42	obl	_	_
+48	puix	_	ADV	_	ExtPos=SCONJ	51	mark	_	_
+49	que	_	SCONJ	_	_	48	fixed	_	_
+50	eg	_	PRON	_	_	51	nsubj	_	_
+51	coffessa	_	VERB	_	_	41	advcl	_	_
+52	que	_	SCONJ	_	_	54	mark	_	_
+53	y	_	PRON	_	_	54	expl	_	_
+54	ago	_	VERB	_	_	51	ccomp	_	_
+55	goerre	_	NOUN	_	_	54	obj	_	_
+56	et	_	CCONJ	_	_	60	cc	_	_
+57	patz	_	NOUN	_	_	60	nsubj	_	_
+58	n'	_	PRON	_	_	60	obl	_	SpaceAfter=No
+59	es	_	AUX	_	_	60	aux:pass	_	_
+60	feyte	_	VERB	_	_	54	conj	_	SpaceAfter=No
+61	.	_	PUNCT	_	_	35	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_35_1_1
+# len = 55
+# text = Item conego la cort maior sober la requeste que lo senhor de Laas fase au senhor deu son loc que-u thie et lo demandave soute o malheute, lo senhor disent que lo loc thie car no lo ave dat thiansers, per que soute ni malheute no lo deu dar;
+1	Item	_	ADV	_	_	2	advmod	_	_
+2	conego	_	VERB	_	_	0	root	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	cort	_	NOUN	_	_	2	nsubj	_	_
+5	maior	_	ADJ	_	_	4	amod	_	_
+6	sober	_	ADP	_	_	8	case	_	_
+7	la	_	DET	_	_	8	det	_	_
+8	requeste	_	NOUN	_	_	2	obl	_	_
+9	que	_	PRON	_	_	14	obj	_	_
+10	lo	_	DET	_	_	11	det	_	_
+11	senhor	_	NOUN	_	_	14	nsubj	_	_
+12	de	_	ADP	_	_	13	case	_	_
+13	Laas	_	PROPN	_	_	11	nmod	_	_
+14	fase	_	VERB	_	_	8	acl:relcl	_	_
+15-16	au	_	_	_	_	_	_	_	_
+15	a-	_	ADP	_	_	17	case	_	_
+16	-lo	_	DET	_	_	17	det	_	_
+17	senhor	_	NOUN	_	_	14	obl	_	_
+18-19	deu	_	_	_	_	_	_	_	_
+18	de-	_	ADP	_	_	20	case	_	_
+19	-lo	_	DET	_	_	21	det	_	_
+20	son	_	ADJ	_	_	21	amod	_	_
+21	loc	_	NOUN	_	_	14	obl	_	_
+22-23	que-u	_	_	_	_	_	_	_	_
+22	que-	_	PRON	_	_	24	obj	_	_
+23	-u	_	PRON	_	_	24	nsubj	_	_
+24	thie	_	VERB	_	_	21	acl:relcl	_	_
+25	et	_	CCONJ	_	_	27	cc	_	_
+26	lo	_	PRON	_	_	27	iobj	_	_
+27	demandave	_	VERB	_	_	14	conj	_	_
+28	soute	_	NOUN	_	_	27	obj	_	_
+29	o	_	CCONJ	_	_	30	cc	_	_
+30	malheute	_	NOUN	_	_	28	conj	_	SpaceAfter=No
+31	,	_	PUNCT	_	_	14	punct	_	_
+32	lo	_	DET	_	_	33	det	_	_
+33	senhor	_	NOUN	_	_	34	nsubj	_	_
+34	disent	_	VERB	_	_	14	advcl	_	_
+35	que	_	SCONJ	_	_	38	mark	_	_
+36	lo	_	DET	_	_	37	det	_	_
+37	loc	_	NOUN	_	_	38	obj	_	_
+38	thie	_	VERB	_	_	34	ccomp	_	_
+39	car	_	SCONJ	_	_	43	mark	_	_
+40	no	_	ADV	_	_	43	advmod	_	_
+41	lo	_	PRON	_	_	43	obj	_	_
+42	ave	_	AUX	_	_	43	aux	_	_
+43	dat	_	VERB	_	_	34	advcl	_	_
+44	thiansers	_	NOUN	_	_	43	obl	_	SpaceAfter=No
+45	,	_	PUNCT	_	_	43	punct	_	_
+46	per	_	ADP	_	ExtPos=SCONJ	53	mark	_	_
+47	que	_	SCONJ	_	_	46	fixed	_	_
+48	soute	_	NOUN	_	_	54	obj	_	_
+49	ni	_	CCONJ	_	_	50	cc	_	_
+50	malheute	_	NOUN	_	_	48	conj	_	_
+51	no	_	ADV	_	_	53	advmod	_	_
+52	lo	_	PRON	_	_	54	iobj	_	_
+53	deu	_	VERB	_	_	43	advcl	_	_
+54	dar	_	VERB	_	_	53	xcomp	_	SpaceAfter=No
+55	;	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 1460_Bearn_1_1_35_1_2
+# len = 55
+# text = judya la cort que lo senhor de Laas doni thiensers sufficientz au senhor a garde de la cort et, aquegs datz, lo senhor que lo rede son loc et apres, que respone lo senhor de Laas a las domanes qui lo senhor lo fe, a garde de la cort.
+1	judya	_	VERB	_	_	0	root	_	_
+2	la	_	DET	_	_	3	det	_	_
+3	cort	_	NOUN	_	_	1	nsubj	_	_
+4	que	_	SCONJ	_	_	9	mark	_	_
+5	lo	_	DET	_	_	6	det	_	_
+6	senhor	_	NOUN	_	_	9	nsubj	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Laas	_	PROPN	_	_	6	nmod	_	_
+9	doni	_	VERB	_	_	1	ccomp	_	_
+10	thiensers	_	NOUN	_	_	9	obj	_	_
+11	sufficientz	_	ADJ	_	_	10	amod	_	_
+12-13	au	_	_	_	_	_	_	_	_
+12	a-	a-	ADP	_	_	14	case	_	_
+13	-lo	-lo	DET	_	_	14	det	_	_
+14	senhor	_	NOUN	_	_	9	obl	_	_
+15	a	_	ADP	_	_	16	case	_	_
+16	garde	_	NOUN	_	_	9	obl	_	_
+17	de	_	ADP	_	_	19	case	_	_
+18	la	_	DET	_	_	19	det	_	_
+19	cort	_	NOUN	_	_	16	nmod	_	_
+20	et	_	CCONJ	_	_	29	cc	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	20	punct	_	_
+22	aquegs	_	PRON	_	_	23	nsubj	_	_
+23	datz	_	VERB	_	_	29	advcl	_	SpaceAfter=No
+24	,	_	PUNCT	_	_	23	punct	_	_
+25	lo	_	DET	_	_	26	det	_	_
+26	senhor	_	NOUN	_	_	29	nsubj	_	_
+27	que	_	SCONJ	_	_	29	mark	_	_
+28	lo	_	PRON	_	_	29	iobj	_	_
+29	rede	_	VERB	_	_	9	conj	_	_
+30	son	_	DET	_	_	31	det	_	_
+31	loc	_	NOUN	_	_	29	obj	_	_
+32	et	_	CCONJ	_	_	36	cc	_	_
+33	apres	_	ADV	_	_	36	advmod	_	SpaceAfter=No
+34	,	_	PUNCT	_	_	33	punct	_	_
+35	que	_	SCONJ	_	_	36	mark	_	_
+36	respone	_	VERB	_	_	9	conj	_	_
+37	lo	_	DET	_	_	38	det	_	_
+38	senhor	_	NOUN	_	_	36	nsubj	_	_
+39	de	_	ADP	_	_	40	case	_	_
+40	Laas	_	PROPN	_	_	38	nmod	_	_
+41	a	_	ADP	_	_	43	case	_	_
+42	las	_	DET	_	_	43	det	_	_
+43	domanes	_	NOUN	_	_	36	obl	_	_
+44	qui	_	PRON	_	_	48	obj	_	_
+45	lo	_	DET	_	_	46	det	_	_
+46	senhor	_	NOUN	_	_	48	nsubj	_	_
+47	lo	_	PRON	_	_	48	iobj	_	_
+48	fe	_	VERB	_	_	43	acl:relcl	_	SpaceAfter=No
+49	,	_	PUNCT	_	_	36	punct	_	_
+50	a	_	ADP	_	_	51	case	_	_
+51	garde	_	NOUN	_	_	36	obl	_	_
+52	de	_	ADP	_	_	54	case	_	_
+53	la	_	DET	_	_	54	det	_	_
+54	cort	_	NOUN	_	_	51	nmod	_	SpaceAfter=No
+55	.	_	PUNCT	_	_	1	punct	_	_
+
