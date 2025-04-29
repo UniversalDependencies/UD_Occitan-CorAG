@@ -1,20 +1,23 @@
 # Summary
-
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+UD_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts in Gascon, a variety of Old Occitan. The texts were digitized from printed editions and subsequently manually annoted in Universal Dependencies (PoS and functions).
 
 # Introduction
 
-...
+The collection currently contains two texts:
+
+\* "Coutumes et Privilèges de l’Entre-Deux-Mers", 1214-1342 (Lépicier 1861)
+
+\* "Les Fors Anciens de Béarn" 1460 (Ourliac & Gilles 1990)
+
+The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel)) parsers using bootstrapping methodology (Peng et al 2022) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
 
 
 # Acknowledgments
-
-...
+The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France. Manual annotation was performed by Barbara Francioni. Technical support by Rayan Ziane and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
 
 ## References
 
-* (citation)
+* Forthcoming
 
 
 # Changelog
