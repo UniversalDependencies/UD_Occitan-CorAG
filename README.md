@@ -3,13 +3,21 @@ UD_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts
 
 # Introduction
 
-The collection currently contains two texts:
+The collection (1,094 sentences; 38,679 tokens) currently contains two texts:
 
-\* "Coutumes et Privilèges de l’Entre-Deux-Mers", 1214-1342 (Lépicier 1861)
+\* _Coutumes et Privilèges de l’Entre-Deux-Mers_, 1214-1342 (Lépicier 1861): 344 sentences; 11,975 tokens
 
-\* "Les Fors Anciens de Béarn" 1460 (Ourliac & Gilles 1990)
+\* _Les Fors Anciens de Béarn_ 1460 (Ourliac & Gilles 1990): 750 sentences; 26,704  tokens
 
 The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel)) parsers using bootstrapping methodology (Peng et al 2022) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
+
+| Set               | Sentences| Tokens|
+| :---------------- | :------: | ----: |
+| Train             |  657     | 23,807|
+| Dev               |  152     | 4580  |
+| Test              |  285     | 10292 |
+
+The corpus was divided into train (23,807 tokens), dev (4,580 tokens) and test (10,292 tokens) sets.
 
 
 # Acknowledgments
