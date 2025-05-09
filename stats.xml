@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1094</sentences><tokens>36690</tokens><words>37585</words><fused>895</fused></total>
+    <train><sentences>657</sentences><tokens>22600</tokens><words>23150</words><fused>550</fused></train>
+    <dev><sentences>152</sentences><tokens>4343</tokens><words>4428</words><fused>85</fused></dev>
+    <test><sentences>285</sentences><tokens>9747</tokens><words>10007</words><fused>260</fused></test>
+  </size>
+  <lemmas unique="47" /><!-- -lo, de-, a-, -los, ., lodit, -, loquoau, -quere, et, laquau, laquoau, ,, -las, -lodeyt -->
+  <forms unique="4767" /><!-- ,, et, de, que, la, lo, ., en, a, per, no, -lo, de-, si, o -->
+  <fusions unique="94" /><!-- deu, au, del, dels, deus, aus, no-s, que-u, que-n, lo-n, als, deudit, no-n, que-us, a-ffase -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">1215</tag><!-- _, dessusdiit -->
+    <tag name="ADP">5135</tag><!-- _, de-, a-, de -->
+    <tag name="ADV">1715</tag><!-- _, delor -->
+    <tag name="AUX">1043</tag><!-- _ -->
+    <tag name="CCONJ">2481</tag><!-- _, et, car -->
+    <tag name="DET">4533</tag><!-- _, -lo, -los, lodit, -, laquoau, -las, -lodeyt, -quere, -queste -->
+    <tag name="NOUN">6966</tag><!-- _, antz, cavers, cort, diers, dies, for, possedidor, sotzsenescaut -->
+    <tag name="NUM">343</tag><!-- _, @card@ -->
+    <tag name="PART">195</tag><!-- _ -->
+    <tag name="PRON">2831</tag><!-- _, -los, loquoau, laquau, -, -queg, -quegs, -quere, il, lasquoaus -->
+    <tag name="PROPN">1497</tag><!-- _, Araus-Juson, Arribere-Osse, Arribere-gave, Bic-Bielh, Casteg-Pugoo, Florenties-darrer, H. -->
+    <tag name="PUNCT">3609</tag><!-- _, ., , -->
+    <tag name="SCONJ">1470</tag><!-- _ -->
+    <tag name="VERB">4552</tag><!-- _, dader -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="4">
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,SCONJ">40</feat><!-- entro, per, fore, no, quant, saub, am, aprees, cum, en -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,PRON,SCONJ,VERB">60</feat><!-- so, tant, si, ayssi, no, es, per, so-, aixi, ayssi- -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV">8</feat><!-- ayssi, aixi, ayssi- -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,NOUN,SCONJ,VERB">189</feat><!-- ayssi, entro, per, si, tant, ab, sino, aixi, en, apres -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="32">
+    <dep name="acl">210</dep>
+    <dep name="acl:relcl">601</dep>
+    <dep name="advcl">942</dep>
+    <dep name="advmod">1451</dep>
+    <dep name="amod">1017</dep>
+    <dep name="appos">197</dep>
+    <dep name="aux">327</dep>
+    <dep name="aux:pass">493</dep>
+    <dep name="case">4894</dep>
+    <dep name="cc">2478</dep>
+    <dep name="ccomp">424</dep>
+    <dep name="conj">2493</dep>
+    <dep name="cop">216</dep>
+    <dep name="csubj">18</dep>
+    <dep name="det">4517</dep>
+    <dep name="discourse">3</dep>
+    <dep name="dislocated">17</dep>
+    <dep name="expl">496</dep>
+    <dep name="fixed">384</dep>
+    <dep name="flat">331</dep>
+    <dep name="iobj">187</dep>
+    <dep name="mark">1584</dep>
+    <dep name="nmod">1641</dep>
+    <dep name="nsubj">2010</dep>
+    <dep name="nummod">289</dep>
+    <dep name="obj">1713</dep>
+    <dep name="obl">3058</dep>
+    <dep name="orphan">86</dep>
+    <dep name="parataxis">2</dep>
+    <dep name="punct">3609</dep>
+    <dep name="root">1094</dep>
+    <dep name="xcomp">803</dep>
+  </deps>
+</treebank>
