@@ -12,7 +12,7 @@ In October 2025, CorAG corpus contains six medieval texts:
 | Coutume de Banières                          | 1260      |                         | 33       | 1,699     |
 | Charte des Boucheries d’Orthez               | 1270      |                         | 34       | 1,274     |
 | Charte d’Herrère                             | 1278      |                         | 53       | 1,835     |
-| Les Fors Anciens de Béarn                    | 1560      | Ourliac & Gilles 1990   | 750      | 26,795    |
+| Les Fors Anciens de Béarn                    | 1460      | Ourliac & Gilles 1990   | 750      | 26,795    |
 | **Total**                                    |           |                         | **1,291**| **46,680**|
 
 **Editions:**
