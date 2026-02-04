@@ -100,7 +100,7 @@
 9	de	_	ADP	_	_	11	case	_	_
 10	las	_	DET	_	_	11	det	_	_
 11	Mazeras	_	PROPN	_	_	8	nmod	_	SpaceAfter=No
-12	;	_	PUNCT	_	_	2	punct	_	_
+12	;	_	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 1214-1342_Deux_1_1_7_81_5
 # len = 13
