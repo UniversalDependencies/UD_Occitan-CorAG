@@ -1,9 +1,10 @@
 # Summary
-UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts in Gascon, a variety of Old Occitan. The texts were digitized from printed editions and subsequently manually annotated in Universal Dependencies (PoS, functions and some morphological features).
+UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and early modern legal texts in Gascon, a variety of Old Occitan. The texts were digitized from existing editions and subsequently manually annotated in Universal Dependencies (PoS, functions and some morphological features).
 
 # Introduction
 
-In October 2025, CorAG corpus contains six medieval texts: 
+In May 2025, CorAG corpus contains six medieval texts and a section of a sixteenth-century text: 
+
 
 |Title                                         |Year       | Edition                 | Sentences| Tokens    |
 | :------------------------------------------- |:--------: |:----------------------: | :------: | ----:     |
@@ -21,14 +22,25 @@ Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Édi
 
 Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with us by Professor Martin Glessgen (University of Zurich). 
 
-**Train/Dev/Test split**
+#Train/Dev/Test split
 
-| Set               | Sentences| Tokens    |
-| :---------------- | :------: | ----:     |
-| Train             |   912    |   32,606  |
-| Dev               |   98     |   3,713   |
-| Test              |   281    |   10,361  |
-| **Total**         | **1,291**| **46,680**|
+| Source | Train (sent) | Train (tok) | Dev (sent) | Dev (tok) | Test (sent) | Test (tok) | Total (sent) | Total (tok) |
+|--------|--------------|-------------|------------|-----------|-------------|------------|--------------|-------------|
+| 1214-1342_Deux | 244 | 8,418 | 21 | 964 | 78 | 2,249 | 343 | 11,631 |
+| 1251_Bagn | 53 | 2,185 | 8 | 248 | 17 | 589 | 78 | 3,022 |
+| 1260_Bagn | 22 | 1,082 | 4 | 169 | 7 | 409 | 33 | 1,660 |
+| 1270_Orthez | 24 | 907 | 4 | 151 | 6 | 282 | 34 | 1,340 |
+| 1278_Herr | 36 | 1,245 | 6 | 182 | 11 | 355 | 53 | 1,782 |
+| 1460_Bearn | 576 | 18,901 | 58 | 2,102 | 119 | 4,951 | 753 | 25,954 |
+| 1564_Stil | 137 | 5,188 | 17 | 589 | 38 | 1,372 | 192 | 7,149 |
+| Total | 1092 | 37,926 | 118 | 4,405 | 276 | 10,207 | 1486 | 52,538 |
+
+| Split | Sentences | Tokens | % (tokens) |
+|-------|-----------|--------|------------|
+| train | 1,092 | 37,926 | 72.2% |
+| dev | 118 | 4,405 | 8.4% |
+| test | 276 | 10,207 | 19.4% |
+| Total | 1,486 | 52,538 | 100.0% |
 
 Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
@@ -47,9 +59,11 @@ Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefin
 # Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
 
-Manual annotation was performed by Barbara Francioni and Natasha Romanova. Technical support by Rayan Ziane and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
+Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) and [Natasha Romanova](https://cv.hal.science/natasha-romanova). Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
 
 We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
+
+The version of the treebank from November 2025 can also be consulted via the CRISCO Lab (University of Caen) [TXM portal](https://txm-crisco.huma-num.fr/txm/).
 
 We thank the members of the Modern Occitan [Tolosa Treebank](https://github.com/UniversalDependencies/UD_Occitan-TTB) for their help and advice in the early stages of the annotation process.
 
