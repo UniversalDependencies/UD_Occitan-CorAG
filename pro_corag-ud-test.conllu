@@ -10127,7 +10127,7 @@
 67	assis	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	61	acl:relcl	_	_
 68	,	_	PUNCT	_	_	57	punct	_	_
 69	&	_	CCONJ	_	_	71	cc	_	_
-70	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	71	obj	_	_
+70	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	71	iobj	_	_
 71	bailhar	_	VERB	_	VerbForm=Inf	57	conj	_	_
 72	assignation	_	NOUN	_	_	71	obj	_	_
 73	à	_	ADP	_	_	74	mark	_	_
@@ -10731,7 +10731,7 @@
 22	poeyra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	acl:relcl	_	_
 23	ny	_	CCONJ	_	_	24	cc	_	_
 24	debera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	conj	_	_
-25	,	_	PUNCT	_	_	8	punct	_	_
+25	,	_	PUNCT	_	_	30	punct	_	_
 26	&	_	CCONJ	_	_	30	cc	_	_
 27-28	aux	_	_	_	_	_	_	_	_
 27	a-	_	ADP	_	_	30	case	_	_
@@ -10753,7 +10753,7 @@
 43	la	_	DET	_	_	45	det	_	_
 44	medixe	_	ADJ	_	_	45	amod	_	_
 45	Crida	_	NOUN	_	_	41	obl	_	_
-46	,	_	PUNCT	_	_	41	punct	_	_
+46	,	_	PUNCT	_	_	53	punct	_	_
 47	&	_	CCONJ	_	_	53	cc	_	_
 48	sobres	_	NOUN	_	ExtPos=SCONJ	53	obl	_	_
 49	si	_	SCONJ	_	_	52	mark	_	_
@@ -10788,7 +10788,7 @@
 76	de	_	ADP	_	_	75	fixed	_	_
 77	eternau	_	ADJ	_	_	78	amod	_	_
 78	memory	_	NOUN	_	_	72	obl	_	_
-79	,	_	PUNCT	_	_	71	punct	_	_
+79	,	_	PUNCT	_	_	92	punct	_	_
 80	&	_	CCONJ	_	_	92	cc	_	_
 81	feyt	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	92	advcl	_	_
 82	aquero	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Dem	81	nsubj	_	_
@@ -11406,7 +11406,7 @@
 28	captionnats	_	NOUN	_	_	17	conj	_	_
 29	per	_	ADP	_	_	30	case	_	_
 30	Tailles	_	NOUN	_	_	28	obl	_	_
-31	,	_	PUNCT	_	_	28	punct	_	_
+31	,	_	PUNCT	_	_	17	punct	_	_
 32	reddition	_	NOUN	_	_	17	conj	_	_
 33	de	_	ADP	_	_	34	case	_	_
 34	comptes	_	NOUN	_	_	32	nmod	_	_
@@ -11420,7 +11420,7 @@
 42	,	_	PUNCT	_	_	41	punct	_	_
 43	de	_	ADP	_	_	44	case	_	_
 44	Hospitaux	_	NOUN	_	_	41	conj	_	_
-45	,	_	PUNCT	_	_	32	punct	_	_
+45	,	_	PUNCT	_	_	17	punct	_	_
 46	reparations	_	NOUN	_	_	17	conj	_	_
 47	de	_	ADP	_	_	48	case	_	_
 48	Temples	_	NOUN	_	_	46	nmod	_	_
@@ -11542,7 +11542,7 @@
 162	pot	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	141	conj	_	_
 163	estar	_	VERB	_	VerbForm=Inf	162	xcomp	_	_
 164	dispausada	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	163	xcomp	_	_
-165	,	_	PUNCT	_	_	162	punct	_	_
+165	,	_	PUNCT	_	_	114	punct	_	_
 166	haben	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	114	advcl	_	_
 167	esgoard	_	NOUN	_	_	166	obj	_	_
 168	à	_	ADP	_	_	170	case	_	_

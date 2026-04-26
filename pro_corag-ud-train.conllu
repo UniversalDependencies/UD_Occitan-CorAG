@@ -1594,7 +1594,7 @@
 # sent_id = 1214-1342_Deux_1_1_3_2_1
 # len = 45
 # text = Sapiat que per la multiplicitat de nostres negocis nos no avem pogut ordenar a present especialement ayssi cum bolriam de senglas causas en lasquaus vos avetz a nos demostrat per lo nostre amat maestre Vidau, vostre archiprestre en aquera inquisition contra vostre libertat.
-1	Sapiat	_	VERB	_	_	0	root	_	_
+1	Sapiat	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 2	que	_	SCONJ	_	_	12	mark	_	_
 3	per	_	ADP	_	_	5	case	_	_
 4	la	_	DET	_	_	5	det	_	_
@@ -1605,24 +1605,24 @@
 9	nos	_	PRON	_	_	12	nsubj	_	_
 10	no	non	ADV	_	Polarity=Neg	12	advmod	_	_
 11	avem	_	AUX	_	Number=Plur|Person=1|VerbForm=Fin	12	aux	_	_
-12	pogut	_	VERB	_	_	1	ccomp	_	_
-13	ordenar	_	VERB	_	_	12	xcomp	_	_
+12	pogut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	_
+13	ordenar	_	VERB	_	VerbForm=Inf	12	xcomp	_	_
 14	a	_	ADP	_	_	15	case	_	_
 15	present	_	NOUN	_	_	13	obl	_	_
 16	especialement	_	ADV	_	_	12	advmod	_	_
 17	ayssi	_	ADV	_	ExtPos=SCONJ	19	mark	_	_
 18	cum	_	SCONJ	_	_	17	fixed	_	_
-19	bolriam	_	VERB	_	_	12	advcl	_	_
+19	bolriam	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	12	advcl	_	_
 20	de	_	ADP	_	_	22	case	_	_
 21	senglas	_	NUM	_	_	22	nummod	_	_
 22	causas	_	NOUN	_	_	13	obl	_	_
 23	en	_	ADP	_	_	24	case	_	_
 24	lasquaus	_	PRON	_	_	29	obl	_	_
 25	vos	_	PRON	_	_	29	nsubj	_	_
-26	avetz	_	AUX	_	_	29	aux	_	_
+26	avetz	_	AUX	_	Number=Plur|Person=2|VerbForm=Fin	29	aux	_	_
 27	a	_	ADP	_	_	28	case	_	_
 28	nos	_	PRON	_	_	29	obl	_	_
-29	demostrat	_	VERB	_	_	22	acl:relcl	_	_
+29	demostrat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	acl:relcl	_	_
 30	per	_	ADP	_	_	34	case	_	_
 31	lo	_	DET	_	_	34	det	_	_
 32	nostre	_	ADJ	_	_	34	amod	_	_
@@ -2479,10 +2479,10 @@
 3	aqui	_	ADV	_	_	9	advmod	_	_
 4	empres	_	ADV	_	_	3	advmod	_	_
 5	cum	_	SCONJ	_	_	7	mark	_	_
-6	serat	_	AUX	_	_	7	aux	_	_
-7	retornatz	_	VERB	_	_	9	advcl	_	_
+6	serat	_	AUX	_	Number=Plur|Person=2|VerbForm=Fin	7	aux	_	_
+7	retornatz	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
 8	la	_	PRON	_	_	9	obj	_	_
-9	portatz	_	VERB	_	_	0	root	_	_
+9	portatz	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 10	am	_	ADP	_	_	11	case	_	_
 11	vos	_	PRON	_	_	9	obl	_	_
 12	autres	_	ADJ	_	_	11	amod	_	_
@@ -2490,7 +2490,7 @@
 14	Anglaterra	_	PROPN	_	_	9	obl	_	SpaceAfter=No
 15	,	_	PUNCT	_	_	9	punct	_	_
 16	no	non	ADV	_	Polarity=Neg	17	advmod	_	_
-17	fasens	_	VERB	_	_	9	advcl	_	_
+17	fasens	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	9	advcl	_	_
 18	aucuna	alcun	DET	_	Polarity=Neg	19	det	_	_
 19	emenda	_	NOUN	_	_	17	obj	_	_
 20	sobre	_	ADP	_	_	22	case	_	_
@@ -2502,7 +2502,7 @@
 26	de	_	ADP	_	_	28	case	_	_
 27	aucun	_	DET	_	_	28	det	_	_
 28	mandament	_	NOUN	_	_	25	nmod	_	_
-29	injuinct	_	VERB	_	_	28	acl	_	_
+29	injuinct	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	_
 30	a	_	ADP	_	_	31	case	_	_
 31	vos	_	PRON	_	_	29	obl	_	_
 32	davant	_	ADP	_	_	34	case	_	_
@@ -2800,12 +2800,12 @@
 2	jassia	_	SCONJ	_	ExtPos=SCONJ	6	mark	_	_
 3	que	_	SCONJ	_	_	2	fixed	_	_
 4	nos	_	PRON	_	_	6	nsubj	_	_
-5	ayam	_	AUX	_	_	6	aux	_	_
-6	enjungit	_	VERB	_	_	93	advcl	_	_
+5	ayam	_	AUX	_	Number=Plur|Person=1|VerbForm=Fin	6	aux	_	_
+6	enjungit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	93	advcl	_	_
 7	à	_	ADP	_	_	8	case	_	_
 8	lor	_	PRON	_	_	6	obl	_	_
 9	que	_	SCONJ	_	_	10	mark	_	_
-10	inquirissan	_	VERB	_	_	6	ccomp	_	_
+10	inquirissan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	6	ccomp	_	_
 11	de	_	ADP	_	_	13	case	_	_
 12	lasdeytas	_	DET	_	_	13	det	_	_
 13	albergadas	_	NOUN	_	_	10	obl	_	_
@@ -2814,7 +2814,7 @@
 16	apres	_	ADV	_	_	21	advmod	_	_
 17	segont	_	ADP	_	ExtPos=SCONJ	19	mark	_	_
 18	que	_	SCONJ	_	_	17	fixed	_	_
-19	trobaren	_	VERB	_	_	21	advcl	_	_
+19	trobaren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	21	advcl	_	_
 20	que	_	SCONJ	_	_	21	mark	_	_
 21	fessan	_	VERB	_	_	6	conj	_	_
 22	aquo	_	PRON	_	_	21	obj	_	_
@@ -2949,7 +2949,7 @@
 148	li	_	DET	_	_	150	det	_	_
 149	sobredeyt	_	ADJ	_	_	150	amod	_	_
 150	homes	_	NOUN	_	_	151	nsubj	_	_
-151	agoren	_	VERB	_	_	142	ccomp	_	_
+151	agoren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	142	ccomp	_	_
 152	en	_	ADP	_	_	154	case	_	_
 153	lo	_	DET	_	_	154	det	_	_
 154	temps	_	NOUN	_	_	151	obl	_	_
@@ -37954,7 +37954,7 @@
 13-14	dequeres	_	_	_	_	_	_	_	_
 13	de-	de-	ADP	_	_	14	case	_	_
 14	-queres	-queres	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	12	nmod	_	_
-15	,	_	PUNCT	_	_	7	punct	_	_
+15	,	_	PUNCT	_	_	18	punct	_	_
 16	de	_	ADP	_	_	18	case	_	_
 17	la	_	DET	_	_	18	det	_	_
 18	procedure	_	NOUN	_	_	9	nmod	_	_

@@ -4078,7 +4078,7 @@
 39	lo	_	DET	_	_	40	det	_	_
 40	caas	_	NOUN	_	_	41	nsubj	_	_
 41	requerira	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	29	advcl	_	SpaceAfter=No
-42	;	_	PUNCT	_	_	29	punct	_	_
+42	;	_	PUNCT	_	_	48	punct	_	_
 43	et	_	CCONJ	_	_	48	cc	_	_
 44	que	_	SCONJ	_	_	48	mark	_	_
 45	lo	_	DET	_	_	46	det	_	_
@@ -4270,7 +4270,7 @@
 23	que	_	SCONJ	_	_	21	fixed	_	_
 24	yren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	17	advcl	_	_
 25	contre	_	ADV	_	_	24	advmod	_	SpaceAfter=No
-26	.	_	PUNCT	_	_	16	punct	_	_
+26	.	_	PUNCT	_	_	25	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_246_1_1
 # len = 24
@@ -4558,7 +4558,7 @@
 30	de-	_	ADP	_	_	32	case	_	_
 31	-lodit	_	DET	_	_	32	det	_	_
 32	Commissary	_	NOUN	_	_	29	nmod	_	_
-33	,	_	PUNCT	_	_	23	punct	_	_
+33	,	_	PUNCT	_	_	35	punct	_	_
 34	ló	_	DET	_	_	35	det	_	_
 35	contumaxs	_	NOUN	_	_	23	conj	_	_
 36	en	_	ADP	_	_	37	case	_	_
@@ -4574,7 +4574,7 @@
 46	pot	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	_
 47	estar	_	VERB	_	VerbForm=Inf	46	xcomp	_	_
 48	apprehendut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	47	xcomp	_	_
-49	,	_	PUNCT	_	_	46	punct	_	_
+49	,	_	PUNCT	_	_	53	punct	_	_
 50	où	_	CCONJ	_	_	53	cc	_	_
 51	sinon	_	ADV	_	_	53	advmod	_	_
 52	en	_	ADP	_	_	53	case	_	_
@@ -4582,7 +4582,7 @@
 54	de	_	ADP	_	_	56	case	_	_
 55	sons	_	DET	_	_	56	det	_	_
 56	domesticqs	_	NOUN	_	_	53	nmod	_	_
-57	,	_	PUNCT	_	_	53	punct	_	_
+57	,	_	PUNCT	_	_	23	punct	_	_
 58	&	_	CCONJ	_	_	68	cc	_	_
 59	en	_	ADP	_	_	60	case	_	_
 60	deffaut	_	NOUN	_	_	68	orphan	_	_
@@ -4605,7 +4605,7 @@
 75	far	_	VERB	_	VerbForm=Inf	74	xcomp	_	_
 76	son	_	DET	_	_	77	det	_	_
 77	habitation	_	NOUN	_	_	75	obj	_	_
-78	,	_	PUNCT	_	_	60	punct	_	_
+78	,	_	PUNCT	_	_	23	punct	_	_
 79	&	_	CCONJ	_	_	81	cc	_	_
 80	per	_	ADP	_	_	81	case	_	_
 81	affiction	_	NOUN	_	_	23	conj	_	_
