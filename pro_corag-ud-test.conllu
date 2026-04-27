@@ -3905,7 +3905,7 @@
 9	que	_	SCONJ	_	_	10	mark	_	_
 10	bolem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	6	advcl	_	_
 11	que	_	SCONJ	_	_	14	mark	_	_
-12	tot	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	_
+12	tot	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	14	nsubj	_	_
 13	sie	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	14	aux:pass	_	_
 14	tengud	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	_	_
 15	complidament	_	ADV	_	_	14	advmod	_	SpaceAfter=No

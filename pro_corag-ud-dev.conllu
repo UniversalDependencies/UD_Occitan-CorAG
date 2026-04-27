@@ -1523,7 +1523,7 @@
 33-34	del	_	_	_	_	_	_	_	_
 33	de-	_	ADP	_	_	35	case	_	_
 34	-lo	_	DET	_	_	35	det	_	_
-35	tot	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	36	obl	_	_
+35	tot	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	36	obl	_	_
 36	anienta	_	VERB	_	VerbForm=Inf	27	conj	_	_
 37	segont	_	ADP	_	_	39	case	_	_
 38	la	_	DET	_	_	39	det	_	_
