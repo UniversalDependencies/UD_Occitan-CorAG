@@ -19978,8 +19978,8 @@
 # sent_id = 1460_Bearn_1_1_42_1_1
 # len = 25
 # text = Notum sit que lo vescomte a audide en la beguarie de Pau et en la beguarie de Monenh et en la beguarie de Pardies;
-1	Notum	_	ADJ	_	_	0	root	_	Lang=lat
-2	sit	_	AUX	_	_	1	cop	_	Lang=lat
+1	Notum	_	ADJ	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
+2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Lang=la
 3	que	_	SCONJ	_	_	6	mark	_	_
 4	lo	_	DET	_	_	5	det	_	_
 5	vescomte	_	NOUN	_	_	6	nsubj	_	_
@@ -34897,8 +34897,8 @@
 # sent_id = 1460_Bearn_1_1_191_1_1
 # len = 33
 # text = Notum sit que si un homi auciit un autre son besin et s'en foey et lo senhor n'a clamant, deu manar tres betz a l'ostau deu murtrer;
-1	Notum	_	ADJ	_	_	0	root	_	Lang=lat
-2	sit	_	AUX	_	_	1	cop	_	Lang=lat
+1	Notum	_	ADJ	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
+2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Lang=la
 3	que	_	SCONJ	_	_	23	mark	_	_
 4	si	_	SCONJ	_	_	7	mark	_	_
 5	un	_	DET	_	_	6	det	_	_
@@ -37398,7 +37398,7 @@
 # sent_id = 1460_Bearn_1_1_216_1_3
 # len = 7
 # text = Intellige: de las causes mobles;
-1	Intellige	_	VERB	_	_	0	root	_	Lang=lat|SpaceAfter=No
+1	Intellige	_	VERB	_	Number=Sing|Person=2|VerbForm=Fin	0	root	_	Lang=la|SpaceAfter=No
 2	:	_	PUNCT	_	_	1	punct	_	_
 3	de	_	ADP	_	_	5	case	_	_
 4	las	_	DET	_	_	5	det	_	_
@@ -37971,7 +37971,7 @@
 29	response	_	NOUN	_	_	18	conj	_	_
 30	de	_	ADP	_	_	31	case	_	_
 31	partide	_	NOUN	_	_	29	nmod	_	_
-32	assignade	_	ADJ	_	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	31	amod	_	_
+32	assignade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	amod	_	_
 33	,	_	PUNCT	_	_	7	punct	_	_
 34	la	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	35	obj	_	_
 35	dattera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	_
@@ -37997,7 +37997,7 @@
 55	reffondir	_	VERB	_	VerbForm=Inf	44	conj	_	_
 56	à	_	ADP	_	_	57	case	_	_
 57	partide	_	NOUN	_	_	55	obl	_	_
-58	impetrante	_	ADJ	_	Gender=Fem|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	57	amod	_	_
+58	impetrante	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	57	amod	_	_
 59	touts	_	DET	_	_	60	det	_	_
 60	despens	_	NOUN	_	_	55	obj	_	_
 61	damnadges	_	NOUN	_	_	60	conj	_	_
@@ -39764,7 +39764,7 @@
 29	procedure	_	NOUN	_	_	31	nsubj	_	_
 30	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	31	aux:pass	_	_
 31	declarada	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-32	nulle	nul	ADJ	_	Polarity=Neg|PronType=Neg	31	xcomp	_	_
+32	nulle	nul	ADJ	_	Polarity=Neg	31	xcomp	_	_
 33	à	_	ADP	_	_	34	case	_	_
 34	despens	_	NOUN	_	_	31	obl	_	_
 35-36	deudit	_	_	_	_	_	_	_	_

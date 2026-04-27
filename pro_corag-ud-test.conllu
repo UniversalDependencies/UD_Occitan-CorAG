@@ -3711,8 +3711,8 @@
 # sent_id = 1260_Bagn_1_1_14_1_1
 # len = 11
 # text = Actum fuit hoc lo die que la bloge fo acumiadade.
-1	Actum	_	VERB	_	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Lang=lat
-2	fuit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	Lang=lat
+1	Actum	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	fuit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	_
 3	hoc	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
 4	lo	_	DET	_	_	5	det	_	_
 5	die	_	NOUN	_	_	1	obl	_	_
