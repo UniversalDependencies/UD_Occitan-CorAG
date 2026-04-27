@@ -2108,7 +2108,7 @@
 16	-lo	_	DET	_	_	18	det	_	_
 17	nostre	_	ADJ	_	_	18	amod	_	_
 18	costat	_	NOUN	_	_	14	obl	_	_
-19	anadurs	_	VERB	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	14	advcl	_	_
+19	anadurs	_	VERB	_	Gender=Masc|Number=Plur|Tense=Fut|VerbForm=Part	14	advcl	_	_
 20	vert	_	ADP	_	_	22	case	_	_
 21	las	_	DET	_	_	22	det	_	_
 22	partidas	_	NOUN	_	_	19	obl	_	_
@@ -3054,7 +3054,7 @@
 30	lor	_	DET	_	_	31	det	_	_
 31	reservantz	_	NOUN	_	_	21	obl	_	_
 32	emenda	_	NOUN	_	_	21	obj	_	_
-33	fasadeyra	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	32	acl	_	_
+33	fasadeyra	_	VERB	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	32	acl	_	_
 34	a	_	ADP	_	_	35	case	_	_
 35	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	33	obl	_	_
 
@@ -7307,7 +7307,7 @@
 7	,	_	PUNCT	_	_	6	punct	_	_
 8	o	_	CCONJ	_	_	9	cc	_	_
 9	talhadas	_	NOUN	_	_	6	conj	_	_
-10	donadeyras	_	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	_
+10	donadeyras	_	VERB	_	Gender=Fem|Number=Plur|Tense=Fut|VerbForm=Part	6	acl	_	_
 11-12	au	_	_	_	_	_	_	_	_
 11	a-	_	ADP	_	_	13	case	_	_
 12	-lo	_	DET	_	_	13	det	_	_
@@ -9351,7 +9351,7 @@
 33	baguadas	_	NOUN	_	_	16	obl	_	_
 34	a	_	ADP	_	_	35	case	_	_
 35	redemption	_	NOUN	_	_	16	obl	_	_
-36	donadeyra	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	35	acl	_	_
+36	donadeyra	_	VERB	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	35	acl	_	_
 37-38	del	_	_	_	_	_	_	_	_
 37	de-	_	ADP	_	_	39	case	_	_
 38	-lo	_	DET	_	_	39	det	_	_
