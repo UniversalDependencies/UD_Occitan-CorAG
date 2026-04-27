@@ -10071,7 +10071,7 @@
 12	contre	_	ADP	_	_	14	case	_	_
 13	los	_	DET	_	_	14	det	_	_
 14	absens	_	NOUN	_	_	6	obl	_	_
-15	ço	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Dem	18	advmod	_	_
+15	ço	_	PRON	_	ExtPos=ADV|Gender=Neut|Number=Sing|Person=3|PronType=Dem	18	advmod	_	_
 16	es	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	fixed	_	_
 17	per	_	ADP	_	_	18	case	_	_
 18	mandaments	_	NOUN	_	_	8	appos	_	_
@@ -10488,7 +10488,7 @@
 20	en	_	ADP	_	_	21	case	_	_
 21	pena	_	NOUN	_	_	16	obl	_	_
 22	de	_	ADP	_	_	24	case	_	_
-23	dets	_	DET	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	24	det	_	_
+23	dets	_	DET	_	_	24	det	_	_
 24	leys	_	NOUN	_	_	21	nmod	_	_
 25	maiors	_	ADJ	_	_	24	amod	_	_
 26	,	_	PUNCT	_	_	16	punct	_	_
@@ -10790,8 +10790,8 @@
 78	memory	_	NOUN	_	_	72	obl	_	_
 79	,	_	PUNCT	_	_	92	punct	_	_
 80	&	_	CCONJ	_	_	92	cc	_	_
-81	feyt	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	92	advcl	_	_
-82	aquero	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Dem	81	nsubj	_	_
+81	feyt	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	92	advcl	_	_
+82	aquero	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	81	nsubj	_	_
 83	,	_	PUNCT	_	_	81	punct	_	_
 84	l'	_	DET	_	_	85	det	_	_
 85	authoritat	_	NOUN	_	_	92	obj	_	_
@@ -11477,7 +11477,7 @@
 99	,	_	PUNCT	_	_	94	punct	_	_
 100	Artigle	_	NOUN	_	_	92	conj	_	_
 101	tres	_	NUM	_	_	100	nummod	_	_
-102	,	_	PUNCT	_	_	100	punct	_	_
+102	,	_	PUNCT	_	_	85	punct	_	_
 103	&	_	CCONJ	_	_	105	cc	_	_
 104	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	105	nsubj	_	_
 105	appareran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	85	conj	_	_
@@ -11531,7 +11531,7 @@
 151	despulhe	_	NOUN	_	_	147	conj	_	_
 152	&	_	CCONJ	_	_	153	cc	_	_
 153	trouble	_	NOUN	_	_	151	conj	_	_
-154	,	_	PUNCT	_	_	137	punct	_	_
+154	,	_	PUNCT	_	_	141	punct	_	_
 155	&	_	CCONJ	_	_	162	cc	_	_
 156	plus	_	ADV	_	_	157	advmod	_	_
 157	breuement	_	ADV	_	_	162	advmod	_	_
