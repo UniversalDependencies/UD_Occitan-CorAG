@@ -34897,8 +34897,8 @@
 # sent_id = 1460_Bearn_1_1_191_1_1
 # len = 33
 # text = Notum sit que si un homi auciit un autre son besin et s'en foey et lo senhor n'a clamant, deu manar tres betz a l'ostau deu murtrer;
-1	Notum	_	ADJ	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
-2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Lang=la
+1	Notum	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
+2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux	_	Lang=la
 3	que	_	SCONJ	_	_	23	mark	_	_
 4	si	_	SCONJ	_	_	7	mark	_	_
 5	un	_	DET	_	_	6	det	_	_
@@ -38013,7 +38013,7 @@
 4	CINCQ	_	NUM	_	_	3	flat	_	_
 5	CENS	_	NUM	_	_	3	flat	_	_
 6	&	_	CCONJ	_	_	7	cc	_	_
-7	c.	_	PRON	_	PronType=Ind	3	conj	_	Lang=la
+7	c.	_	PRON	_	PronType=Ind	3	conj	_	_
 8	ET	_	CCONJ	_	_	10	cc	_	_
 9	lò	_	DET	_	_	10	det	_	_
 10	tant	_	PRON	_	Number=Sing|PronType=Ind	2	conj	_	_
@@ -38022,7 +38022,7 @@
 13	mes	_	NOUN	_	_	10	nmod	_	_
 14	Io	_	DET	_	_	17	det	_	_
 15	&	_	CCONJ	_	_	16	cc	_	_
-16	c.	_	PRON	_	PronType=Ind	14	conj	_	Lang=la
+16	c.	_	PRON	_	PronType=Ind	14	conj	_	_
 17	Bayle	_	NOUN	_	_	28	obj	_	_
 18	,	_	PUNCT	_	_	17	punct	_	_
 19	Loctenent	_	NOUN	_	_	17	conj	_	_
@@ -38044,7 +38044,7 @@
 35	assignat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	33	conj	_	_
 36	,	_	PUNCT	_	_	33	punct	_	_
 37	&	_	CCONJ	_	_	38	cc	_	_
-38	c.	_	PRON	_	PronType=Ind	33	conj	_	Lang=la
+38	c.	_	PRON	_	PronType=Ind	33	conj	_	_
 39	en	_	ADP	_	_	42	case	_	_
 40	las	_	DET	_	_	42	det	_	_
 41	presens	_	ADJ	_	_	42	amod	_	_
@@ -38059,16 +38059,16 @@
 49	-los	_	DET	_	_	50	det	_	_
 50	fijs	_	NOUN	_	_	33	obl	_	_
 51	&	_	CCONJ	_	_	52	cc	_	_
-52	c.	_	PRON	_	PronType=Ind	50	conj	_	Lang=la
+52	c.	_	PRON	_	PronType=Ind	50	conj	_	_
 53	de	_	ADP	_	_	56	case	_	_
 54	las	_	DET	_	_	56	det	_	_
 55	presens	_	ADJ	_	_	56	amod	_	_
 56	congtenus	_	NOUN	_	_	33	obl	_	_
 57	presens	_	ADJ	_	_	56	amod	_	_
 58	&	_	CCONJ	_	_	59	cc	_	_
-59	c.	_	PRON	_	PronType=Ind	56	conj	_	Lang=la
+59	c.	_	PRON	_	PronType=Ind	56	conj	_	_
 60	&	_	CCONJ	_	_	61	cc	_	_
-61	c.	_	PRON	_	PronType=Ind	56	conj	_	Lang=la
+61	c.	_	PRON	_	PronType=Ind	56	conj	_	_
 62	testimonis	_	NOUN	_	_	50	conj	_	_
 63	,	_	PUNCT	_	_	33	punct	_	_
 64	deque	_	SCONJ	_	_	65	mark	_	_
@@ -38100,7 +38100,7 @@
 2	AN	_	NOUN	_	_	31	obl	_	_
 3	MIL	_	NUM	_	_	2	nummod	_	_
 4	&	_	CCONJ	_	_	5	cc	_	_
-5	c.	_	PRON	_	PronType=Ind	3	conj	_	Lang=la
+5	c.	_	PRON	_	PronType=Ind	3	conj	_	_
 6	ET	_	CCONJ	_	_	8	cc	_	_
 7	LOV	_	DET	_	_	8	det	_	_
 8	TANT	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	conj	_	_
@@ -38109,7 +38109,7 @@
 11	mes	_	NOUN	_	_	8	nmod	_	_
 12	io	_	PRON	_	Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
 13	&	_	CCONJ	_	_	14	cc	_	_
-14	c.	_	PRON	_	PronType=Ind	12	conj	_	Lang=la
+14	c.	_	PRON	_	PronType=Ind	12	conj	_	_
 15	Bayle	_	NOUN	_	_	12	appos	_	_
 16	,	_	PUNCT	_	_	15	punct	_	_
 17	Loctenent	_	NOUN	_	_	15	conj	_	_
@@ -38133,7 +38133,7 @@
 35	en	_	ADP	_	_	36	case	_	_
 36	personne	_	NOUN	_	_	34	obl	_	_
 37	&	_	CCONJ	_	_	38	cc	_	_
-38	c.	_	PRON	_	PronType=Ind	36	conj	_	Lang=la
+38	c.	_	PRON	_	PronType=Ind	36	conj	_	_
 39	en	_	ADP	_	_	41	case	_	_
 40	las	_	DET	_	_	41	det	_	_
 41	presents	_	NOUN	_	_	42	obl	_	_
@@ -38170,15 +38170,15 @@
 71	personne	_	NOUN	_	_	67	obl	_	_
 72	de	_	ADP	_	_	74	case	_	_
 73	&	&	DET	_	_	74	det	_	_
-74	c.	c.	PRON	_	PronType=Ind	71	nmod	_	Lang=la
+74	c.	c.	PRON	_	PronType=Ind	71	nmod	_	_
 75	sons	_	DET	_	_	76	det	_	_
 76	domesticqs	_	NOUN	_	_	74	conj	_	_
 77	&	&	CCONJ	_	_	78	cc	_	_
-78	c.	c.	PRON	_	PronType=Ind	74	conj	_	Lang=la
+78	c.	c.	PRON	_	PronType=Ind	74	conj	_	_
 79	ou	_	CCONJ	_	_	82	cc	_	_
 80	de	_	ADP	_	_	82	case	_	_
 81	&	&	CCONJ	_	_	82	cc	_	_
-82	c.	c.	PRON	_	PronType=Ind	74	conj	_	Lang=la
+82	c.	c.	PRON	_	PronType=Ind	74	conj	_	_
 83	sons	_	DET	_	_	84	det	_	_
 84	vesijs	_	NOUN	_	_	74	conj	_	_
 85	,	_	PUNCT	_	_	67	punct	_	_
@@ -38218,7 +38218,7 @@
 117	,	_	PUNCT	_	_	110	punct	_	_
 118	presens	_	ADJ	_	_	67	advcl	_	_
 119	&	&	CCONJ	_	_	120	cc	_	_
-120	c.	c.	PRON	_	PronType=Ind	118	conj	_	Lang=la
+120	c.	c.	PRON	_	PronType=Ind	118	conj	_	_
 121-122	adaquero	_	_	_	_	_	_	_	_
 121	ad-	_	ADP	_	_	122	case	_	_
 122	-aquero	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	123	obl	_	_

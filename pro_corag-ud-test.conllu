@@ -3711,9 +3711,9 @@
 # sent_id = 1260_Bagn_1_1_14_1_1
 # len = 11
 # text = Actum fuit hoc lo die que la bloge fo acumiadade.
-1	Actum	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-2	fuit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	_
-3	hoc	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	_
+1	Actum	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
+2	fuit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	Lang=la
+3	hoc	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	Lang=la
 4	lo	_	DET	_	_	5	det	_	_
 5	die	_	NOUN	_	_	1	obl	_	_
 6	que	_	PRON	_	PronType=Rel	10	obl	_	_
@@ -10436,7 +10436,7 @@
 19	&	_	CCONJ	_	_	20	cc	_	_
 20	causas	_	NOUN	_	_	18	conj	_	_
 21	de	_	ADP	_	_	22	case	_	_
-22	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Dem	18	nmod	_	Lang=la
+22	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Dem	18	nmod	_	_
 23	luy	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
 24	no	non	ADV	_	Polarity=Neg	25	advmod	_	_
 25	pot	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
@@ -10512,10 +10512,10 @@
 44	locqz	_	NOUN	_	_	39	conj	_	_
 45	acoustumats	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	44	amod	_	_
 46	de	_	ADP	_	_	47	case	_	_
-47	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Ind	44	nmod	_	Lang=la
+47	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Ind	44	nmod	_	_
 48	locq	_	NOUN	_	_	47	appos	_	_
 49	de	_	ADP	_	_	50	case	_	_
-50	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Ind	48	nmod	_	Lang=la
+50	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=3|PronType=Ind	48	nmod	_	_
 51	fasats	_	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 52	cridar	_	VERB	_	VerbForm=Inf	51	xcomp	_	_
 53	&	_	CCONJ	_	_	54	cc	_	_
@@ -10673,7 +10673,7 @@
 89	Depositary	_	NOUN	_	_	86	nmod	_	_
 90	de	_	ADP	_	_	92	case	_	_
 91	vostre	_	ADJ	_	_	92	amod	_	_
-92	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=2|PronType=Ind	89	nmod	_	Lang=la
+92	&c.	_	PRON	_	Gender=Neut|Number=Plur|Person=2|PronType=Ind	89	nmod	_	_
 93	realement	_	ADV	_	_	82	advmod	_	_
 94	&	_	CCONJ	_	_	95	cc	_	_
 95	deffeit	_	ADV	_	_	93	conj	_	_
