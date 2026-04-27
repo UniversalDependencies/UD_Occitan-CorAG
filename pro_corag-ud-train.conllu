@@ -7150,7 +7150,7 @@
 # len = 25
 # text = Et cadaun qui no sia vengut, deu tal pena quau lo seynhor de la terra aura establit am li prohomes de la terra.
 1	Et	_	CCONJ	_	_	8	cc	_	_
-2	cadaun	_	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+2	cadaun	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	nsubj	_	_
 3	qui	_	PRON	_	PronType=Rel	6	nsubj	_	_
 4	no	non	ADV	_	Polarity=Neg	6	advmod	_	_
 5	sia	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	6	aux	_	_
@@ -19978,8 +19978,8 @@
 # sent_id = 1460_Bearn_1_1_42_1_1
 # len = 25
 # text = Notum sit que lo vescomte a audide en la beguarie de Pau et en la beguarie de Monenh et en la beguarie de Pardies;
-1	Notum	_	ADJ	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
-2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	cop	_	Lang=la
+1	Notum	_	VERB	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Lang=la
+2	sit	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	1	aux:pass	_	Lang=la
 3	que	_	SCONJ	_	_	6	mark	_	_
 4	lo	_	DET	_	_	5	det	_	_
 5	vescomte	_	NOUN	_	_	6	nsubj	_	_
@@ -37551,7 +37551,7 @@
 # text = TOVT PERSONNADGE QVI VOlera agir sie en action realle ou personnale , sera tiengut libellar son Citatory , Mandement generau ou supplication en exprimin sa demande , & la cause de- -quere ;
 1	TOVT	_	DET	_	_	2	det	_	_
 2	PERSONNADGE	_	NOUN	_	_	14	nsubj	_	_
-3	QVI	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+3	QVI	_	PRON	_	PronType=Rel	4	nsubj	_	_
 4	VOlera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
 5	agir	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	sie	_	CCONJ	_	_	8	cc	_	_
@@ -37624,7 +37624,7 @@
 35	ab	_	ADP	_	_	36	case	_	_
 36	despens	_	NOUN	_	_	34	obl	_	_
 37	,	_	PUNCT	_	_	36	punct	_	_
-38	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	40	nsubj	_	_
+38	qui	_	PRON	_	PronType=Rel	40	nsubj	_	_
 39	no	non	ADV	_	Polarity=Neg	40	advmod	_	_
 40	poyran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	36	acl:relcl	_	_
 41	esta	_	AUX	_	VerbForm=Inf	42	aux:pass	_	_
@@ -37657,7 +37657,7 @@
 14	de-	de-	ADP	_	_	16	case	_	_
 15	-lo	-lo	DET	_	_	16	det	_	_
 16	salary	_	NOUN	_	_	13	obl	_	_
-17	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	24	nsubj	_	_
+17	qui	_	PRON	_	PronType=Rel	24	nsubj	_	_
 18	per	_	ADP	_	_	20	case	_	_
 19	tal	_	DET	_	_	20	det	_	_
 20	execution	_	NOUN	_	_	25	obl	_	_
@@ -37684,7 +37684,7 @@
 # text = l' Aduocat qui soustiendra l' execution ou assignation de talles lettres , pribat deu salary de son patrociny , & condamnat enuers lò Fiscq à la somme de cinq sos morlas , qui per lò Iudge lò sera declarade senhs deport .
 1	l'	_	DET	_	_	2	det	_	_
 2	Aduocat	_	NOUN	_	_	13	nsubj	_	_
-3	qui	_	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	4	nsubj	_	_
 4	soustiendra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
 5	l'	_	DET	_	_	6	det	_	_
 6	execution	_	NOUN	_	_	4	obj	_	_
@@ -37716,7 +37716,7 @@
 31	sos	_	NOUN	_	_	28	nmod	_	_
 32	morlas	_	ADJ	_	_	31	amod	_	_
 33	,	_	PUNCT	_	_	28	punct	_	_
-34	qui	_	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	40	nsubj	_	_
+34	qui	_	PRON	_	PronType=Rel	40	nsubj	_	_
 35	per	_	ADP	_	_	37	case	_	_
 36	lò	_	DET	_	_	37	det	_	_
 37	Iudge	_	NOUN	_	_	40	obl	_	_
@@ -37733,7 +37733,7 @@
 2	si	_	SCONJ	_	_	5	mark	_	_
 3	partides	_	NOUN	_	_	5	nsubj	_	_
 4	son	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	comparentes	_	ADJ	_	Gender=Fem|Number=Plur|Person=3|Tense=Pres|VerbForm=Part	24	advcl	_	_
+5	comparentes	_	ADJ	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	24	advcl	_	_
 6	en	_	ADP	_	_	7	case	_	_
 7	iudgement	_	NOUN	_	_	5	obl	_	_
 8	en	_	ADP	_	_	9	case	_	_
@@ -37757,7 +37757,7 @@
 26	à	_	ADP	_	_	28	case	_	_
 27	la	_	DET	_	_	28	det	_	_
 28	domande	_	NOUN	_	_	25	obl	_	_
-29	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	33	nsubj	_	_
+29	qui	_	PRON	_	PronType=Rel	33	nsubj	_	_
 30	iudiciallement	_	ADV	_	_	33	advmod	_	_
 31	luy	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	33	iobj	_	_
 32	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	33	aux:pass	_	_
@@ -37926,7 +37926,7 @@
 6	de	_	ADP	_	_	8	case	_	_
 7	deux	_	NUM	_	_	8	nummod	_	_
 8	testimonis	_	NOUN	_	_	5	obl	_	_
-9	qui	_	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	_
+9	qui	_	PRON	_	PronType=Rel	12	nsubj	_	_
 10	seran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
 11	estats	_	AUX	_	Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	12	cop	_	_
 12	presens	_	ADJ	_	_	8	acl:relcl	_	_
@@ -37958,7 +37958,7 @@
 16	de	_	ADP	_	_	18	case	_	_
 17	la	_	DET	_	_	18	det	_	_
 18	procedure	_	NOUN	_	_	9	nmod	_	_
-19	qui	_	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	21	obj	_	_
+19	qui	_	PRON	_	PronType=Rel	21	obj	_	_
 20	aura	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	aux	_	_
 21	feyt	_	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Part	18	acl:relcl	_	_
 22	en	_	ADP	_	_	24	case	_	_
@@ -38083,7 +38083,7 @@
 73	de	_	ADP	_	_	75	case	_	_
 74	la	_	DET	_	_	75	det	_	_
 75	response	_	NOUN	_	_	65	obl	_	_
-76	que	_	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	80	obj	_	_
+76	que	_	PRON	_	PronType=Rel	80	obj	_	_
 77	l'	_	DET	_	_	78	det	_	_
 78	assignat	_	NOUN	_	_	80	nsubj	_	_
 79	lou	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	80	iobj	_	_
@@ -38379,7 +38379,7 @@
 3	execution	_	NOUN	_	_	7	obl	_	_
 4-5	deusquoals	_	_	_	_	_	_	_	_
 4	de-	_	ADP	_	_	5	case	_	_
-5	-losquoals	_	PRON	_	Gender=Masc|Number=Plur|PronType=Rel	3	nmod	_	_
+5	-losquoals	_	PRON	_	PronType=Rel	3	nmod	_	_
 6	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	aux	_	_
 7	procedit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	ab	_	ADP	_	_	9	case	_	_
@@ -38418,7 +38418,7 @@
 7	en	_	ADP	_	_	8	case	_	_
 8	maâs	_	NOUN	_	_	15	obl	_	_
 9	de	_	ADP	_	_	10	case	_	_
-10	qui	_	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	8	nmod	_	_
+10	qui	_	PRON	_	PronType=Rel	8	nmod	_	_
 11	la	_	DET	_	_	12	det	_	_
 12	cause	_	NOUN	_	_	15	nsubj	_	_
 13	prese	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
@@ -38531,7 +38531,7 @@
 45	hores	_	NOUN	_	_	39	obl	_	_
 46	&	_	CCONJ	_	_	47	cc	_	_
 47	veguades	_	NOUN	_	_	45	conj	_	_
-48	qui	_	PRON	_	Gender=Fem|Number=Plur|PronType=Rel	51	obl	_	_
+48	qui	_	PRON	_	PronType=Rel	51	obl	_	_
 49	en	_	PRON	_	PronType=Prs	51	obl	_	_
 50	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	51	aux:pass	_	_
 51	requerit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	45	acl:relcl	_	_
@@ -38628,7 +38628,7 @@
 26	,	_	PUNCT	_	_	23	punct	_	_
 27-28	ausquoals	_	_	_	_	_	_	_	_
 27	a-	_	ADP	_	_	28	case	_	_
-28	-losquoals	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	33	obl	_	_
+28	-losquoals	_	PRON	_	PronType=Rel	33	obl	_	_
 29	per	_	ADP	_	_	31	case	_	_
 30	lo	_	DET	_	_	31	det	_	_
 31	For	_	NOUN	_	_	33	obl	_	_
@@ -38769,7 +38769,7 @@
 47	&	_	CCONJ	_	_	48	cc	_	_
 48	iudyade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	46	conj	_	_
 49	,	_	PUNCT	_	_	45	punct	_	_
-50	qui	_	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	51	nsubj	_	_
+50	qui	_	PRON	_	_	51	nsubj	_	_
 51	bailharan	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	45	acl:relcl	_	_
 52	en	_	ADP	_	_	53	case	_	_
 53	mas	_	NOUN	_	_	51	obl	_	_
@@ -39078,7 +39078,7 @@
 3	tienguts	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	los	_	DET	_	_	5	det	_	_
 5	Notaris	_	NOUN	_	_	3	nsubj	_	_
-6	qui	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	8	nsubj	_	_
+6	qui	_	PRON	_	PronType=Rel	8	nsubj	_	_
 7	auran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	8	aux	_	_
 8	recitade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 9	la	_	DET	_	_	10	det	_	_
@@ -39107,7 +39107,7 @@
 30	deffences	_	NOUN	_	_	29	obj	_	_
 31	,	_	PUNCT	_	_	29	punct	_	_
 32	de	_	ADP	_	_	33	case	_	_
-33	que	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	34	obl	_	_
+33	que	_	PRON	_	PronType=Rel	34	obl	_	_
 34	tieran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	24	acl:relcl	_	_
 35	registre	_	NOUN	_	_	34	obj	_	_
 36	.	_	PUNCT	_	_	3	punct	_	_
@@ -39234,7 +39234,7 @@
 19	a-	_	ADP	_	_	18	fixed	_	_
 20	-lo	_	DET	_	_	21	det	_	_
 21	iour	_	NOUN	_	_	9	obl	_	_
-22	que	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	26	obl	_	_
+22	que	_	PRON	_	PronType=Rel	26	obl	_	_
 23	las	_	DET	_	_	24	det	_	_
 24	duplicas	_	NOUN	_	_	26	nsubj	_	_
 25	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	26	expl	_	_
@@ -39328,7 +39328,7 @@
 18	produsir	_	VERB	_	VerbForm=Inf	10	advcl	_	_
 19	los	_	DET	_	_	20	det	_	_
 20	documents	_	NOUN	_	_	18	obj	_	_
-21	que	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	23	nsubj	_	_
+21	que	_	PRON	_	PronType=Rel	23	nsubj	_	_
 22	lasbets	_	ADV	_	_	23	advmod	_	_
 23	seran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	20	acl:relcl	_	_
 24	en	_	ADP	_	_	26	case	_	_
@@ -39370,7 +39370,7 @@
 8	de	_	ADP	_	_	10	case	_	_
 9	las	_	DET	_	_	10	det	_	_
 10	Cedules	_	NOUN	_	_	7	nmod	_	_
-11	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	13	nsubj	_	_
+11	qui	_	PRON	_	PronType=Rel	13	nsubj	_	_
 12	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	13	expl	_	_
 13	bailheran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	acl:relcl	_	_
 14	,	_	PUNCT	_	_	6	punct	_	_
@@ -39428,7 +39428,7 @@
 5	,	_	PUNCT	_	_	4	punct	_	_
 6	&	_	CCONJ	_	_	7	cc	_	_
 7	autres	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	4	conj	_	_
-8	qui	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	10	nsubj	_	_
+8	qui	_	PRON	_	PronType=Rel	10	nsubj	_	_
 9	seran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	10	aux:pass	_	_
 10	concedits	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	_
 11	per	_	ADP	_	_	13	case	_	_
@@ -39474,7 +39474,7 @@
 49	per	_	ADP	_	_	51	case	_	_
 50	chascune	_	DET	_	_	51	det	_	_
 51	begade	_	NOUN	_	_	48	nmod	_	_
-52	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	53	obl	_	_
+52	qui	_	PRON	_	PronType=Rel	53	obl	_	_
 53	faran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	51	acl:relcl	_	_
 54	lò	_	DET	_	_	55	det	_	_
 55	contrary	_	NOUN	_	_	53	obj	_	_
@@ -39500,7 +39500,7 @@
 4	à	_	ADP	_	_	6	case	_	_
 5	las	_	DET	_	_	6	det	_	_
 6	productions	_	NOUN	_	_	3	obl	_	_
-7	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	9	nsubj	_	_
+7	qui	_	PRON	_	PronType=Rel	9	nsubj	_	_
 8	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl	_	_
 9	faran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
 10	pendent	_	ADP	_	_	12	case	_	_
@@ -39525,7 +39525,7 @@
 29	Greffe	_	NOUN	_	_	26	obl	_	_
 30	,	_	PUNCT	_	_	26	punct	_	_
 31	de	_	ADP	_	_	32	case	_	_
-32	lasquoales	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	34	obl	_	_
+32	lasquoales	_	PRON	_	PronType=Rel	34	obl	_	_
 33	emperô	_	ADV	_	_	34	advmod	_	_
 34	poiran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	25	acl:relcl	_	_
 35	prender	_	VERB	_	VerbForm=Inf	34	xcomp	_	_
@@ -39671,7 +39671,7 @@
 24	diffinitiue	_	ADJ	_	_	23	amod	_	_
 25	inclusiuement	_	ADV	_	_	23	advmod	_	_
 26	à	_	ADP	_	_	27	case	_	_
-27	laquoalle	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	28	obl	_	_
+27	laquoalle	_	PRON	_	PronType=Rel	28	obl	_	_
 28	poeyra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	acl:relcl	_	_
 29	estar	_	VERB	_	VerbForm=Inf	28	xcomp	_	_
 30	procedit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	29	xcomp	_	_
@@ -39776,7 +39776,7 @@
 40	en	_	ADP	_	_	41	case	_	_
 41	causa	_	NOUN	_	_	31	obl	_	_
 42	en	_	ADP	_	_	43	case	_	_
-43	lasquoalles	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	49	obl	_	_
+43	lasquoalles	_	PRON	_	PronType=Rel	49	obl	_	_
 44	per	_	ADP	_	_	46	case	_	_
 45	lò	_	DET	_	_	46	det	_	_
 46	For	_	NOUN	_	_	49	obl	_	_
@@ -39973,7 +39973,7 @@
 # text = Empero lò qui aura prestat tal caution iuratory , no poeyra constrenher sa partida à bailhar autre caution que de si medixs , se bailhat no en a .
 1	Empero	_	ADV	_	_	11	advmod	_	_
 2	lò	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-3	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	5	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	5	nsubj	_	_
 4	aura	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
 5	prestat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 6	tal	_	DET	_	_	7	det	_	_
@@ -40047,7 +40047,7 @@
 41	qualitat	_	NOUN	_	_	54	nsubj	_	_
 42-43	deuquoal	_	_	_	_	_	_	_	_
 42	de-	_	ADP	_	_	43	case	_	_
-43	-loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	41	nmod	_	_
+43	-loquoal	_	PRON	_	PronType=Rel	41	nmod	_	_
 44	en	_	ADP	_	_	46	case	_	_
 45	ladite	_	DET	_	_	46	det	_	_
 46	causa	_	NOUN	_	_	54	obl	_	_
@@ -40153,14 +40153,14 @@
 26	&	_	CCONJ	_	_	34	cc	_	_
 27	l'	_	DET	_	_	28	det	_	_
 28	inqueste	_	NOUN	_	_	34	orphan	_	_
-29	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	33	nsubj	_	_
+29	qui	_	PRON	_	PronType=Rel	33	nsubj	_	_
 30	sus	_	ADP	_	_	31	case	_	_
 31	acquet	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	33	obl	_	_
 32	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	33	aux:pass	_	_
 33	feyte	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl:relcl	_	_
-34	nulle	nul	ADJ	_	Polarity=Neg|PronType=Neg	22	conj	_	_
+34	nulle	nul	ADJ	_	Polarity=Neg	22	conj	_	_
 35	,	_	PUNCT	_	_	34	punct	_	_
-36	laquoalle	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	50	obl	_	_
+36	laquoalle	_	PRON	_	PronType=Rel	50	obl	_	_
 37	tant	_	ADV	_	ExtPos=SCONJ	39	mark	_	_
 38	qu'	_	SCONJ	_	_	37	fixed	_	_
 39	es	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	advcl	_	_
@@ -40343,7 +40343,7 @@
 8	personna	_	NOUN	_	_	6	obl	_	_
 9	,	_	PUNCT	_	_	4	punct	_	_
 10	partida	_	NOUN	_	_	14	nsubj	_	_
-11	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	_
+11	qui	_	PRON	_	PronType=Rel	13	nsubj	_	_
 12	aura	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
 13	asserit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	_
 14	probara	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -40382,7 +40382,7 @@
 # text = Sy partide qui vol asserir ou responer mieyansan iurament es de talle qualittat que no posque venir audit siedge , ou aye legitime excuse poyra impetrar Commissary à lasdites fins à sons despens ,
 1	Sy	_	SCONJ	_	_	10	mark	_	_
 2	partide	_	NOUN	_	_	10	nsubj	_	_
-3	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	4	nsubj	_	_
 4	vol	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	asserir	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	ou	_	CCONJ	_	_	7	cc	_	_
@@ -40475,7 +40475,7 @@
 
 # sent_id = 1564_Stil_1_6_7_1_1
 # text = QVI sera attent en periury en l' assertion ou respontion cathegoricque , sera punit de vne ley majour , ou autre pena plus grande segond la qualitat de la causa & personnas .
-1	QVI	_	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	3	nsubj	_	_
+1	QVI	_	PRON	_	PronType=Rel	3	nsubj	_	_
 2	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	_
 3	attent	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	csubj	_	_
 4	en	_	ADP	_	_	5	case	_	_
@@ -40517,7 +40517,7 @@
 4	permetut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	à	_	ADP	_	_	8	case	_	_
 6	d'	_	DET	_	_	8	det	_	_
-7	augun	alcun	ADJ	_	Polarity=Neg|PronType=Neg	8	amod	_	_
+7	augun	alcun	ADJ	_	Polarity=Neg	8	amod	_	_
 8	Commissary	_	NOUN	_	_	4	obl	_	_
 9	ainxi	_	ADV	_	_	4	advmod	_	_
 10	en	_	ADP	_	_	11	case	_	_
@@ -40609,7 +40609,7 @@
 23	N.	_	PROPN	_	_	20	nmod	_	_
 24	contre	_	ADP	_	_	25	case	_	_
 25	N.	_	PROPN	_	_	20	nmod	_	_
-26	loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	28	nsubj	_	_
+26	loquoal	_	PRON	_	PronType=Rel	28	nsubj	_	_
 27	es	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
 28	appuntat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	acl:relcl	_	_
 29	à	_	ADP	_	_	30	mark	_	_
@@ -40647,7 +40647,7 @@
 12	,	_	PUNCT	_	_	5	punct	_	_
 13	lò	_	DET	_	_	14	det	_	_
 14	iorn	_	NOUN	_	_	5	obj	_	_
-15	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	17	obl	_	_
+15	qui	_	PRON	_	PronType=Rel	17	obl	_	_
 16	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	17	expl	_	_
 17	transportera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	14	acl:relcl	_	_
 18	,	_	PUNCT	_	_	5	punct	_	_
@@ -40681,7 +40681,7 @@
 # text = TOVTS Commissaris qui auran feyte ladite declaration & autreyades lettrès , se trouueran au iorn , locq & hore assignats , sinon que sien impedits per adiunts où malaudie , où autre legitime excuse : cum es innondation d' aigues , ou autre , à pena de pagar à l' impetrant los despens damnadges & interests , ausquaux es iniungit au ludge condamnar lodit Commissary .
 1	TOVTS	_	DET	_	_	2	det	_	_
 2	Commissaris	_	NOUN	_	_	13	nsubj	_	_
-3	qui	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	5	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	5	nsubj	_	_
 4	auran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	5	aux	_	_
 5	feyte	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	_
 6	ladite	_	DET	_	_	7	det	_	_
@@ -40740,7 +40740,7 @@
 58	,	_	PUNCT	_	_	54	punct	_	_
 59-60	ausquaux	_	_	_	_	_	_	_	_
 59	a-	_	ADP	_	_	60	case	_	_
-60	-losquaux	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	62	obl	_	_
+60	-losquaux	_	PRON	_	PronType=Rel	62	obl	_	_
 61	es	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	62	aux:pass	_	_
 62	iniungit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	54	acl:relcl	_	_
 63-64	au	_	_	_	_	_	_	_	_
@@ -40809,7 +40809,7 @@
 52	-lo	_	DET	_	_	53	det	_	_
 53	dors	_	NOUN	_	_	60	obl	_	_
 54	de	_	ADP	_	_	55	case	_	_
-55	lasquoalles	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	53	nmod	_	_
+55	lasquoalles	_	PRON	_	PronType=Rel	53	nmod	_	_
 56	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	60	aux:pass	_	_
 57	per	_	ADP	_	_	59	case	_	_
 58	l'	_	DET	_	_	59	det	_	_
@@ -40879,7 +40879,7 @@
 6	&	_	CCONJ	_	_	8	cc	_	_
 7	autres	_	DET	_	_	8	det	_	_
 8	escriptures	_	NOUN	_	_	2	conj	_	_
-9	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	11	nsubj	_	_
+9	qui	_	PRON	_	PronType=Rel	11	nsubj	_	_
 10	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	11	expl	_	_
 11	bailheran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
 12	en	_	ADP	_	_	14	case	_	_
@@ -40907,7 +40907,7 @@
 34	contre	_	ADP	_	_	36	case	_	_
 35	los	_	DET	_	_	36	det	_	_
 36	Aduocats	_	NOUN	_	_	23	nmod	_	_
-37	qui	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	38	nsubj	_	_
+37	qui	_	PRON	_	PronType=Rel	38	nsubj	_	_
 38	bailheran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	36	acl:relcl	_	_
 39	aqueres	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Dem	38	obj	_	_
 40	per	_	ADP	_	_	41	case	_	_
@@ -40929,7 +40929,7 @@
 8	causas	_	NOUN	_	_	4	obl	_	_
 9	minimes	_	ADJ	_	_	8	amod	_	_
 10	,	_	PUNCT	_	_	8	punct	_	_
-11	que	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	13	nsubj	_	_
+11	que	_	PRON	_	PronType=Rel	13	nsubj	_	_
 12	no	non	ADV	_	Polarity=Neg	13	advmod	_	_
 13	montin	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 14	cinque	_	NUM	_	_	15	nummod	_	_
@@ -40986,14 +40986,14 @@
 63	contre	_	ADP	_	_	65	case	_	_
 64	l'	_	DET	_	_	65	det	_	_
 65	Auocat	_	NOUN	_	_	58	nmod	_	_
-66	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	68	nsubj	_	_
+66	qui	_	PRON	_	PronType=Rel	68	nsubj	_	_
 67	l'	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	68	obj	_	_
 68	apuntera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	65	acl:relcl	_	_
 69	,	_	PUNCT	_	_	65	punct	_	_
 70	que	_	CCONJ	_	_	72	cc	_	_
 71	ló	_	DET	_	_	72	det	_	_
 72	Notary	_	NOUN	_	_	65	conj	_	_
-73	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	74	nsubj	_	_
+73	qui	_	PRON	_	PronType=Rel	74	nsubj	_	_
 74	estendera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	72	acl:relcl	_	_
 75	l'	_	DET	_	_	76	det	_	_
 76	appuntament	_	NOUN	_	_	74	obj	_	_
@@ -41102,7 +41102,7 @@
 15	ló	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
 16	presentar	_	VERB	_	VerbForm=Inf	11	advcl	_	_
 17	,	_	PUNCT	_	_	11	punct	_	_
-18	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	20	nsubj	_	_
+18	qui	_	PRON	_	PronType=Rel	20	nsubj	_	_
 19	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	20	expl	_	_
 20	contera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	acl:relcl	_	_
 21-22	deu	_	_	_	_	_	_	_	_
@@ -41111,7 +41111,7 @@
 23	iorn	_	NOUN	_	_	20	obl	_	_
 24	&	_	CCONJ	_	_	25	cc	_	_
 25	datte	_	NOUN	_	_	23	conj	_	_
-26	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	28	obl	_	_
+26	qui	_	PRON	_	PronType=Rel	28	obl	_	_
 27	aura	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	aux	_	_
 28	obtengut	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	acl:relcl	_	_
 29	lodit	_	DET	_	_	30	det	_	_
@@ -41184,7 +41184,7 @@
 7	ab	_	ADP	_	_	9	case	_	_
 8	vn	_	DET	_	_	9	det	_	_
 9	Aduocat	_	NOUN	_	_	3	obl	_	_
-10	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	12	nsubj	_	_
+10	qui	_	PRON	_	PronType=Rel	12	nsubj	_	_
 11	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	aux:pass	_	_
 12	impetrat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
 13	Commissary	_	NOUN	_	_	12	xcomp	_	_
@@ -41291,7 +41291,7 @@
 28	inqueste	_	NOUN	_	_	26	obj	_	_
 29	lò	_	DET	_	_	30	det	_	_
 30	iorn	_	NOUN	_	_	26	obl	_	_
-31	que	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	34	obl	_	_
+31	que	_	PRON	_	PronType=Rel	34	obl	_	_
 32	l'	_	DET	_	_	33	det	_	_
 33	assignation	_	NOUN	_	_	34	nsubj	_	_
 34	escat	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	_
@@ -41398,7 +41398,7 @@
 # text = LO Commissary qui sera deputat à far inqueste aura puchance de far visions ocularys , examinar experts , & en prener d' officy si partidas no s' en accorden , [.]
 1	LO	_	DET	_	_	2	det	_	_
 2	Commissary	_	NOUN	_	_	9	nsubj	_	_
-3	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	5	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	5	nsubj	_	_
 4	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	5	aux:pass	_	_
 5	deputat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	_
 6	à	_	ADP	_	_	7	mark	_	_
@@ -41443,7 +41443,7 @@
 11	Inquestes	_	NOUN	_	_	4	obl	_	_
 12	&	_	CCONJ	_	_	13	cc	_	_
 13	Procedure	_	NOUN	_	_	11	conj	_	_
-14	qui	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	16	obj	_	_
+14	qui	_	PRON	_	PronType=Rel	16	obj	_	_
 15	aura	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
 16	feyt	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
 17	,	_	PUNCT	_	_	4	punct	_	_
@@ -41480,7 +41480,7 @@
 47	Ley	_	NOUN	_	_	44	nmod	_	_
 48	major	_	ADJ	_	_	47	amod	_	_
 49	,	_	PUNCT	_	_	47	punct	_	_
-50	laquoalle	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	57	obj	_	_
+50	laquoalle	_	PRON	_	PronType=Rel	57	obj	_	_
 51	ló	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	53	iobj	_	_
 52	es	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	53	aux:pass	_	_
 53	mandat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	47	acl:relcl	_	_
@@ -41629,7 +41629,7 @@
 # text = TOVT Commissary qui ira far inqueste hors deu Siedge sera tiengut partir de la villa deudit Siedge a oeyt hores de matin per ló menhs , & à caâs no ac fasse no exigira que la mieytat deu salary per aquet iorn , & vacquera diligentement à la faction de ladita inqueste , tant que partida ló requerira senhs se diuertir a d' autres negocis , à la pena de l' emmenda , & vne Ley major , & reparar à partida touts despens damnadges & interests .
 1	TOVT	_	DET	_	_	2	det	_	_
 2	Commissary	_	NOUN	_	_	12	nsubj	_	_
-3	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+3	qui	_	PRON	_	PronType=Rel	4	nsubj	_	_
 4	ira	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	acl:relcl	_	_
 5	far	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	inqueste	_	NOUN	_	_	5	obj	_	_
@@ -41799,7 +41799,7 @@
 23	contre	_	ADP	_	ExtPos=ADP	25	case	_	_
 24-25	deuquoal	_	_	_	_	_	_	_	_
 24	de-	_	ADP	_	_	25	case	_	_
-25	-loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	34	obl	_	_
+25	-loquoal	_	PRON	_	PronType=Rel	34	obl	_	_
 26	despuxs	_	SCONJ	_	_	28	mark	_	_
 27	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	aux	_	_
 28	partit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	34	advcl	_	_
@@ -42128,7 +42128,7 @@
 
 # sent_id = 1564_Stil_1_9_3_1_5
 # text = loquoal passat , si no las à probades , lodit propausant en sera deboutat & condamnat aux despens , & emmende à l' arbitre de la Cort enuers qui appartiendra seguin l' exigence deu caâs ,
-1	loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	2	nsubj	_	_
+1	loquoal	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	passat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
 3	,	_	PUNCT	_	_	2	punct	_	_
 4	si	_	SCONJ	_	_	8	mark	_	_
@@ -42158,7 +42158,7 @@
 27	la	_	DET	_	_	28	det	_	_
 28	Cort	_	NOUN	_	_	25	nmod	_	_
 29	enuers	_	ADP	_	_	30	case	_	_
-30	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	31	obl	_	_
+30	qui	_	PRON	_	PronType=Rel	31	obl	_	_
 31	appartiendra	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	acl:relcl	_	_
 32	seguin	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	31	advcl	_	_
 33	l'	_	DET	_	_	34	det	_	_
@@ -42297,9 +42297,9 @@
 11	&	_	CCONJ	_	_	12	cc	_	_
 12	requeriran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	conj	_	_
 13	so	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	obj	_	_
-14	que	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Rel	15	obj	_	_
+14	que	_	PRON	_	PronType=Rel	15	obj	_	_
 15	veiran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
-16	fasedor	_	VERB	_	Gender=Neut|Number=Sing|Tense=Fut|VerbForm=Part	15	xcomp	_	_
+16	fasedor	_	VERB	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part	15	xcomp	_	_
 17	per	_	ADP	_	_	18	case	_	_
 18	drect	_	NOUN	_	_	16	obl	_	_
 19	&	_	CCONJ	_	_	20	cc	_	_
@@ -42316,12 +42316,12 @@
 6	de	_	ADP	_	_	7	case	_	_
 7	partida	_	NOUN	_	_	5	nmod	_	_
 8	,	_	PUNCT	_	_	5	punct	_	_
-9	où	_	CCONJ	_	PronType=Rel	10	cc	_	_
+9	où	_	CCONJ	_	_	10	cc	_	_
 10	aliance	_	NOUN	_	_	5	conj	_	_
 11	notory	_	ADJ	_	_	10	amod	_	_
 12	,	_	PUNCT	_	_	3	punct	_	_
 13	&	_	CCONJ	_	_	18	cc	_	_
-14	qui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	18	nsubj	_	_
+14	qui	_	PRON	_	PronType=Rel	18	nsubj	_	_
 15	vraysemblablement	vraysemblablement	ADV	_	_	18	advmod	_	_
 16	no	non	ADV	_	Polarity=Neg	18	advmod	_	_
 17	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	19	expl	_	_
@@ -42460,7 +42460,7 @@
 20	instrumens	_	NOUN	_	_	18	obj	_	_
 21	&	_	CCONJ	_	_	22	cc	_	_
 22	documens	_	NOUN	_	_	20	conj	_	_
-23	qui	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	27	nsubj	_	_
+23	qui	_	PRON	_	PronType=Rel	27	nsubj	_	_
 24	de	_	ADP	_	_	25	case	_	_
 25	nobet	_	ADV	_	_	27	advmod	_	_
 26	seran	_	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	27	aux	_	_
@@ -42512,7 +42512,7 @@
 70	partida	_	NOUN	_	_	68	obl	_	_
 71	,	_	PUNCT	_	_	68	punct	_	_
 72	&	_	CCONJ	_	_	77	cc	_	_
-73	que	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	77	nsubj	_	_
+73	que	_	PRON	_	PronType=Rel	77	nsubj	_	_
 74	no	non	ADV	_	Polarity=Neg	77	advmod	_	_
 75	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	77	expl	_	_
 76	fossen	_	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	77	aux	_	_
@@ -42524,7 +42524,7 @@
 82	estades	_	AUX	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	83	aux	_	_
 83	feytes	_	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	77	advcl	_	_
 84	,	_	PUNCT	_	_	77	punct	_	_
-85	losquoals	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	88	nsubj	_	_
+85	losquoals	_	PRON	_	PronType=Rel	88	nsubj	_	_
 86	aussi	_	ADV	_	_	88	advmod	_	_
 87	no	non	ADV	_	Polarity=Neg	88	advmod	_	_
 88	viendran	_	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	67	acl:relcl	_	_
@@ -42581,7 +42581,7 @@
 19	las	_	DET	_	_	20	det	_	_
 20	fins	_	NOUN	_	_	18	obj	_	_
 21	à	_	ADP	_	_	22	case	_	_
-22	que	_	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Rel	24	obl	_	_
+22	que	_	PRON	_	PronType=Rel	24	obl	_	_
 23	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	24	expl	_	_
 24	fen	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 25	,	_	PUNCT	_	_	13	punct	_	_
@@ -42720,7 +42720,7 @@
 
 # sent_id = 1564_Stil_1_11_2_1_3
 # text = loquoal passat , ló procez sera claudit en dret .
-1	loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	2	nsubj	_	_
+1	loquoal	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	passat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
 3	,	_	PUNCT	_	_	2	punct	_	_
 4	ló	_	DET	_	_	5	det	_	_
@@ -42745,7 +42745,7 @@
 9	oeytene	_	NOUN	_	_	3	obl	_	_
 10	,	_	PUNCT	_	_	9	punct	_	_
 11	pendent	_	ADP	_	_	12	case	_	_
-12	loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	18	obl	_	_
+12	loquoal	_	PRON	_	PronType=Rel	18	obl	_	_
 13	los	_	DET	_	_	14	det	_	_
 14	Aduocats	_	NOUN	_	_	18	nsubj	_	_
 15	de	_	ADP	_	_	16	case	_	_
@@ -42786,7 +42786,7 @@
 48	vne	_	DET	_	_	49	det	_	_
 49	Ley-mayor	_	NOUN	_	_	46	nmod	_	_
 50	,	_	PUNCT	_	_	46	punct	_	_
-51	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	54	nsubj	_	_
+51	qui	_	PRON	_	PronType=Rel	54	nsubj	_	_
 52	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	54	iobj	_	_
 53	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	54	aux:pass	_	_
 54	declarade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	46	acl:relcl	_	_
@@ -42864,7 +42864,7 @@
 # sent_id = 1564_Stil_1_11_4_1_2
 # text = passat losquoals , lò rendera incontinent au Greffe , suûs la pena d' vne liure Morlane , qui lò sera declarade per ló Iudge , ló dilay escadut .
 1	passat	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
-2	losquoals	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	1	nsubj	_	_
+2	losquoals	_	PRON	_	PronType=Rel	1	nsubj	_	_
 3	,	_	PUNCT	_	_	1	punct	_	_
 4	lò	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 5	rendera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -42882,7 +42882,7 @@
 16	liure	_	NOUN	_	_	13	nmod	_	_
 17	Morlane	_	ADJ	_	_	16	amod	_	_
 18	,	_	PUNCT	_	_	13	punct	_	_
-19	qui	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Rel	22	nsubj	_	_
+19	qui	_	PRON	_	PronType=Rel	22	nsubj	_	_
 20	lò	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	iobj	_	_
 21	sera	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	22	aux:pass	_	_
 22	declarade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
@@ -42923,7 +42923,7 @@
 
 # sent_id = 1564_Stil_1_11_5_1_2
 # text = loquoal passat , ló rendera si bien au Greffe à la pena susdite .
-1	loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	2	nsubj	_	_
+1	loquoal	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	passat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
 3	,	_	PUNCT	_	_	2	punct	_	_
 4	ló	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
@@ -42992,7 +42992,7 @@
 12	l'	_	DET	_	_	13	det	_	_
 13	estat	_	NOUN	_	_	4	obl	_	_
 14	empero	_	ADV	_	_	13	advmod	_	_
-15	que	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	18	obl	_	_
+15	que	_	PRON	_	PronType=Rel	18	obl	_	_
 16	talle	_	DET	_	_	17	det	_	_
 17	causa	_	NOUN	_	_	18	nsubj	_	_
 18	sera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	13	acl:relcl	_	_
@@ -43167,7 +43167,7 @@
 62	considerations	_	NOUN	_	_	64	obl	_	_
 63	fosse	_	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	64	cop	_	_
 64	besoin	_	NOUN	_	_	42	advcl	_	_
-65	en	_	ADP	_	PronType=Prs	66	obl	_	_
+65	en	_	ADP	_	_	66	mark	_	_
 66	bailhar	_	VERB	_	VerbForm=Inf	64	acl	_	_
 67	dauantadge	_	ADV	_	_	66	advmod	_	_
 68	,	_	PUNCT	_	_	64	punct	_	_
@@ -43208,7 +43208,7 @@
 
 # sent_id = 1564_Stil_1_14_1_1_1
 # text = QVI PRESENTERA Iurament decisory à sa partida suùs feyts passats enter lor , sera tengut bailhar per escriut los feyts suùs losquoals vol que losdits iuraments sien prestats , & qualitat & condition dequeres , lò medixs iorn de la presentation , auquoal partida deliberarà per oeytene si vol acquet acceptar où refferir .
-1	QVI	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	2	nsubj	_	_
+1	QVI	_	PRON	_	PronType=Rel	2	nsubj	_	_
 2	PRESENTERA	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	csubj	_	_
 3	Iurament	_	NOUN	_	_	2	obj	_	_
 4	decisory	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part	3	amod	_	_
@@ -43229,7 +43229,7 @@
 19	los	_	DET	_	_	20	det	_	_
 20	feyts	_	NOUN	_	_	16	obj	_	_
 21	suùs	_	ADP	_	_	22	case	_	_
-22	losquoals	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Rel	23	obl	_	_
+22	losquoals	_	PRON	_	PronType=Rel	23	obl	_	_
 23	vol	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
 24	que	_	SCONJ	_	_	28	mark	_	_
 25	losdits	_	DET	_	_	26	det	_	_
@@ -43254,7 +43254,7 @@
 43	,	_	PUNCT	_	_	39	punct	_	_
 44-45	auquoal	_	_	_	_	_	_	_	_
 44	a-	_	ADP	_	_	45	case	_	_
-45	-loquoal	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Rel	47	obl	_	_
+45	-loquoal	_	PRON	_	PronType=Rel	47	obl	_	_
 46	partida	_	NOUN	_	_	47	nsubj	_	_
 47	deliberarà	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	39	acl:relcl	_	_
 48	per	_	ADP	_	_	49	case	_	_
