@@ -438,7 +438,7 @@
 # sent_id = 1214-1342_Deux_1_1_7_111_4
 # len = 30
 # text = Ques son los nomes: W. Gaucem, Guilhem de la Landa, A. Thomas filhs a Gerau, Ayquem de Lavisa, P. Lambert et P. Lambert deffunct.
-1	Ques	_	PRON	_	_	0	root	_	_
+1	Ques	_	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
 2	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	1	cop	_	_
 3	los	_	DET	_	_	4	det	_	_
 4	nomes	_	NOUN	_	_	1	nsubj	_	SpaceAfter=No

@@ -38,7 +38,7 @@
 35	entro	_	SCONJ	_	_	37	mark	_	_
 36	ayan	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	37	aux	_	_
 37	paguat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	advcl	_	_
-38	quant	_	PRON	_	_	37	obj	_	_
+38	quant	_	PRON	_	PronType=Ind	37	obj	_	_
 39	edz	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	40	nsubj	_	_
 40	contaban	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	38	acl	_	_
 41	frauduleument	_	ADV	_	_	40	advmod	_	_
@@ -984,7 +984,7 @@
 54	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	56	nsubj	_	_
 55	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	56	iobj	_	_
 56	talha	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	44	advcl	_	_
-57	quant	_	PRON	_	_	56	obj	_	_
+57	quant	_	PRON	_	PronType=Ind	56	obj	_	_
 58	que	_	PRON	_	PronType=Rel	60	obj	_	_
 59	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	60	expl	_	_
 60	bol	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	57	acl:relcl	_	_
