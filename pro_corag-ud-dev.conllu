@@ -195,7 +195,7 @@
 3	fames	_	NOUN	_	_	16	obl	_	_
 4	o	_	CCONJ	_	_	5	cc	_	_
 5	greux	_	NOUN	_	_	3	conj	_	_
-6	sobredeytz	_	ADJ	_	_	3	amod	_	_
+6	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	amod	_	_
 7	la	_	DET	_	_	8	det	_	_
 8	casa	_	NOUN	_	_	16	nsubj	_	_
 9	o	_	CCONJ	_	_	11	cc	_	_
@@ -345,7 +345,7 @@
 8	sanc	_	NOUN	_	_	6	nmod	_	_
 9	contre	_	ADP	_	_	12	case	_	_
 10	li	_	DET	_	_	12	det	_	_
-11	sobredeytz	_	ADJ	_	_	12	amod	_	_
+11	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	amod	_	_
 12	maufeytors	_	NOUN	_	_	24	obl	_	_
 13	per	_	ADP	_	_	16	mark	_	_
 14	la	_	DET	_	_	15	det	_	_
@@ -759,7 +759,7 @@
 18	causa	_	NOUN	_	_	16	obl	_	_
 19	foras	_	ADP	_	_	22	case	_	_
 20	li	_	DET	_	_	22	det	_	_
-21	sobredeytz	_	ADJ	_	_	22	amod	_	_
+21	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	amod	_	_
 22	locx	_	NOUN	_	_	16	obl	_	_
 23	ayssi	_	ADV	_	ExtPos=SCONJ	27	mark	_	_
 24	cum	_	SCONJ	_	_	23	fixed	_	_
@@ -4188,8 +4188,8 @@
 43	que	_	PRON	_	PronType=Rel	48	obl	_	_
 44	autre	_	DET	_	_	45	det	_	_
 45	betz	_	NOUN	_	_	48	obl	_	_
-46	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	48	aux:pass	_	_
-47	estat	_	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	48	aux	_	_
+46	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	48	aux	_	_
+47	estat	_	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	48	aux:pass	_	_
 48	establit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	41	acl:relcl	_	_
 49	et	_	CCONJ	_	_	52	cc	_	_
 50	segont	_	ADP	_	_	52	case	_	_

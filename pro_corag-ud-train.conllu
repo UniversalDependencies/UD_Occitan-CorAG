@@ -1060,7 +1060,7 @@
 9	o	_	CCONJ	_	_	11	cc	_	_
 10	per	_	ADP	_	_	11	case	_	_
 11	meyanx	_	NOUN	_	_	8	conj	_	_
-12	sobredeytz	_	ADJ	_	_	13	amod	_	_
+12	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	13	amod	_	_
 13	grenx	_	NOUN	_	_	11	nmod	_	_
 14	alor	_	ADV	_	_	15	advmod	_	_
 15	compellitz	_	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
@@ -1397,7 +1397,7 @@
 20-21	dels	_	_	_	_	_	_	_	_
 20	de-	_	ADP	_	_	22	case	_	_
 21	-los	_	DET	_	_	22	det	_	_
-22	sobredeytz	_	ADJ	_	_	19	nmod	_	SpaceAfter=No
+22	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	nmod	_	SpaceAfter=No
 23	;	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 1214-1342_Deux_1_1_2_2_21
@@ -1513,7 +1513,7 @@
 57	exactions	_	NOUN	_	_	53	conj	_	_
 58	et	_	CCONJ	_	_	59	cc	_	_
 59	greux	_	NOUN	_	_	62	nsubj	_	_
-60	sobredeytz	_	ADJ	_	_	59	amod	_	_
+60	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	59	amod	_	_
 61	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	62	expl	_	_
 62	gaudescan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	40	conj	_	_
 63	ensemps	_	ADV	_	_	62	advmod	_	_
@@ -1977,7 +1977,7 @@
 14-15	aus	_	_	_	_	_	_	_	_
 14	a-	_	ADP	_	_	17	case	_	_
 15	-los	_	DET	_	_	17	det	_	_
-16	sobredeyts	_	ADJ	_	_	17	amod	_	_
+16	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
 17	homes	_	NOUN	_	_	10	obl	_	_
 18	per	_	ADP	_	_	19	case	_	_
 19	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	10	obl	_	_
@@ -2211,7 +2211,7 @@
 1	E	_	CCONJ	_	_	11	cc	_	_
 2	quar	_	CCONJ	_	_	11	cc	_	_
 3	li	_	DET	_	_	5	det	_	_
-4	sobredeyts	_	ADJ	_	_	5	amod	_	_
+4	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	amod	_	_
 5	archivesque	_	NOUN	_	_	11	nsubj	_	SpaceAfter=No
 6	,	_	PUNCT	_	_	5	punct	_	_
 7	evesque	_	NOUN	_	_	5	conj	_	_
@@ -2338,7 +2338,7 @@
 6-7	aus	_	_	_	_	_	_	_	_
 6	a-	_	ADP	_	_	9	case	_	_
 7	-los	_	DET	_	_	9	det	_	_
-8	sobredeyts	_	ADJ	_	_	9	amod	_	_
+8	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
 9	transcruits	_	NOUN	_	_	5	obl	_	_
 10	et	_	CCONJ	_	_	17	cc	_	_
 11	lo	_	DET	_	_	12	det	_	_
@@ -3110,7 +3110,7 @@
 46-47	dels	_	_	_	_	_	_	_	_
 46	de-	_	ADP	_	_	50	case	_	_
 47	-los	_	DET	_	_	50	det	_	_
-48	sobredeyts	_	ADJ	_	_	50	amod	_	_
+48	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	50	amod	_	_
 49	dos	_	NUM	_	_	50	nummod	_	_
 50	reys	_	NOUN	_	_	45	nmod	_	SpaceAfter=No
 51	,	_	PUNCT	_	_	50	punct	_	_
@@ -3339,7 +3339,7 @@
 75-76	del	_	_	_	_	_	_	_	_
 75	de-	_	ADP	_	_	78	case	_	_
 76	-lo	_	DET	_	_	78	det	_	_
-77	subredeyt	_	ADJ	_	_	78	amod	_	_
+77	subredeyt	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	78	amod	_	_
 78	Rey	_	NOUN	_	_	74	nmod	_	_
 79	en	_	ADP	_	_	81	case	_	_
 80	ladeyta	_	DET	_	_	81	det	_	_
@@ -4131,7 +4131,7 @@
 # len = 33
 # text = Li sobredeyts jureren et dels dreyts et libertatz et costumas delsquals o per losquas la terra del Rey se gaudische en lo temps del rey Henric et Richart.
 1	Li	_	DET	_	_	2	det	_	_
-2	sobredeyts	_	ADJ	_	_	3	nsubj	_	_
+2	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	nsubj	_	_
 3	jureren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 4	et	_	CCONJ	_	_	7	cc	_	_
 5-6	dels	_	_	_	_	_	_	_	_
@@ -4429,7 +4429,7 @@
 13	guisa	_	NOUN	_	_	11	fixed	_	_
 14	que	_	SCONJ	_	_	11	fixed	_	_
 15	li	_	DET	_	_	17	det	_	_
-16	sobredeyts	_	ADJ	_	_	17	amod	_	_
+16	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	amod	_	_
 17	capellanx	_	NOUN	_	_	26	nsubj	_	_
 18	et	_	CCONJ	_	_	20	cc	_	_
 19	los	_	DET	_	_	20	det	_	_
@@ -4592,7 +4592,7 @@
 48	so	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	47	fixed	_	_
 49	que	_	SCONJ	_	_	47	fixed	_	_
 50	li	_	DET	_	_	52	det	_	_
-51	sobredeyts	_	ADJ	_	_	52	amod	_	_
+51	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	52	amod	_	_
 52	baronx	_	NOUN	_	_	58	nsubj	_	SpaceAfter=No
 53	,	_	PUNCT	_	_	52	punct	_	_
 54	cavaleys	_	NOUN	_	_	52	conj	_	_
@@ -5640,7 +5640,7 @@
 6	livras	_	NOUN	_	_	3	nmod	_	_
 7	deben	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	li	_	DET	_	_	10	det	_	_
-9	sobredeytz	_	ADJ	_	_	10	amod	_	_
+9	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	_
 10	homes	_	NOUN	_	_	7	nsubj	_	_
 11-12	del	_	_	_	_	_	_	_	_
 11	de-	_	ADP	_	_	13	case	_	_
@@ -6270,7 +6270,7 @@
 5	justicia	_	NOUN	_	_	3	obj	_	_
 6	en	_	ADP	_	_	8	case	_	_
 7	los	_	DET	_	_	8	det	_	_
-8	sobredeyts	_	ADJ	_	_	3	obl	_	_
+8	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	obl	_	_
 9	qui	_	PRON	_	PronType=Rel	10	nsubj	_	_
 10	propres	_	ADJ	_	_	8	acl:relcl	_	_
 11	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	10	cop	_	_
@@ -6347,7 +6347,7 @@
 29	pogossan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	45	advcl	_	_
 30	deffrendre	_	VERB	_	VerbForm=Inf	29	xcomp	_	_
 31	li	_	DET	_	_	32	det	_	_
-32	sobredeyts	_	ADJ	_	_	30	obj	_	_
+32	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	obj	_	_
 33	en	_	ADP	_	_	37	case	_	_
 34	deguda	_	ADJ	_	_	37	amod	_	_
 35	et	_	CCONJ	_	_	36	cc	_	_
@@ -6358,7 +6358,7 @@
 40	edz	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	45	nsubj	_	_
 41	quant	_	ADV	_	_	43	advmod	_	_
 42	li	_	DET	_	_	43	det	_	_
-43	sobredeytz	_	ADJ	_	_	40	nmod	_	SpaceAfter=No
+43	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	40	nmod	_	SpaceAfter=No
 44	,	_	PUNCT	_	_	40	punct	_	_
 45	apereren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 46	ad	_	ADP	_	_	48	mark	_	_
@@ -7204,7 +7204,7 @@
 24	estatut	_	NOUN	_	_	28	nsubj	_	_
 25	de	_	ADP	_	_	26	case	_	_
 26	patz	_	NOUN	_	_	24	nmod	_	_
-27	eran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	28	aux	_	_
+27	eran	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	28	aux:pass	_	_
 28	diverssifficat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	advcl	_	SpaceAfter=No
 29	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -7388,7 +7388,7 @@
 11	aucun	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	9	obl	_	_
 12	en	_	ADP	_	_	15	case	_	_
 13	li	_	DET	_	_	15	det	_	_
-14	sobredeytz	_	ADJ	_	_	15	amod	_	_
+14	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	_
 15	locx	_	NOUN	_	_	9	obl	_	_
 16	fore	_	ADP	_	_	17	case	_	_
 17	Bordeu	_	PROPN	_	_	9	obl	_	_
@@ -7587,7 +7587,7 @@
 86	autre	_	PRON	_	Number=Sing|PronType=Ind	81	nmod	_	SpaceAfter=No
 87	;	_	PUNCT	_	_	6	punct	_	_
 88	edz	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	90	nsubj	_	_
-89	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	90	aux	_	_
+89	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	90	aux:pass	_	_
 90	usat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 91	d’	_	ADP	_	_	93	case	_	SpaceAfter=No
 92	aquesta	_	DET	_	_	93	det	_	_
@@ -9407,7 +9407,7 @@
 14	perdonat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	advcl	_	_
 15	en	_	ADP	_	_	18	case	_	_
 16	los	_	DET	_	_	18	det	_	_
-17	sobredeytz	_	ADJ	_	_	18	amod	_	_
+17	sobredeytz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	amod	_	_
 18	tribalh	_	NOUN	_	_	14	obl	_	_
 19	lo	_	DET	_	_	20	det	_	_
 20	sotzsenescaut	_	NOUN	_	_	21	nsubj	_	_
