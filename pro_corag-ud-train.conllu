@@ -12097,7 +12097,7 @@
 
 # sent_id = 1251_Bagn_1_1_26_1_3
 # len = 31
-# text = e- -lo son cos que deu ester metud sotz lo mort ;
+# text = e-l son cos que deu ester metud sotz lo mort;
 1-2	e-l	_	_	_	_	_	_	_	_
 1	e-	_	CCONJ	_	_	6	cc	_	_
 2	-lo	_	DET	_	_	4	det	_	_
@@ -28114,7 +28114,7 @@
 
 # sent_id = 1460_Bearn_1_1_126_1_2
 # len = 23
-# text = si fe- -n la ley ab femne bedoe , taule benedisen , que tant valhe cum la ley et la domande habunde .
+# text = si fe-n la ley ab femne bedoe, taule benedisen, que tant valhe cum la ley et la domande habunde.
 1	si	_	SCONJ	_	_	2	mark	_	_
 2-3	fe-n	_	_	_	_	_	_	_	_
 2	fe-	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	15	advcl	_	_
@@ -28724,7 +28724,7 @@
 15	fermi	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 
 # sent_id = 1460_Bearn_1_1_129_1_7
-# text = et la cort conexera que eg fe- -y habunde .
+# text = et la cort conexera que eg fe-y habunde.
 # len = 10
 1	et	_	CCONJ	_	_	4	cc	_	_
 2	la	_	DET	_	_	3	det	_	_
