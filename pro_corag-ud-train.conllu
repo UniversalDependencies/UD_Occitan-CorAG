@@ -6445,7 +6445,7 @@
 125	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	126	nsubj	_	_
 126	ha	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	79	ccomp	_	_
 127	albergar	albergar	VERB	_	VerbForm=Inf	126	xcomp	_	_
-128	la	la	VERB	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	127	obj	_	_
+128	la	la	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	127	obj	_	_
 129	en	_	ADP	_	_	131	case	_	_
 130	los	_	DET	_	_	131	det	_	_
 131	obreys	_	NOUN	_	_	127	obl	_	_
