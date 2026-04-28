@@ -59,7 +59,7 @@
 56	mayson	_	NOUN	_	_	53	obl	_	_
 57	sas	_	DET	_	_	58	det	_	_
 58	carns	_	NOUN	_	_	53	obj	_	_
-59	saladas	_	ADJ	_	_	58	amod	_	_
+59	saladas	_	ADJ	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	58	amod	_	_
 60	et	_	CCONJ	_	_	62	cc	_	_
 61	bon	_	ADJ	_	_	62	amod	_	_
 62	vin	_	NOUN	_	_	58	conj	_	_
@@ -207,7 +207,7 @@
 14	laborador	_	NOUN	_	_	8	nmod	_	_
 15	sia	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	16	aux	_	_
 16	remanguada	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
-17	desolada	_	ADJ	_	_	16	xcomp	_	_
+17	desolada	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	xcomp	_	_
 18	occasion	_	NOUN	_	_	20	obj	_	_
 19	no	non	ADV	_	Polarity=Neg	20	advmod	_	_
 20	exigen	_	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	28	advcl	_	_
@@ -417,9 +417,9 @@
 22	gatge	_	NOUN	_	_	19	obj	_	_
 23	de	_	ADP	_	_	24	case	_	_
 24	patz	_	NOUN	_	_	22	nmod	_	_
-25	violada	_	ADJ	_	_	24	amod	_	_
+25	violada	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	amod	_	_
 26	o	_	CCONJ	_	_	27	cc	_	_
-27	offenduda	_	ADJ	_	_	25	conj	_	_
+27	offenduda	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	conj	_	_
 28	so	_	PRON	_	ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Dem	34	advmod	_	_
 29	es	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	28	fixed	_	_
 30	a	_	SCONJ	_	_	28	fixed	_	_
@@ -504,7 +504,7 @@
 8	de	_	ADP	_	_	10	case	_	_
 9	la	_	DET	_	_	10	det	_	_
 10	patz	_	NOUN	_	_	7	nmod	_	_
-11	violada	_	ADJ	_	_	10	amod	_	_
+11	violada	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	_
 12	laquau	_	PRON	_	PronType=Rel	13	nsubj	_	_
 13	es	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	7	acl:relcl	_	_
 14	de	_	ADP	_	_	16	case	_	_
@@ -789,7 +789,7 @@
 48	o	_	CCONJ	_	_	50	cc	_	_
 49	per	_	ADP	_	_	50	case	_	_
 50	pecunia	_	NOUN	_	_	47	conj	_	_
-51	habeduyra	_	ADJ	_	_	50	amod	_	SpaceAfter=No
+51	habeduyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	50	amod	_	SpaceAfter=No
 52	.	_	PUNCT	_	_	30	punct	_	_
 
 # sent_id = 1214-1342_Deux_1_1_7_105_1

@@ -532,7 +532,7 @@
 32	las	_	DET	_	_	33	det	_	_
 33	einjuras	_	NOUN	_	_	31	obj	_	_
 34	et	_	CCONJ	_	_	36	cc	_	_
-35	apermaduras	_	ADJ	_	_	36	amod	_	_
+35	apermaduras	_	ADJ	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	36	amod	_	_
 36	afflictions	_	NOUN	_	_	33	conj	_	_
 37	lasquaus	_	PRON	_	PronType=Rel	41	obj	_	_
 38	los	_	DET	_	_	39	det	_	_
@@ -1578,7 +1578,7 @@
 27	a-	_	ADP	_	_	33	case	_	_
 28	-los	_	DET	_	_	33	det	_	_
 29	sons	_	ADJ	_	_	33	amod	_	_
-30	amatz	_	ADJ	_	_	33	amod	_	_
+30	amatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	amod	_	_
 31	et	_	CCONJ	_	_	32	cc	_	_
 32	fidels	_	ADJ	_	_	30	conj	_	_
 33	homes	_	NOUN	_	_	40	obl	_	_
@@ -1626,7 +1626,7 @@
 30	per	_	ADP	_	_	34	case	_	_
 31	lo	_	DET	_	_	34	det	_	_
 32	nostre	_	ADJ	_	_	34	amod	_	_
-33	amat	_	ADJ	_	_	34	amod	_	_
+33	amat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	34	amod	_	_
 34	maestre	_	NOUN	_	_	29	obl	_	_
 35	Vidau	_	PROPN	_	_	34	flat	_	SpaceAfter=No
 36	,	_	PUNCT	_	_	34	punct	_	_
@@ -2060,7 +2060,7 @@
 28	a-	_	ADP	_	_	34	case	_	_
 29	-los	_	DET	_	_	34	det	_	_
 30	sonx	_	ADJ	_	_	34	amod	_	_
-31	amatz	_	ADJ	_	_	34	amod	_	_
+31	amatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	34	amod	_	_
 32	et	_	CCONJ	_	_	33	cc	_	_
 33	fidels	_	ADJ	_	_	31	conj	_	_
 34	Helias	_	PROPN	_	_	54	obl	_	_
@@ -2531,7 +2531,7 @@
 16	ad	_	ADP	_	_	18	case	_	_
 17	aquesta	_	DET	_	_	18	det	_	_
 18	inquisition	_	NOUN	_	_	14	obl	_	_
-19	fasedeyra	_	ADJ	_	_	18	amod	_	_
+19	fasedeyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	18	amod	_	_
 20	que	_	PRON	_	PronType=Rel	24	nsubj	_	_
 21	de	_	ADP	_	_	23	case	_	_
 22	vostre	_	DET	_	_	23	det	_	_
@@ -2734,7 +2734,7 @@
 9	Guasconha	_	PROPN	_	_	7	nmod	_	_
 10	los	_	DET	_	_	15	det	_	_
 11	nostres	_	ADJ	_	_	15	amod	_	_
-12	amatz	_	ADJ	_	_	15	amod	_	_
+12	amatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	15	amod	_	_
 13	et	_	CCONJ	_	_	14	cc	_	_
 14	fidels	_	ADJ	_	_	12	conj	_	_
 15	frayre	_	NOUN	_	_	4	obj	_	_
@@ -4122,7 +4122,7 @@
 45	en	_	ADP	_	_	47	case	_	_
 46	las	_	DET	_	_	47	det	_	_
 47	causas	_	NOUN	_	_	50	obl	_	_
-48	enseguens	_	ADJ	_	_	47	amod	_	_
+48	enseguens	_	ADJ	_	Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	47	amod	_	_
 49	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	50	expl	_	SpaceAfter=No
 50	ensec	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	22	advcl	_	SpaceAfter=No
 51	.	_	PUNCT	_	_	1	punct	_	_
@@ -5351,7 +5351,7 @@
 46	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	47	cop	_	_
 47	cert	_	ADJ	_	_	15	advcl	_	_
 48	et	_	CCONJ	_	_	49	cc	_	_
-49	determinat	_	ADJ	_	_	47	conj	_	_
+49	determinat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	47	conj	_	_
 50	sinauque	_	SCONJ	_	ExtPos=SCONJ	53	mark	_	_
 51	ssia	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	50	fixed	_	_
 52	qui	_	SCONJ	_	_	50	fixed	_	_
@@ -5536,7 +5536,7 @@
 69	reyratges	_	NOUN	_	_	39	nmod	_	_
 70	o	_	CCONJ	_	_	71	cc	_	_
 71	dreytz	_	NOUN	_	_	69	conj	_	_
-72	rendutz	_	ADJ	_	_	69	amod	_	SpaceAfter=No
+72	rendutz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	69	amod	_	SpaceAfter=No
 73	,	_	PUNCT	_	_	69	punct	_	_
 74	losquaus	_	PRON	_	PronType=Rel	80	obj	_	_
 75	aquet	_	DET	_	_	76	det	_	_
@@ -6007,7 +6007,7 @@
 14	a	_	ADP	_	_	15	case	_	_
 15	Pey	_	PROPN	_	_	13	obl	_	_
 16	Daira	_	PROPN	_	_	15	flat	_	_
-17	enfodat	_	ADJ	_	_	18	amod	_	_
+17	enfodat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	amod	_	_
 18	perbost	_	NOUN	_	_	15	appos	_	SpaceAfter=No
 19	,	_	PUNCT	_	_	15	punct	_	_
 20	et	_	CCONJ	_	_	23	cc	_	_
@@ -6349,9 +6349,9 @@
 31	li	_	DET	_	_	32	det	_	_
 32	sobredeyts	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	30	obj	_	_
 33	en	_	ADP	_	_	37	case	_	_
-34	deguda	_	ADJ	_	_	37	amod	_	_
+34	deguda	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	37	amod	_	_
 35	et	_	CCONJ	_	_	36	cc	_	_
-36	acostumada	_	ADJ	_	_	34	conj	_	_
+36	acostumada	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	34	conj	_	_
 37	tranquilitat	_	NOUN	_	_	30	obl	_	SpaceAfter=No
 38	,	_	PUNCT	_	_	29	punct	_	_
 39	tan	_	ADV	_	_	40	advmod	_	_
@@ -6467,7 +6467,7 @@
 147	de	_	ADP	_	_	149	case	_	_
 148	las	_	DET	_	_	149	det	_	_
 149	gleysas	_	NOUN	_	_	146	nmod	_	_
-150	exceptat	_	ADJ	_	_	146	amod	_	SpaceAfter=No
+150	exceptat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	146	amod	_	SpaceAfter=No
 151	,	_	PUNCT	_	_	150	punct	_	_
 152	li	_	DET	_	_	153	det	_	_
 153	privilegiat	_	NOUN	_	_	146	conj	_	_
@@ -6757,7 +6757,7 @@
 37	per	_	ADP	_	_	39	case	_	_
 38	la	_	DET	_	_	39	det	_	_
 39	patz	_	NOUN	_	_	33	obl	_	_
-40	defendaduyra	_	ADJ	_	_	39	amod	_	_
+40	defendaduyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	39	amod	_	_
 41	et	_	CCONJ	_	_	43	cc	_	_
 42	per	_	ADP	_	_	43	case	_	_
 43	rason	_	NOUN	_	_	39	conj	_	_
@@ -7875,7 +7875,7 @@
 6	li	_	DET	_	_	7	det	_	_
 7	esporle	_	NOUN	_	_	4	conj	_	_
 8	desobre	_	ADV	_	_	9	advmod	_	_
-9	escruitz	_	ADJ	_	_	4	amod	_	_
+9	escruitz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	amod	_	_
 10	foren	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	11	aux:pass	_	_
 11	assignat	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 12	de	_	ADP	_	_	14	case	_	_
@@ -8630,11 +8630,11 @@
 9	terra	_	NOUN	_	_	4	obl	_	_
 10	a	_	ADP	_	_	11	case	_	_
 11	patz	_	NOUN	_	_	4	obl	_	_
-12	juraduyra	_	ADJ	_	_	11	amod	_	SpaceAfter=No
+12	juraduyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	11	amod	_	SpaceAfter=No
 13	,	_	PUNCT	_	_	12	punct	_	_
-14	servadeyra	_	ADJ	_	_	12	conj	_	_
+14	servadeyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	12	conj	_	_
 15	et	_	CCONJ	_	_	16	cc	_	_
-16	sequideyra	_	ADJ	_	_	12	conj	_	SpaceAfter=No
+16	sequideyra	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part	12	conj	_	SpaceAfter=No
 17	,	_	PUNCT	_	_	4	punct	_	_
 18	ayssi	_	ADV	_	ExtPos=SCONJ	20	mark	_	_
 19	cum	_	SCONJ	_	_	18	fixed	_	_
@@ -8943,7 +8943,7 @@
 8	sepeliren	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 9	un	_	DET	_	_	10	det	_	_
 10	clerc	_	NOUN	_	_	8	obj	_	_
-11	escomjugat	_	ADJ	_	_	10	amod	_	SpaceAfter=No
+11	escomjugat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	amod	_	SpaceAfter=No
 12	,	_	PUNCT	_	_	10	punct	_	_
 13	per	_	ADP	_	_	16	case	_	_
 14	una	_	DET	_	_	16	det	_	_
@@ -9532,7 +9532,7 @@
 9	lo	_	DET	_	_	10	det	_	_
 10	usatge	_	NOUN	_	_	6	obl	_	_
 11	dessos	_	ADV	_	_	12	advmod	_	_
-12	notat	_	ADJ	_	_	10	amod	_	_
+12	notat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	amod	_	_
 13	plusors	_	ADJ	_	_	14	amod	_	_
 14	mandadors	_	NOUN	_	_	17	nsubj	_	_
 15	o	_	CCONJ	_	_	16	cc	_	_
@@ -10456,7 +10456,7 @@
 48	a	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	41	advcl	_	_
 49	mort	_	ADJ	_	_	45	amod	_	_
 50	o	_	CCONJ	_	_	51	cc	_	_
-51	pres	_	ADJ	_	_	49	conj	_	SpaceAfter=No
+51	pres	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	49	conj	_	SpaceAfter=No
 52	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 1251_Bagn_1_1_9_1_1
@@ -10940,7 +10940,7 @@
 46	estadgantz	_	VERB	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	45	acl	_	_
 47	e	_	CCONJ	_	_	48	cc	_	_
 48	fog	_	NOUN	_	_	45	conj	_	_
-49	alugantz	_	ADJ	_	_	48	amod	_	_
+49	alugantz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	48	amod	_	_
 50	dentz	_	ADP	_	_	52	case	_	_
 51	las	_	DET	_	_	52	det	_	_
 52	cadenes	_	NOUN	_	_	46	obl	_	_
@@ -12734,7 +12734,7 @@
 17	de	_	ADP	_	_	18	case	_	_
 18	Banheres	_	PROPN	_	_	16	nmod	_	_
 19	maa	_	NOUN	_	_	12	obl	_	_
-20	irade	_	ADJ	_	_	19	amod	_	SpaceAfter=No
+20	irade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	19	amod	_	SpaceAfter=No
 21	,	_	PUNCT	_	_	12	punct	_	_
 22	solemenz	_	ADV	_	ExtPos=SCONJ	24	mark	_	_
 23	que	_	SCONJ	_	_	22	fixed	_	_
@@ -15710,7 +15710,7 @@
 2	si	_	SCONJ	_	_	13	mark	_	_
 3	augu	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
 4	ab	_	ADP	_	_	6	case	_	_
-5	irade	_	ADJ	_	_	6	amod	_	_
+5	irade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	amod	_	_
 6	ma	_	NOUN	_	_	13	obl	_	_
 7	en	_	ADP	_	_	9	case	_	_
 8	las	_	DET	_	_	9	det	_	_
@@ -16849,7 +16849,7 @@
 29	o	_	CCONJ	_	_	31	cc	_	_
 30	la	_	DET	_	_	31	det	_	_
 31	carrere	_	NOUN	_	_	28	conj	_	_
-32	afforade	_	ADJ	_	_	31	amod	_	_
+32	afforade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	amod	_	_
 33	imbadira	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	25	acl:relcl	_	SpaceAfter=No
 34	.	_	PUNCT	_	_	18	punct	_	_
 
@@ -17311,7 +17311,7 @@
 16	cort	_	NOUN	_	_	15	obj	_	_
 17	en	_	ADP	_	_	18	case	_	_
 18	loc	_	NOUN	_	_	15	obl	_	_
-19	afforat	_	ADJ	_	_	18	amod	_	_
+19	afforat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	18	amod	_	_
 20	et	_	CCONJ	_	_	24	cc	_	_
 21	totas	_	DET	_	_	23	det	_	_
 22	las	_	DET	_	_	23	det	_	_
@@ -19366,7 +19366,7 @@
 228	et	_	CCONJ	_	_	229	cc	_	_
 229	exces	_	NOUN	_	_	227	conj	_	_
 230	dessus	_	ADV	_	_	231	advmod	_	_
-231	allegatz	_	ADJ	_	_	227	amod	_	_
+231	allegatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	227	amod	_	_
 232	et	_	CCONJ	_	_	237	cc	_	_
 233	que	_	SCONJ	_	_	237	mark	_	_
 234	dessi	_	ADV	_	_	237	advmod	_	_
@@ -19582,7 +19582,7 @@
 4	en	_	ADP	_	_	6	case	_	_
 5	los	_	DET	_	_	6	det	_	_
 6	temps	_	NOUN	_	_	3	obl	_	_
-7	passatz	_	ADJ	_	_	6	amod	_	SpaceAfter=No
+7	passatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	amod	_	SpaceAfter=No
 8	,	_	PUNCT	_	_	3	punct	_	_
 9	si	_	SCONJ	_	_	13	mark	_	_
 10	thiansers	_	NOUN	_	_	13	obj	_	_
@@ -32657,7 +32657,7 @@
 114	senhor	_	NOUN	_	_	116	obl	_	_
 115	sere	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	116	aux:pass	_	_
 116	vist	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	107	conj	_	_
-117	fasedor	_	NOUN	_	_	116	xcomp	_	SpaceAfter=No
+117	fasedor	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part	116	xcomp	_	SpaceAfter=No
 118	.	_	PUNCT	_	_	60	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_166_3_2
@@ -33429,7 +33429,7 @@
 25	de	_	ADP	_	_	27	case	_	_
 26	.VI.	_	NUM	_	_	27	nummod	_	_
 27	homis	_	NOUN	_	_	21	obl	_	_
-28	mentagutz	_	ADJ	_	_	27	amod	_	SpaceAfter=No
+28	mentagutz	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	27	amod	_	SpaceAfter=No
 29	.	_	PUNCT	_	_	27	punct	_	_
 
 # sent_id = 1460_Bearn_1_1_173_1_1
@@ -34564,7 +34564,7 @@
 18	ni	ni	CCONJ	_	Polarity=Neg	20	cc	_	_
 19	de	_	ADP	_	_	20	case	_	_
 20	maa	_	NOUN	_	_	16	conj	_	_
-21	irade	_	ADJ	_	_	20	amod	_	SpaceAfter=No
+21	irade	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	20	amod	_	SpaceAfter=No
 22	,	_	PUNCT	_	_	20	punct	_	_
 23	ni	ni	CCONJ	_	Polarity=Neg	24	cc	_	_
 24	voluntat	_	NOUN	_	_	16	conj	_	_
@@ -37035,7 +37035,7 @@
 51	de-	_	ADP	_	_	53	case	_	_
 52	-los	_	DET	_	_	53	det	_	_
 53	dies	_	NOUN	_	_	56	nmod	_	_
-54	acostumatz	_	ADJ	_	_	53	amod	_	_
+54	acostumatz	_	ADJ	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	53	amod	_	_
 55	lo	_	DET	_	_	56	det	_	_
 56	tres	_	NUM	_	_	50	obj	_	_
 57	et	_	CCONJ	_	_	59	cc	_	_
@@ -37452,7 +37452,7 @@
 17	-lo	_	DET	_	_	18	det	_	_
 18	senhor	_	NOUN	_	_	15	nmod	_	_
 19	homi	_	NOUN	_	_	12	obj	_	_
-20	prees	_	ADJ	_	_	19	amod	_	SpaceAfter=No
+20	prees	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	amod	_	SpaceAfter=No
 21	,	_	PUNCT	_	_	12	punct	_	_
 22	et	_	CCONJ	_	_	26	cc	_	_
 23	lo	_	DET	_	_	24	det	_	_
@@ -40149,7 +40149,7 @@
 21	aquet	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	22	nsubj	_	_
 22	sera	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 23	per	_	ADP	_	_	24	mark	_	_
-24	cancellat	_	ADJ	_	_	22	xcomp	_	_
+24	cancellat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	22	xcomp	_	_
 25	,	_	PUNCT	_	_	22	punct	_	_
 26	&	_	CCONJ	_	_	34	cc	_	_
 27	l'	_	DET	_	_	28	det	_	_
