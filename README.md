@@ -66,7 +66,7 @@ Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronoun
 
 Personal pronouns are annotated in Person (1,2,3) and, wherever possible, Number (Sing, Plur), Gender (Masc, Fem, Neut). Neut is used for the pronoun "o".
 
-Demonstrative pronouns are annotated in 
+Demonstrative pronouns are annotated in Number (Sing, Plur) and Gender (Masc, Fem, Neut). Neut is used for pronouns ço (so), ac (ag) and aquet. 
 
 Tokens with negative polarity (that belong to ADJ, ADP, ADV, CCONJ, DET and PRON categories) have Polarity=Neg feature.
 
