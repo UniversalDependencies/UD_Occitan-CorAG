@@ -58,11 +58,13 @@ The texts were digitized, segmented and subsequently automatically annotated wit
 
 The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić, Aleksandra, Bras, Myriam, Esher, Louise, Sibille, Jean & Vergez-Couret, Marianne, 2020](https://hal.science/hal-04925754v1)).
 
-In addition, in this release of the corpus, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person and Number.
+In addition, in this release of the corpus, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Annotation in Mood and Tense is ongoing. Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated in masculine singular). 
 
-Participles without dependents are annotated as adjectives but are also provided verbal morphological features.  Participles (whether tagged as VERB or ADJ) are annotated in Tense (Past, Pres or Fut), Gender (Masc or Fem) and Number (Plur or Sing).
+Please note that participles without dependents are annotated as adjectives but are also provided morphological features of past participles (VerbForm, Tense, Gender, Sing).
 
-Pronouns are annotated in type (PronType: Dem for demonstrative, Ind for indefinite, Prs for personal and Rel for relative). Reflexive and possessive pronouns are also tagged (Reflexive=Yes and Poss=Yes). 
+Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an addition Poss=Yes feature. Possessive pronouns are have the feature Poss=Yes.
+
+Tokens with negative polarity (that belong to ADV, PRON, DET,
 
 # Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
