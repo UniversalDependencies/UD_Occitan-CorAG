@@ -14,7 +14,7 @@ In May 2025, CorAG corpus contains six medieval texts and a section of a sixteen
 | Charte des Boucheries d’Orthez               | 1270      | 1270_Orthez    |Glessgen 2022           | 
 | Charte d’Herrère                             | 1278      | 1278_Herr      |Glessgen (unpublished)  | 
 | Les Fors Anciens de Béarn                    | 1460      | 1460_Bearn     |Ourliac & Gilles 1990   |
-| Stil de la justicy (partial)                 | 1564      | 1564_Stil      |Ravier 1663             |
+| Stil de la justicy (partial)                 | 1564      | 1564_Stil      |Rovier 1663             |
 
 
 # Editions:
@@ -25,6 +25,8 @@ Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse s
 Maldonado, Lucas, 2022. _Les documents gascons orinaux du IIIe siècle: éditions et analyses linguistiques_. Mémoire de Master 2. Sorbonne Université.
 
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
+
+Rovier, Jacques, 1663. _Stil de la justicy deu pais de Bearn_. Orthez.
 
 Latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich). 
 
