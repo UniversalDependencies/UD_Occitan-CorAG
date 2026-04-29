@@ -10452,7 +10452,7 @@
 45	home	_	NOUN	_	_	48	nsubj	_	_
 46-47	no-i	_	_	_	_	_	_	_	_
 46	no-	non	ADV	_	Polarity=Neg	48	advmod	_	_
-47	-i	_	PRON	_	PronType=Prs	48	expl	_	_
+47	-i	_	PRON	_	Person=3|PronType=Prs	48	expl	_	_
 48	a	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	41	advcl	_	_
 49	mort	_	ADJ	_	_	45	amod	_	_
 50	o	_	CCONJ	_	_	51	cc	_	_
@@ -10769,7 +10769,7 @@
 31	que-	_	SCONJ	_	_	30	fixed	_	_
 32	-lo	_	DET	_	_	33	det	_	_
 33	comprador	_	NOUN	_	_	35	nsubj	_	_
-34	ag	_	PRON	_	PronType=Prs	35	obj	_	_
+34	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	35	obj	_	_
 35	age	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	21	advcl	_	_
 36	en	_	ADP	_	_	37	case	_	_
 37	laug	_	NOUN	_	_	35	obl	_	_
@@ -11067,7 +11067,7 @@
 22	si	_	SCONJ	_	_	26	mark	_	_
 23	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	26	nsubj	_	_
 24	obs	_	NOUN	_	_	26	obj	_	_
-25	ag	_	PRON	_	PronType=Prs	26	obl	_	_
+25	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	26	obl	_	_
 26	avem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	29	advcl	_	SpaceAfter=No
 27	,	_	PUNCT	_	_	26	punct	_	_
 28	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	29	nsubj	_	_
@@ -11081,7 +11081,7 @@
 35-36	que-ls	_	_	_	_	_	_	_	_
 35	que-	_	SCONJ	_	_	38	mark	_	_
 36	-los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	39	iobj	_	_
-37	ag	_	PRON	_	PronType=Prs	39	obj	_	_
+37	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	39	obj	_	_
 38	devem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	29	conj	_	_
 39	manar	_	VERB	_	VerbForm=Inf	38	xcomp	_	_
 40	leialmentz	_	ADV	_	_	39	advmod	_	_
@@ -11752,7 +11752,7 @@
 11	aiudar	_	VERB	_	VerbForm=Inf	9	xcomp	_	_
 12-13	e-i	_	_	_	_	_	_	_	_
 12	e-	_	CCONJ	_	_	14	cc	_	_
-13	-i	_	PRON	_	PronType=Prs	14	obl	_	_
+13	-i	_	PRON	_	Person=3|PronType=Prs	14	obl	_	_
 14	ferive	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	conj	_	_
 15	maliciosementz	_	ADV	_	_	14	advmod	_	_
 16-17	e-nos	_	_	_	_	_	_	_	_
@@ -11818,12 +11818,12 @@
 34	faze	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	conj	_	_
 35	clam	_	NOUN	_	_	34	obj	_	_
 36	e	_	CCONJ	_	_	38	cc	_	_
-37	ag	_	PRON	_	PronType=Prs	38	obj	_	_
+37	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	38	obj	_	_
 38	pravave	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	34	conj	_	SpaceAfter=No
 39	,	_	PUNCT	_	_	12	punct	_	_
 40-41	que-i	_	_	_	_	_	_	_	_
 40	que-	_	SCONJ	_	_	42	mark	_	_
-41	-i	_	PRON	_	PronType=Prs	43	obl	_	_
+41	-i	_	PRON	_	Person=3|PronType=Prs	43	obl	_	_
 42	deu	_	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	4	ccomp	_	_
 43	aver	_	VERB	_	VerbForm=Inf	42	xcomp	_	_
 44	lo	_	DET	_	_	45	det	_	_
@@ -11840,7 +11840,7 @@
 55	nos	_	PRON	_	Number=Plur|Person=1|PronType=Prs	58	nsubj	_	_
 56-57	que-i	_	_	_	_	_	_	_	_
 56	que-	_	SCONJ	_	_	58	mark	_	_
-57	-i	_	PRON	_	PronType=Prs	59	obl	_	_
+57	-i	_	PRON	_	Person=3|PronType=Prs	59	obl	_	_
 58	devem	_	VERB	_	Number=Plur|Person=1|VerbForm=Fin	42	conj	_	_
 59	aver	_	VERB	_	VerbForm=Inf	58	xcomp	_	_
 60	de	_	ADP	_	_	62	case	_	_
@@ -11968,7 +11968,7 @@
 # text = si no ag fase, que-ls judges conogossen que per male defuite o faze, o que-l judgament fos clamat per Tarbe.
 1	si	_	SCONJ	_	_	4	mark	_	_
 2	no	non	ADV	_	Polarity=Neg	4	advmod	_	_
-3	ag	_	PRON	_	PronType=Prs	4	obj	_	_
+3	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	_
 4	fase	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 5	,	_	PUNCT	_	_	4	punct	_	_
 6-7	que-ls	_	_	_	_	_	_	_	_
@@ -12162,7 +12162,7 @@
 13	cade	_	DET	_	_	14	det	_	_
 14	nuit	_	NOUN	_	_	26	obl	_	_
 15	que	_	PRON	_	PronType=Rel	17	obl	_	_
-16	ag	_	PRON	_	PronType=Prs	17	obj	_	_
+16	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	17	obj	_	_
 17	fes	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No
 18	,	_	PUNCT	_	_	14	punct	_	_
 19	ses	_	ADP	_	ExtPos=ADP	23	case	_	_
@@ -12336,7 +12336,7 @@
 23	,	_	PUNCT	_	_	5	punct	_	_
 24	aqued	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	33	nsubj	_	_
 25	qui	_	PRON	_	PronType=Rel	27	nsubj	_	_
-26	'n	_	PRON	_	PronType=Prs	27	obl	_	_
+26	'n	_	PRON	_	Person=3|PronType=Prs	27	obl	_	_
 27	armangos	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	24	acl:relcl	_	_
 28	que	_	SCONJ	_	_	33	mark	_	_
 29	no	non	ADV	_	Polarity=Neg	33	advmod	_	_
@@ -12437,7 +12437,7 @@
 2	que	_	SCONJ	_	_	6	mark	_	_
 3	hom	_	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	_
 4	n'	_	PRON	_	Person=3|PronType=Prs	6	obl	_	SpaceAfter=No
-5	ii	_	PRON	_	PronType=Prs	6	obl	_	_
+5	ii	_	PRON	_	Person=3|PronType=Prs	6	obl	_	_
 6	metos	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	autre	_	PRON	_	Number=Sing|PronType=Ind	6	obj	_	_
 8	en	_	ADP	_	_	10	case	_	_
@@ -12599,7 +12599,7 @@
 19	;	_	PUNCT	_	_	10	punct	_	_
 20	aqued	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	28	nsubj	_	_
 21	qui	_	PRON	_	PronType=Rel	23	nsubj	_	_
-22	ag	_	PRON	_	PronType=Prs	23	obj	_	_
+22	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	_
 23	fare	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	20	acl:relcl	_	SpaceAfter=No
 24	,	_	PUNCT	_	_	20	punct	_	_
 25	que	_	SCONJ	_	_	28	mark	_	_
@@ -12612,7 +12612,7 @@
 32	,	_	PUNCT	_	_	28	punct	_	_
 33	e	_	CCONJ	_	_	36	cc	_	_
 34	que	_	SCONJ	_	_	36	mark	_	_
-35	'n	_	PRON	_	PronType=Prs	36	obl	_	_
+35	'n	_	PRON	_	Person=3|PronType=Prs	36	obl	_	_
 36	pagas	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	conj	_	_
 37	.x.	_	NUM	_	_	38	nummod	_	_
 38	fl	_	NOUN	_	_	36	obj	_	_
@@ -12705,7 +12705,7 @@
 17	,	_	PUNCT	_	_	9	punct	_	_
 18	si	_	SCONJ	_	_	21	mark	_	_
 19	no	non	ADV	_	Polarity=Neg	21	advmod	_	_
-20	ag	_	PRON	_	PronType=Prs	21	obj	_	_
+20	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	21	obj	_	_
 21	cumplive	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 22	.	_	PUNCT	_	_	9	punct	_	_
 
@@ -12750,7 +12750,7 @@
 33	toros	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	29	acl:relcl	_	_
 34	malignemenz	_	ADV	_	_	33	advmod	_	_
 35	no	non	ADV	_	Polarity=Neg	38	advmod	_	_
-36	ag	_	PRON	_	PronType=Prs	38	obj	_	_
+36	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	38	obj	_	_
 37	agos	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	38	aux	_	_
 38	feit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	parataxis	_	_
 39	o	_	CCONJ	_	_	41	cc	_	_
@@ -12970,7 +12970,7 @@
 26-27	no-l'	_	_	_	_	_	_	_	_
 26	no-	non	ADV	_	Polarity=Neg	29	advmod	_	_
 27	-l'	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	iobj	_	_
-28	ii	_	PRON	_	PronType=Prs	29	obl	_	_
+28	ii	_	PRON	_	Person=3|PronType=Prs	29	obl	_	_
 29	mete	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	47	advcl	_	_
 30	d'	_	ADP	_	_	31	case	_	SpaceAfter=No
 31	aqued	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	29	obl	_	_
@@ -12985,7 +12985,7 @@
 40	qui	_	PRON	_	PronType=Rel	41	nsubj	_	_
 41	metud	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	39	acl:relcl	_	_
 42	l'	_	PRON	_	Number=Sing|Person=3|PronType=Prs	41	iobj	_	SpaceAfter=No
-43	ii	_	PRON	_	PronType=Prs	41	obl	_	_
+43	ii	_	PRON	_	Person=3|PronType=Prs	41	obl	_	_
 44	agos	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	41	aux	_	_
 45	s'	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	47	expl	_	SpaceAfter=No
 46	en	_	PRON	_	Person=3|PronType=Prs	47	obl	_	_
@@ -13051,16 +13051,16 @@
 20	nulh	_	DET	_	_	22	det	_	_
 21	autre	_	ADJ	_	_	22	amod	_	_
 22	bezii	_	NOUN	_	_	24	nsubj	_	_
-23	ag	_	PRON	_	PronType=Prs	24	obj	_	_
+23	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	24	obj	_	_
 24	beze	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	8	conj	_	_
 25	ni	_	CCONJ	_	_	27	cc	_	_
-26	ag	_	PRON	_	PronType=Prs	27	obj	_	_
+26	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	27	obj	_	_
 27	audive	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	24	conj	_	_
 28	e	_	CCONJ	_	_	32	cc	_	_
 29	que	_	SCONJ	_	_	32	mark	_	_
 30-31	no-i	_	_	_	_	_	_	_	_
 30	no-	non	ADV	_	Polarity=Neg	32	advmod	_	_
-31	-i	_	PRON	_	PronType=Prs	32	obl	_	_
+31	-i	_	PRON	_	Person=3|PronType=Prs	32	obl	_	_
 32	fes	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	8	conj	_	_
 33-34	so-que	_	_	_	_	_	_	_	_
 33	so-	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	32	obj	_	_
@@ -13070,7 +13070,7 @@
 36	-lui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	39	obl	_	_
 37-38	si-i	_	_	_	_	_	_	_	_
 37	si-	_	PRON	_	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	39	expl	_	_
-38	-i	_	PRON	_	PronType=Prs	39	obl	_	_
+38	-i	_	PRON	_	Person=3|PronType=Prs	39	obl	_	_
 39	tangos	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	33	acl:relcl	_	_
 40-41	a-far	_	_	_	_	_	_	_	SpaceAfter=No
 40	a-	_	ADP	_	_	41	mark	_	_
@@ -13257,7 +13257,7 @@
 151	-los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	153	iobj	_	_
 152	i	_	PRON	_	Person=3|PronType=Prs	153	obl	_	_
 153	portas	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	149	acl:relcl	_	_
-154	ag	_	PRON	_	PronType=Prs	155	obj	_	_
+154	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	155	obj	_	_
 155	dixosen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	135	conj	_	SpaceAfter=No
 156	;	_	PUNCT	_	_	116	punct	_	_
 157	e	_	CCONJ	_	_	161	cc	_	_
@@ -13403,7 +13403,7 @@
 3-4	per-abenture	_	_	_	_	_	_	_	_
 3	per-	_	ADP	_	_	4	case	_	_
 4	-abenture	_	NOUN	_	_	5	obl	_	_
-5	ag	_	PRON	_	PronType=Prs	19	advcl	_	_
+5	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	19	advcl	_	_
 6	ere	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	5	cop	_	SpaceAfter=No
 7	,	_	PUNCT	_	_	5	punct	_	_
 8	que	_	SCONJ	_	_	19	mark	_	_
@@ -13944,7 +13944,7 @@
 19	an	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	16	acl:relcl	_	_
 20	o	_	CCONJ	_	_	23	cc	_	_
 21	que	_	SCONJ	_	_	23	mark	_	_
-22	ag	_	PRON	_	PronType=Prs	23	obj	_	_
+22	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	_
 23	poscan	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 24	bener	_	VERB	_	VerbForm=Inf	23	xcomp	_	_
 25	o	_	CCONJ	_	_	26	cc	_	_
@@ -14216,10 +14216,10 @@
 42	fazen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	46	advcl	_	_
 43	exament	_	ADV	_	_	42	advmod	_	_
 44	que	_	SCONJ	_	_	46	mark	_	_
-45	ag	_	PRON	_	PronType=Prs	46	obj	_	_
+45	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	46	obj	_	_
 46	adobassen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	25	conj	_	_
 47	e	_	CCONJ	_	_	49	cc	_	_
-48	ag	_	PRON	_	PronType=Prs	49	obj	_	_
+48	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	49	obj	_	_
 49	complissen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	46	conj	_	_
 50	com	_	ADP	_	_	53	case	_	_
 51	en	_	ADP	_	_	53	case	_	_
@@ -14272,7 +14272,7 @@
 # len = 12
 # text = qui ag aosse, qu-en costasse XX sols de Morlaas.
 1	qui	_	PRON	_	PronType=Rel	7	obl	_	_
-2	ag	_	PRON	_	PronType=Prs	3	obj	_	_
+2	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	_
 3	aosse	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	1	acl	_	SpaceAfter=No
 4	,	_	PUNCT	_	_	3	punct	_	_
 5-6	qu-en	_	_	_	_	_	_	_	_
@@ -14322,7 +14322,7 @@
 # len = 8
 # text = qui ag fare XX sols lo costasse.
 1	qui	_	PRON	_	PronType=Rel	7	dislocated	_	_
-2	ag	_	PRON	_	PronType=Prs	3	obj	_	_
+2	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	_
 3	fare	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	1	acl	_	_
 4	XX	_	NUM	_	_	5	nummod	_	_
 5	sols	_	NOUN	_	_	7	obj	_	_
@@ -14376,7 +14376,7 @@
 41	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	40	cop	_	_
 42	e	_	CCONJ	_	_	45	cc	_	_
 43	l’	_	DET	_	_	44	det	_	SpaceAfter=No
-44	ag	_	PRON	_	PronType=Prs	45	obj	_	_
+44	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	45	obj	_	_
 45	mentauen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	17	conj	_	_
 46	ses	_	ADP	_	_	47	case	_	_
 47	deman	_	NOUN	_	_	45	obl	_	SpaceAfter=No
@@ -28734,7 +28734,7 @@
 6	eg	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 7-8	fe-y	_	_	_	_	_	_	_	_
 7	fe-	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	4	ccomp	_	_
-8	-y	_	PRON	_	PronType=Prs	7	obl	_	_
+8	-y	_	PRON	_	Person=3|PronType=Prs	7	obl	_	_
 9	habunde	_	NOUN	_	_	7	obj	_	SpaceAfter=No
 10	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -33479,7 +33479,7 @@
 42	plague	_	NOUN	_	_	40	obj	_	_
 43-44	la-y	_	_	_	_	_	_	_	_
 43	la-	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	45	obj	_	_
-44	-y	_	PRON	_	PronType=Prs	45	obl	_	_
+44	-y	_	PRON	_	Person=3|PronType=Prs	45	obl	_	_
 45	fe	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	29	ccomp	_	SpaceAfter=No
 46	.	_	PUNCT	_	_	45	punct	_	_
 
@@ -34718,7 +34718,7 @@
 1	Et	_	CCONJ	_	_	19	cc	_	_
 2	si	_	SCONJ	_	_	5	mark	_	_
 3	no	non	ADV	_	Polarity=Neg	5	advmod	_	_
-4	-y	_	PRON	_	PronType=Prs	5	obl	_	_
+4	-y	_	PRON	_	Person=3|PronType=Prs	5	obl	_	_
 5	biey	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	19	advcl	_	_
 6	et	_	CCONJ	_	_	9	cc	_	_
 7-8	no-s	_	_	_	_	_	_	_	_
@@ -35117,7 +35117,7 @@
 10	despuix	_	ADV	_	ExtPos=SCONJ	12	mark	_	_
 11	que	_	SCONJ	_	_	10	fixed	_	_
 12	dade	_	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
-13	la	_	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	12	obj	_	_
+13	la	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
 14	agos	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	12	aux	_	SpaceAfter=No
 15	,	_	PUNCT	_	_	9	punct	_	_
 16	que	_	SCONJ	_	_	17	mark	_	_

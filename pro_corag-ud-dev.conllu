@@ -1365,7 +1365,7 @@
 27	,	_	PUNCT	_	_	4	punct	_	_
 28	si	_	SCONJ	_	_	31	mark	_	_
 29	no	non	ADV	_	Polarity=Neg	31	advmod	_	_
-30	ag	_	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Dem	31	obj	_	_
+30	ag	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	31	obj	_	_
 31	faze	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
 32	per	_	ADP	_	_	33	case	_	_
 33	grad	_	NOUN	_	_	31	obl	_	_
