@@ -10464,7 +10464,7 @@
 7	,	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 1564_Stil_1_18_3_1_4
-# text = & nous attendent ladite supplication qui es iuste , a dret & bonna rason consonanta voulem & vous mandam en pena de dets leys maiors , que per tres vegades , de tres en tres iorns ab la Crida acoustumade & per los locqz acoustumats de &c. locq de &c. fasats cridar & denonciar si y à degune personna , ou personnas qui deusdits beês & causas & vulher ny deye estar prim que per vingt iorns aprés fens la derrere Crida per a tal vienguen & se presentin per dauant vous los Iurats de vostre Cort per dret far & dret prener
+# text = & nous attendent ladite supplication qui es iuste , a dret & bonna rason consonanta voulem & vous mandam en pena de dets leys maiors , que per tres vegades , de tres en tres iorns ab la Crida acoustumade & per los locqz acoustumats de &c. locq de &c. fasats cridar & denonciar si y à degune personna , ou personnas qui deusdits beês & causas & vulher n' y deye estar prim que per vingt iorns aprés fens la derrere Crida per a tal vienguen & se presentin per dauant vous los Iurats de vostre Cort per dret far & dret prener
 # tags = Neg hypothesis
 1	&	_	CCONJ	_	_	16	cc	_	_
 2	nous	_	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	_
@@ -10528,49 +10528,50 @@
 60	,	_	PUNCT	_	_	59	punct	_	_
 61	ou	_	CCONJ	_	_	62	cc	_	_
 62	personnas	_	NOUN	_	_	59	conj	_	_
-63	qui	_	PRON	_	PronType=Rel	72	nsubj	_	_
+63	qui	_	PRON	_	PronType=Rel	73	nsubj	_	_
 64-65	deusdits	_	_	_	_	_	_	_	_
 64	de-	_	ADP	_	_	66	case	_	_
 65	-losdits	_	DET	_	_	66	det	_	_
-66	beês	_	NOUN	_	_	73	obl	_	_
+66	beês	_	NOUN	_	_	74	obl	_	_
 67	&	_	CCONJ	_	_	68	cc	_	_
 68	causas	_	NOUN	_	_	66	conj	_	_
 69	&	_	CCONJ	_	_	70	cc	_	_
 70	vulher	_	NOUN	_	_	66	conj	_	_
-71	ny	nyn	PRON	_	PronType=Prs	73	obl	_	_
-72	deye	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	59	acl:relcl	_	_
-73	estar	_	VERB	_	VerbForm=Inf	72	xcomp	_	_
-74	prim	_	ADV	_	ExtPos=SCONJ	87	mark	_	_
-75	que	_	SCONJ	_	_	74	fixed	_	_
-76	per	_	ADP	_	_	78	case	_	_
-77	vingt	_	NUM	_	_	78	nummod	_	_
-78	iorns	_	NOUN	_	_	87	obl	_	_
-79	aprés	_	ADV	_	_	78	advmod	_	_
-80	fens	_	ADP	_	_	83	case	_	_
-81	la	_	DET	_	_	83	det	_	_
-82	derrere	_	ADJ	_	_	83	amod	_	_
-83	Crida	_	NOUN	_	_	87	obl	_	_
-84	per	_	ADP	_	_	86	case	_	_
-85	a	_	ADP	_	_	86	case	_	_
-86	tal	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	87	obl	_	_
-87	vienguen	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	72	advcl	_	_
-88	&	_	CCONJ	_	_	90	cc	_	_
-89	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	90	expl	_	_
-90	presentin	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	87	conj	_	_
-91	per	_	ADP	_	ExtPos=ADP	93	case	_	_
-92	dauant	_	ADV	_	_	91	fixed	_	_
-93	vous	_	PRON	_	Gender=Masc|Number=Plur|Person=2|PronType=Prs	87	obl	_	_
-94	los	_	DET	_	_	95	det	_	_
-95	Iurats	_	NOUN	_	_	87	nsubj	_	_
-96	de	_	ADP	_	_	98	case	_	_
-97	vostre	_	DET	_	_	98	det	_	_
-98	Cort	_	NOUN	_	_	95	nmod	_	_
-99	per	_	ADP	_	_	101	mark	_	_
-100	dret	_	NOUN	_	_	101	obj	_	_
-101	far	_	VERB	_	VerbForm=Inf	87	advcl	_	_
-102	&	_	CCONJ	_	_	104	cc	_	_
-103	dret	_	NOUN	_	_	104	obj	_	_
-104	prener	_	VERB	_	VerbForm=Inf	101	conj	_	_
+71	n'	n'	ADV	_	Polarity=Neg	74	obl	_	_
+72	y	y	PRON	_	Person=3|PronType=Prs	74	obl	_	_
+73	deye	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	59	acl:relcl	_	_
+74	estar	_	VERB	_	VerbForm=Inf	73	xcomp	_	_
+75	prim	_	ADV	_	ExtPos=SCONJ	88	mark	_	_
+76	que	_	SCONJ	_	_	75	fixed	_	_
+77	per	_	ADP	_	_	79	case	_	_
+78	vingt	_	NUM	_	_	79	nummod	_	_
+79	iorns	_	NOUN	_	_	88	obl	_	_
+80	aprés	_	ADV	_	_	79	advmod	_	_
+81	fens	_	ADP	_	_	84	case	_	_
+82	la	_	DET	_	_	84	det	_	_
+83	derrere	_	ADJ	_	_	84	amod	_	_
+84	Crida	_	NOUN	_	_	88	obl	_	_
+85	per	_	ADP	_	_	87	case	_	_
+86	a	_	ADP	_	_	87	case	_	_
+87	tal	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	88	obl	_	_
+88	vienguen	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	73	advcl	_	_
+89	&	_	CCONJ	_	_	91	cc	_	_
+90	se	_	PRON	_	Person=3|PronType=Prs|Reflex=Yes	91	expl	_	_
+91	presentin	_	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	88	conj	_	_
+92	per	_	ADP	_	ExtPos=ADP	94	case	_	_
+93	dauant	_	ADV	_	_	92	fixed	_	_
+94	vous	_	PRON	_	Gender=Masc|Number=Plur|Person=2|PronType=Prs	88	obl	_	_
+95	los	_	DET	_	_	96	det	_	_
+96	Iurats	_	NOUN	_	_	88	nsubj	_	_
+97	de	_	ADP	_	_	99	case	_	_
+98	vostre	_	DET	_	_	99	det	_	_
+99	Cort	_	NOUN	_	_	96	nmod	_	_
+100	per	_	ADP	_	_	102	mark	_	_
+101	dret	_	NOUN	_	_	102	obj	_	_
+102	far	_	VERB	_	VerbForm=Inf	88	advcl	_	_
+103	&	_	CCONJ	_	_	105	cc	_	_
+104	dret	_	NOUN	_	_	105	obj	_	_
+105	prener	_	VERB	_	VerbForm=Inf	102	conj	_	_
 
 # sent_id = 1564_Stil_1_18_3_1_5
 # text = & si l' vn ou l' autre deusdits termis no se monstren losdits beês & causas metiats & expausets ventables à l' inquant publicq deu Senhor , fazenne vendition & lieurance au plus & darrer offerent , où en nom deu Senhor lò fasats vendition perpetual , & luy fermets , saubets , authorisets ainxi que en semblant caâs es vsat & accoustumat , & deu prets qui ne sailhira , au crompador fasats meter & depositar en maâ deu Depositary de vostre &c. realement & deffeit , & vous no ló prengats ny tengats ,
