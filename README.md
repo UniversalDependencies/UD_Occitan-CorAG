@@ -6,23 +6,24 @@ UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and ear
 In May 2025, CorAG corpus contains six medieval texts and a section of a sixteenth-century text: 
 
 
-|Title                                         |Year       | Edition                 | Sentences| Tokens    |
-| :------------------------------------------- |:--------: |:----------------------: | :------: | ----:     |
-| Coutumes et Privilèges de l’Entre-Deux-Mers  | 1214-1342 | Lépicier 1861           | 344      | 11,978    |
-| Coutume de Banières                          | 1251      |                         | 77       | 3,099     |
-| Coutume de Banières                          | 1260      |                         | 33       | 1,699     |
-| Charte des Boucheries d’Orthez               | 1270      |                         | 34       | 1,274     |
-| Charte d’Herrère                             | 1278      |                         | 53       | 1,835     |
-| Les Fors Anciens de Béarn                    | 1560      | Ourliac & Gilles 1990   | 750      | 26,795    |
-| **Total**                                    |           |                         | **1,291**| **46,680**|
+|Title                                         | Year      |Code            | Edition                | 
+| :-------------------------------------------:|:--------: |:-------------: | :---------------------:|
+| Coutumes et Privilèges de l’Entre-Deux-Mers  | 1214-1342 | 1214-1342_Deux |Lépicier 1861           | 
+| Coutume de Banières                          | 1251      | 1251_Bagn      |Maldonado 2022          | 
+| Coutume de Banières                          | 1260      | 1260_Bagn      |Maldonado 2022          | 
+| Charte des Boucheries d’Orthez               | 1270      | 1270_Orthez    |Glessgen 2022           | 
+| Charte d’Herrère                             | 1278      | 1278_Herr      |Glessgen (unpublished)  | 
+| Les Fors Anciens de Béarn                    | 1460      | 1460_Bearn     |Ourliac & Gilles 1990   |
+| Stil de la justicy (partial)                 | 1564      | 1564_Stil      |Ravier 1663             |
 
-**Editions:**
+
+# Editions:
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, 101-130.
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
-Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with us by Professor Martin Glessgen (University of Zurich). 
+Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen (University of Zurich). 
 
-#Train/Dev/Test split
+# Train/Dev/Test split
 
 | Source | Train (sent) | Train (tok) | Dev (sent) | Dev (tok) | Test (sent) | Test (tok) | Total (sent) | Total (tok) |
 |--------|--------------|-------------|------------|-----------|-------------|------------|--------------|-------------|
