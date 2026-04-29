@@ -22,7 +22,7 @@ Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _A
 
 Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse scriptologique des genres textuels, _Revue de linguistique romane_ 86, 35 - 94.
 
-Maldonado, Lucas, 2022. _Les documents gascons originaux du XIIIe siècle: éditions et analyses linguistiques_. Master 2 Dissertation. Sorbonne Université.
+Maldonado, Lucas, 2022. _Les documents gascons originaux du XIII<sup>e</sup> siècle: éditions et analyses linguistiques_. Master's Dissertation. Sorbonne Université.
 
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
@@ -54,15 +54,15 @@ Please note that CorAG treebank is still under development. A campain of revisio
 
 # Annotation
 
-The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel)) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
+The texts were digitized, segmented and subsequently automatically annotated with [HOPS](https://github.com/hopsparser/hopsparser) and [BertForDeprel](https://github.com/kirianguiller/BertForDeprel) parsers using bootstrapping methodology ([Peng et al 2022](https://hal.science/hal-03846834/document)) on [ArboratorGrew](https://arborator.grew.fr/#/) software.
 
-The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić, Aleksandra, Bras, Myriam, Esher, Louise, Sibille, Jean & Vergez-Couret, Marianne, 2020](https://hal.science/hal-04925754v1)).
+The texts are annotated in PoS and syntactic functions (Universal Dependencies), following, wherever possible, the guidelines for Modern Occitan ([Miletić et al 2020](https://hal.science/hal-04925754v1)).
 
-In addition, in this release of the corpus, verbs and auxiliaries are annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Annotation in Mood and Tense is ongoing. Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated in masculine singular). 
+In addition, for the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Annotation in Mood and Tense is ongoing. Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular). 
 
-Please note that participles without dependents are annotated as adjectives but are also provided morphological features of past participles (VerbForm, Tense, Gender, Number).
+Please note that participles without dependents are annotated as adjectives but are also provided with morphological features of past participles (VerbForm, Tense, Gender, Number).
 
-Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an addition Poss=Yes feature. Possessive pronouns are have the feature Poss=Yes.
+Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an additional Poss=Yes feature. Possessive pronouns have the feature Poss=Yes.
 
 Personal pronouns are annotated in Person (1,2,3) and, wherever possible, Number (Sing, Plur), Gender (Masc, Fem, Neut). Neut is used for the pronoun "o".
 
@@ -77,7 +77,7 @@ Tokens with negative polarity (that belong to ADJ, ADP, ADV, CCONJ, DET and PRON
 # Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
 
-Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) and [Natasha Romanova](https://cv.hal.science/natasha-romanova). Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
+Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova). Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
 
 We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
 
