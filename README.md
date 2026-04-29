@@ -28,7 +28,7 @@ Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Édi
 
 Rovier, Jacques, 1663. _Stil de la justicy deu pais de Bearn_. Orthez.
 
-Latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich). 
+The latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich) in 2023. 
 
 # Train/Dev/Test split
 
