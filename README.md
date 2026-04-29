@@ -22,7 +22,7 @@ Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _A
 
 Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse scriptologique des genres textuels, _Revue de linguistique romane_ 86, 35 - 94.
 
-Maldonado, Lucas, 2022. _Les documents gascons orinaux du IIIe siècle: éditions et analyses linguistiques_. Mémoire de Master 2. Sorbonne Université.
+Maldonado, Lucas, 2022. _Les documents gascons orinaux du IIIe siècle: éditions et analyses linguistiques_. Master 2 Dissertation. Sorbonne Université.
 
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
@@ -67,6 +67,10 @@ Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronoun
 Personal pronouns are annotated in Person (1,2,3) and, wherever possible, Number (Sing, Plur), Gender (Masc, Fem, Neut). Neut is used for the pronoun "o".
 
 Demonstrative pronouns are annotated in Number (Sing, Plur) and Gender (Masc, Fem, Neut). Neut is used for pronouns ço (so), ac (ag) and aquet. 
+
+Indefinite pronouns are annotated, wherever possible, in Number (Sing, Plur) and Gender (Masc, Fem).
+
+Relative pronouns have no further morphological annotation at present.
 
 Tokens with negative polarity (that belong to ADJ, ADP, ADV, CCONJ, DET and PRON categories) have Polarity=Neg feature.
 
