@@ -22,7 +22,7 @@ Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _A
 
 Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse scriptologique des genres textuels, _Revue de linguistique romane_ 86, 35 - 94.
 
-Maldonado, Lucas, 2022. _Les documents gascons orinaux du IIIe siècle: éditions et analyses linguistiques_. Master 2 Dissertation. Sorbonne Université.
+Maldonado, Lucas, 2022. _Les documents gascons originaux du XIIIe siècle: éditions et analyses linguistiques_. Master 2 Dissertation. Sorbonne Université.
 
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
