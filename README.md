@@ -18,10 +18,11 @@ In May 2025, CorAG corpus contains six medieval texts and a section of a sixteen
 
 
 # Editions:
-Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, 101-130.
+Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_.
+Maldonado, Lucas, 2022. _Les documents gascons orinaux du IIIe siècle: éditions et analyses linguistiques_. Mémoire de Master 2. Sorbonne Université.
 Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
 
-Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen (University of Zurich). 
+Latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich). 
 
 # Train/Dev/Test split
 
