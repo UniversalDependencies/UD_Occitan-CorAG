@@ -18,7 +18,7 @@ In May 2026, CorAG corpus contains six medieval texts and a section of a sixteen
 
 
 # Editions:
-Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_.
+Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, pp. 101-130.
 
 Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse scriptologique des genres textuels, _Revue de linguistique romane_ 86, 35 - 94.
 
