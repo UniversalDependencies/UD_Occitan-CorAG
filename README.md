@@ -3,7 +3,7 @@ UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and ear
 
 # Introduction
 
-In May 2025, CorAG corpus contains six medieval texts and a section of a sixteenth-century text: 
+In May 2026, CorAG corpus contains six medieval texts and a section of a sixteenth-century text: 
 
 
 |Title                                         | Year      |Code            | Edition                | 
