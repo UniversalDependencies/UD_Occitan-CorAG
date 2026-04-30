@@ -17,7 +17,7 @@ In May 2026, CorAG corpus contains six medieval texts and a section of a sixteen
 | Stil de la justicy (partial)                 | 1564      | 1564_Stil      |Rovier 1663             |
 
 
-# Editions:
+# Editions
 Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, pp. 101-130.
 
 Glessgen, Martin, 2022. L’étude linguistique du gascon médiéval : analyse scriptologique des genres textuels, _Revue de linguistique romane_ 86, 35 - 94.
@@ -30,25 +30,27 @@ Rovier, Jacques, 1663. _Stil de la justicy deu pais de Bearn_. Orthez.
 
 The latest versions of the electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with the CorAG team by Professor Martin Glessgen and his team (University of Zurich) in 2023. 
 
+# Corpus stats
+
+| File | Sentences | Tokens (synt) | Tokens (surf) | Tokens+MWT | MWT | Empty | Forms (uniq) | Lemmas (uniq) | UPOS | Avg sent len | Min | Max |
+|------|-----------|---------------|---------------|------------|-----|-------|--------------|---------------|------|--------------|-----|-----|
+| 1214-1342_Deux | 343 | 11,632 | 11,333 | 11,931 | 299 | 0 | 2,314 | 0 | 14 | 33.9 | 3 | 178 |
+| 1251_Bagn | 78 | 3,022 | 2,810 | 3,234 | 212 | 0 | 657 | 0 | 14 | 38.7 | 5 | 147 |
+| 1260_Bagn | 33 | 1,660 | 1,557 | 1,763 | 103 | 0 | 514 | 0 | 14 | 50.3 | 11 | 250 |
+| 1270_Orthez | 34 | 1,340 | 1,303 | 1,377 | 37 | 0 | 395 | 0 | 14 | 39.4 | 8 | 169 |
+| 1278_Herr | 53 | 1,782 | 1,726 | 1,838 | 56 | 0 | 518 | 0 | 13 | 33.6 | 10 | 130 |
+| 1460_Bearn | 753 | 25,954 | 25,357 | 26,551 | 597 | 0 | 2,946 | 0 | 13 | 34.5 | 3 | 332 |
+| 1564_Stil | 192 | 7,149 | 6,942 | 7,356 | 207 | 0 | 1,536 | 0 | 13 | 37.2 | 6 | 187 |
+| Total | 1,486 | 52,539 | 51,028 | 54,050 | 1,511 | 0 | — | — | — | 35.4 | — | — |
+
 # Train/Dev/Test split
 
-| Source | Train (sent) | Train (tok) | Dev (sent) | Dev (tok) | Test (sent) | Test (tok) | Total (sent) | Total (tok) |
-|--------|--------------|-------------|------------|-----------|-------------|------------|--------------|-------------|
-| 1214-1342_Deux | 244 | 8,418 | 21 | 964 | 78 | 2,249 | 343 | **11,631** |
-| 1251_Bagn | 53 | 2,185 | 8 | 248 | 17 | 589 | 78 | **3,022** |
-| 1260_Bagn | 22 | 1,082 | 4 | 169 | 7 | 409 | 33 | **1,660** |
-| 1270_Orthez | 24 | 907 | 4 | 151 | 6 | 282 | 34 | **1,340** |
-| 1278_Herr | 36 | 1,245 | 6 | 182 | 11 | 355 | 53 | **1,782** |
-| 1460_Bearn | 576 | 18,901 | 58 | 2,102 | 119 | 4,951 | 753 | **25,954** |
-| 1564_Stil | 137 | 5,188 | 17 | 589 | 38 | 1,372 | 192 | **7,149** |
-| Total | 1092 | 37,926 | 118 | 4,405 | 276 | 10,207 | 1486 | **52,538** |
-
-| Split | Sentences | Tokens | % (tokens) |
-|-------|-----------|--------|------------|
-| train | 1,092 | 37,926 | 72.2% |
-| dev | 118 | 4,405 | 8.4% |
-| test | 276 | 10,207 | 19.4% |
-| Total | 1,486 | 52,538 | 100.0% |
+| File | Sentences | Tokens (synt) | Tokens (surf) | Tokens+MWT | MWT | Empty | Forms (uniq) | Lemmas (uniq) | UPOS | Avg sent len | Min | Max |
+|------|-----------|---------------|---------------|------------|-----|-------|--------------|---------------|------|--------------|-----|-----|
+| pro_corag-ud-dev.conllu | 118 | 4,405 | 4,279 | 4,531 | 126 | 0 | 1,261 | 0 | 14 | 37.3 | 4 | 130 |
+| pro_corag-ud-test.conllu | 276 | 10,208 | 9,920 | 10,496 | 288 | 0 | 2,454 | 0 | 14 | 37.0 | 4 | 229 |
+| pro_corag-ud-train.conllu | 1,092 | 37,926 | 36,829 | 39,023 | 1,097 | 0 | 5,621 | 0 | 14 | 34.7 | 3 | 332 |
+| Total | 1,486 | 52,539 | 51,028 | 54,050 | 1,511 | 0 | — | — | — | 35.4 | — | — |
 
 Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
