@@ -60,7 +60,7 @@ The texts are annotated in PoS and syntactic functions (Universal Dependencies),
 
 In addition, for the 2.18 release, verbs and auxiliaries have been annotated in verb forms (VerbForm): Inf (infinitive), Fin (conjugated) and Part (participle). Congujated forms are annotated in Person (1,2,3) and Number (Sing, Plur). Annotation in Mood and Tense is ongoing. Participles are annotated in Tense (Past, Pres, Fut), Gender (Masc, Fem) and Number (Sing, Plur). The annotation in features follows the form of the the token (i.e., forms with no agreement in Gender or Number were annotated as masculine singular). 
 
-Please note that participles without dependents are annotated as adjectives but are also provided with morphological features of past participles (VerbForm, Tense, Gender, Number).
+Please note that participles without dependents are annotated as adjectives but are also provided with morphological features of participles (VerbForm, Tense, Gender, Number).
 
 Pronouns are annotated in type (PronType: Prs, Dem, Ind, Rel). Reflexive pronouns are annotated as Prs with an additional Poss=Yes feature. Possessive pronouns have the feature Poss=Yes.
 
@@ -81,7 +81,8 @@ Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/ba
 
 We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
 
-The version of the treebank from November 2025 can also be consulted via the CRISCO Lab (University of Caen) [TXM portal](https://txm-crisco.huma-num.fr/txm/).
+The version of the treebank from November 2025 can also be consulted via the CRISCO Lab (University of Caen) [TXM portal](https://txm-crisco.huma-num.fr/txm/) (Larrivée P. & Francioni B. (ed.) 2026. CorAG Corpus, v. 1.2 (EA 4255). Caen: CRISCO).
+.
 
 We thank the members of the Modern Occitan [Tolosa Treebank](https://github.com/UniversalDependencies/UD_Occitan-TTB) for their help and advice in the early stages of the annotation process.
 
