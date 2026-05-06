@@ -5,97 +5,99 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1291</sentences><tokens>44085</tokens><words>45389</words><fused>1304</fused></total>
-    <train><sentences>912</sentences><tokens>30797</tokens><words>31694</words><fused>897</fused></train>
-    <dev><sentences>98</sentences><tokens>3505</tokens><words>3615</words><fused>110</fused></dev>
-    <test><sentences>281</sentences><tokens>9783</tokens><words>10080</words><fused>297</fused></test>
+    <total><sentences>1486</sentences><tokens>51028</tokens><words>52539</words><fused>1511</fused></total>
+    <train><sentences>1092</sentences><tokens>36829</tokens><words>37926</words><fused>1097</fused></train>
+    <dev><sentences>118</sentences><tokens>4279</tokens><words>4405</words><fused>126</fused></dev>
+    <test><sentences>276</sentences><tokens>9920</tokens><words>10208</words><fused>288</fused></test>
   </size>
   <lemmas unique="0" /><!--  -->
-  <forms unique="5779" /><!-- ,, de, et, que, la, lo, ., en, per, a, de-, -lo, no, si, o -->
-  <fusions unique="188" /><!-- deu, au, del, dels, deus, aus, que-ls, e-ls, als, que-n, que-u, no-s, al, e-l, lo-n -->
+  <forms unique="6867" /><!-- ,, de, et, que, la, en, lo, ., per, a, de-, -lo, no, si, o -->
+  <fusions unique="213" /><!-- deu, au, del, dels, deus, aus, que-ls, e-ls, als, que-n, deudit, que-u, aux, no-s, al -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
-    <tag name="ADJ">1418</tag><!-- _ -->
-    <tag name="ADP">6278</tag><!-- _ -->
-    <tag name="ADV">1984</tag><!-- _ -->
-    <tag name="AUX">1213</tag><!-- _ -->
-    <tag name="CCONJ">3134</tag><!-- _ -->
-    <tag name="DET">5372</tag><!-- _ -->
-    <tag name="NOUN">8359</tag><!-- _ -->
-    <tag name="NUM">436</tag><!-- _ -->
-    <tag name="PART">54</tag><!-- _ -->
-    <tag name="PRON">3493</tag><!-- _ -->
-    <tag name="PROPN">1865</tag><!-- _ -->
-    <tag name="PUNCT">4269</tag><!-- _ -->
-    <tag name="SCONJ">2046</tag><!-- _ -->
-    <tag name="VERB">5468</tag><!-- _ -->
+    <tag name="ADJ">1680</tag><!-- _ -->
+    <tag name="ADP">7391</tag><!-- _ -->
+    <tag name="ADV">2277</tag><!-- _ -->
+    <tag name="AUX">1446</tag><!-- _ -->
+    <tag name="CCONJ">3587</tag><!-- _ -->
+    <tag name="DET">6335</tag><!-- _ -->
+    <tag name="NOUN">9917</tag><!-- _ -->
+    <tag name="NUM">477</tag><!-- _ -->
+    <tag name="PART">53</tag><!-- _ -->
+    <tag name="PRON">3913</tag><!-- _ -->
+    <tag name="PROPN">1872</tag><!-- _ -->
+    <tag name="PUNCT">4963</tag><!-- _ -->
+    <tag name="SCONJ">2220</tag><!-- _ -->
+    <tag name="VERB">6408</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="29">
-    <feat name="ExtPos" value="ADP" upos="ADP,ADV,SCONJ">55</feat><!-- entro, per, fore, no, quant, contra, ob, saub, ses, Seis -->
-    <feat name="ExtPos" value="ADV" upos="ADP,ADV,PRON,SCONJ,VERB">71</feat><!-- so, tant, si, ayssi, no, es, per, so-, -si, aixi -->
-    <feat name="ExtPos" value="CCONJ" upos="ADV">8</feat><!-- ayssi, aixi, ayssi- -->
-    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,NOUN,SCONJ,VERB">214</feat><!-- ayssi, entro, per, tant, si, ab, sino, aixi, en, segont -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,PRON,VERB">395</feat><!-- la, feyte, las, feytes, dade, ere, aquere, Conegude, audides, conoguda -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,PRON,VERB">2054</feat><!-- lo, autre, -los, hom, feyt, los, so, judyat, ac, asso -->
-    <feat name="Mood" value="Cnd" upos="VERB">3</feat><!-- requerie, habundarie -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">134</feat><!-- deu, dam, autreiam, devem, es, avem, deven, dey, do, pot -->
-    <feat name="Mood" value="Sub" upos="AUX,VERB">190</feat><!-- fasse, sie, pagui, digue, pagas, aye, fes, fos, pusque, adobi -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,PRON,VERB">1431</feat><!-- nos, -los, los, son, dam, an, lor, sien, autreiam, -us -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,PRON,VERB">4861</feat><!-- es, deu, lo, sie, ha, fo, a, autre, l', hom -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">469</feat><!-- nos, jo, dam, autreiam, mi, me, devem, -m, dey, ey -->
-    <feat name="Person" value="2" upos="PRON,VERB">64</feat><!-- -us, vos, ditz, fasatz, suple, Sapiatz, bos, deffendat, devetz, fassatz -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">4590</feat><!-- es, deu, lo, se, sie, ha, fo, s', autre, l' -->
-    <feat name="Poss" value="Yes" upos="PRON">6</feat><!-- sons, lors, soes, sos -->
-    <feat name="PronType" value="Dem" upos="PRON">368</feat><!-- so, ac, asso, aqueg, aquero, a-, aqued, aquegs, a, aquetz -->
-    <feat name="PronType" value="Ind" upos="PRON">265</feat><!-- autre, hom, autres, un, cascun, tot, totz, aute, ren, autruy -->
-    <feat name="PronType" value="Int" upos="PRON">2</feat><!-- qui -->
-    <feat name="PronType" value="Neg" upos="PRON">57</feat><!-- augu, augun, negun, auguns, degun, degune, nulhs, aucun, neg, negu -->
-    <feat name="PronType" value="Prs" upos="PRON">1556</feat><!-- lo, se, y, s', en, nos, l', -los, los, ne -->
-    <feat name="PronType" value="Rel" upos="PRON">591</feat><!-- qui, que, ont, qui-, on, loquoau, losquoaus, que-, cui, losquaus -->
-    <feat name="Reflex" value="Yes" upos="PRON">267</feat><!-- se, s', -s, si, me, -m, -se, si-, sii, en -->
-    <feat name="Tense" value="Fut" upos="VERB">10</feat><!-- applicadore, aura, aveniduy, dara, dare, ordenaduy, parceran, pravare, tornara, valera -->
-    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">1142</feat><!-- feyt, judyat, establit, feyte, estat, dat, diit, tengut, feit, feytes -->
-    <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">360</feat><!-- deu, dam, autreiam, fasse, sie, estan, devem, disen, pagui, digue -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">3522</feat><!-- es, deu, sie, ha, fo, a, pot, ave, aura, ere -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">894</feat><!-- far, dar, aver, esser, pagar, judyar, jurar, bener, coelher, prener -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">1183</feat><!-- feyt, judyat, establit, feyte, estat, dat, diit, tengut, feit, feytes -->
-    <feat name="Voice" value="Pass" upos="ADJ,VERB">711</feat><!-- judyat, establit, feyt, feyte, diit, tengut, avantditz, Conegude, dade, feytz -->
+  <feats unique="31">
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,SCONJ">77</feat><!-- entro, per, fore, no, quant, d', saub, contra, cum, ob -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,PRON,SCONJ,VERB">80</feat><!-- so, tant, si, ayssi, no, cum, es, per, so-, ço -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV">11</feat><!-- ayssi, tout, aixi, ayssi-, ensemps -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,NOUN,SCONJ,VERB">277</feat><!-- tant, ayssi, entro, per, si, en, ab, sino, aixi, sinon -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,PRON,VERB">740</feat><!-- feyte, la, las, feytes, sobredeytas, aqueres, feyta, aquere, sobredeyta, aqueras -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,PRON,VERB">2896</feat><!-- lo, los, feyt, -los, luy, hom, lor, asso, judyat, ac -->
+    <feat name="Gender" value="Neut" upos="PRON,VERB">134</feat><!-- so, ag, ac, ço, -ço, o, Notum, -quero, -quet, Actum -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">5</feat><!-- requerie, aye, habundarie, poeyré -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">550</feat><!-- sera, seran, deu, es, dam, autreiam, aura, son, poeyra, pot -->
+    <feat name="Mood" value="Sub" upos="AUX,VERB">274</feat><!-- sie, fasse, sien, pagui, aye, digue, fasats, pagas, fes, fos -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,PRON,VERB">2539</feat><!-- nos, son, los, -los, lor, seran, an, vos, sien, autres -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,PRON,VERB">6511</feat><!-- es, deu, lo, sera, sie, fo, ha, a, autre, so -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">601</feat><!-- nos, jo, dam, autreiam, mi, me, avem, devem, ey, -m -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">145</feat><!-- vos, -us, vous, ditz, fasats, sapiat, fassatz, sapiatz, suple, audiretz -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">6028</feat><!-- es, deu, se, lo, sera, y, sie, son, fo, ha -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,DET,PRON">1136</feat><!-- no, ni, sens, no-, senhs, nulh, nulhe, aucuna, non, nulhs -->
+    <feat name="Poss" value="Yes" upos="PRON">15</feat><!-- sons, nostre, nostres, sonx, lors, soes, sont, sos, vostres -->
+    <feat name="PronType" value="Dem" upos="PRON">563</feat><!-- so, asso, ac, aqueg, ag, aquetz, aquero, a-, aqued, aquegs -->
+    <feat name="PronType" value="Ind" upos="PRON">431</feat><!-- autre, hom, autres, un, augu, c., tot, augun, &c., totz -->
+    <feat name="PronType" value="Neg" upos="DET,PRON">34</feat><!-- augun, negun, augune, res, auguns, ren, augunes, degun, degune, aucun -->
+    <feat name="PronType" value="Prs" upos="PRON">2007</feat><!-- se, lo, nos, y, los, en, s', l', -los, luy -->
+    <feat name="PronType" value="Rel" upos="PRON">870</feat><!-- qui, que, losquaus, ont, lasquaus, loquau, qui-, laquau, on, -que -->
+    <feat name="Reflex" value="Yes" upos="PRON">363</feat><!-- se, s', -s, si, me, s'-, -m, -se, si-, sii -->
+    <feat name="Tense" value="Fut" upos="ADJ,AUX,VERB">330</feat><!-- sera, seran, aura, poeyra, bailhera, fara, poeyran, auran, viendran, bailheran -->
+    <feat name="Tense" value="Imp" upos="AUX,VERB">13</feat><!-- ere, fosse, fossen, accordassen, fasse, passabe, purgasse, recusasse, troubassen -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">1915</feat><!-- feyt, judyat, feyte, establit, estat, tengut, sobredeyt, dat, passat, deyt -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,VERB">643</feat><!-- es, deu, dam, autreiam, sie, fasse, estan, sien, son, pot -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4744</feat><!-- es, deu, sera, sie, son, fo, ha, a, pot, aura -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">1342</feat><!-- far, dar, esser, aver, estar, pagar, jurar, prener, responer, judyar -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,VERB">2071</feat><!-- feyt, judyat, feyte, establit, estat, tengut, sobredeyt, dat, passat, deyt -->
+    <feat name="Voice" value="Pass" upos="ADJ,VERB">1287</feat><!-- judyat, feyt, establit, feyte, tengut, sobredeyt, deyt, sobredeytas, diit, feyta -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="33">
-    <dep name="acl">252</dep>
-    <dep name="acl:relcl">703</dep>
-    <dep name="advcl">1123</dep>
-    <dep name="advmod">1695</dep>
-    <dep name="amod">1189</dep>
-    <dep name="appos">239</dep>
-    <dep name="aux">410</dep>
-    <dep name="aux:pass">549</dep>
-    <dep name="case">5981</dep>
-    <dep name="cc">3131</dep>
-    <dep name="ccomp">503</dep>
-    <dep name="conj">3078</dep>
-    <dep name="cop">247</dep>
-    <dep name="csubj">20</dep>
-    <dep name="det">5360</dep>
+    <dep name="acl">317</dep>
+    <dep name="acl:relcl">795</dep>
+    <dep name="advcl">1403</dep>
+    <dep name="advmod">1914</dep>
+    <dep name="amod">1396</dep>
+    <dep name="appos">248</dep>
+    <dep name="aux">443</dep>
+    <dep name="aux:pass">729</dep>
+    <dep name="case">6935</dep>
+    <dep name="cc">3585</dep>
+    <dep name="ccomp">535</dep>
+    <dep name="conj">3511</dep>
+    <dep name="cop">267</dep>
+    <dep name="csubj">22</dep>
+    <dep name="det">6323</dep>
     <dep name="discourse">3</dep>
-    <dep name="discourse:enunc">43</dep>
-    <dep name="dislocated">26</dep>
-    <dep name="expl">345</dep>
-    <dep name="fixed">449</dep>
-    <dep name="flat">442</dep>
-    <dep name="iobj">291</dep>
-    <dep name="mark">2181</dep>
-    <dep name="nmod">2045</dep>
-    <dep name="nsubj">2338</dep>
-    <dep name="nummod">365</dep>
-    <dep name="obj">2079</dep>
-    <dep name="obl">3702</dep>
-    <dep name="orphan">98</dep>
-    <dep name="parataxis">3</dep>
-    <dep name="punct">4269</dep>
-    <dep name="root">1291</dep>
-    <dep name="xcomp">939</dep>
+    <dep name="discourse:enunc">42</dep>
+    <dep name="dislocated">28</dep>
+    <dep name="expl">409</dep>
+    <dep name="fixed">547</dep>
+    <dep name="flat">446</dep>
+    <dep name="iobj">316</dep>
+    <dep name="mark">2489</dep>
+    <dep name="nmod">2356</dep>
+    <dep name="nsubj">2690</dep>
+    <dep name="nummod">400</dep>
+    <dep name="obj">2362</dep>
+    <dep name="obl">4350</dep>
+    <dep name="orphan">113</dep>
+    <dep name="parataxis">4</dep>
+    <dep name="punct">4963</dep>
+    <dep name="root">1486</dep>
+    <dep name="xcomp">1112</dep>
   </deps>
 </treebank>
