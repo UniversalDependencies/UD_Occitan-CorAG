@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Old_Occitan-CorAG:
-commit cca77d5d0cce514b83113f4b3c3dc5e2b0560c90
-Merge: 35cca4c a882a59
+commit 9c89628c7fbe57ffc58c6408497772a30fe80285
+Merge: 4599449 46afa7b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pro_corag'
 Language code (from CoNLL-U file name) = 'pro'
 Found the following data files: pro_corag-ud-dev.conllu, pro_corag-ud-test.conllu, pro_corag-ud-train.conllu
-Size: counted 45389 of 45389 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.63053956988252.
+Size: counted 52539 of 52539 words (nodes).
+Size: min(0, log((N/1000)**2)) = 7.92311150191727.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,61 +19,61 @@ Split: Found at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 8773 out of 45389 total words have one or more features.
+Features: 13580 out of 52539 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-dev.conllu
-[Line 5 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'fen' lacks the 'Mood' feature
-[Line 6 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'lors' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 9 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'medixe' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 12 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'las' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 17 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
-[Line 20 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning pron-det-without-prontype] The word 'lors' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 22 Sent 1460_Bearn_1_1_103_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
-[Line 31 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'negave' lacks the 'Mood' feature
-[Line 33 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 36 Sent 1460_Bearn_1_1_261_1_6]: [L3 Warning verbform-fin-without-mood] Finite verb 'ere' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-Warnings: 727
+[Line 5 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'li' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 8 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'li' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 10 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'crompan' lacks the 'Mood' feature
+[Line 14 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 17 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 20 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'eyschan' lacks the 'Mood' feature
+[Line 22 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 25 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'aucun' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 28 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING verbform-fin-without-mood] Finite verb 'pinhoren' lacks the 'Mood' feature
+[Line 29 Sent 1214-1342_Deux_1_1_7_98_5]: [L3 WARNING pron-det-without-prontype] The word 'los' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 925
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-test.conllu
-[Line 6 Sent 1460_Bearn_1_1_30_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'va' lacks the 'Mood' feature
-[Line 15 Sent 1460_Bearn_1_1_30_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'sie' lacks the 'Mood' feature
-[Line 26 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'dic' lacks the 'Mood' feature
-[Line 28 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
-[Line 35 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
-[Line 40 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'deu' lacks the 'Mood' feature
-[Line 51 Sent 1460_Bearn_1_1_136_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
-[Line 62 Sent 1460_Bearn_1_1_27_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'fos' lacks the 'Mood' feature
-[Line 64 Sent 1460_Bearn_1_1_27_1_2]: [L3 Warning verbform-fin-without-mood] Finite verb 'deu' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-Warnings: 2017
+[Line 6 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'lodeyt' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 8 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'avia' lacks the 'Mood' feature
+[Line 10 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 13 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'aqueras' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 15 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'una' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 25 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fu' lacks the 'Mood' feature
+[Line 28 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'son' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 39 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING verbform-fin-without-mood] Finite verb 'fo' lacks the 'Mood' feature
+[Line 44 Sent 1214-1342_Deux_1_1_7_107_3]: [L3 WARNING pron-det-without-prontype] The word 'totas' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 1849
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang pro --max-err=10 UD_Old_Occitan-CorAG/pro_corag-ud-train.conllu
-[Line 14 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'nulhs' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 16 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'dave' lacks the 'Mood' feature
-[Line 21 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'son' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 25 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word '-losditz' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'entrave' lacks the 'Mood' feature
-[Line 34 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word '-lo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 37 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 40 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'faze' lacks the 'Mood' feature
-[Line 44 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning verbform-fin-without-mood] Finite verb 'pravave' lacks the 'Mood' feature
-[Line 51 Sent 1251_Bagn_1_1_24_1_1]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-Warnings: 6477
+[Line 7 Sent 1214-1342_Deux_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 19 Sent 1214-1342_Deux_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'totz' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 20 Sent 1214-1342_Deux_1_1_1_1_1]: [L3 WARNING pron-det-without-prontype] The word 'li' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 32 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'Sapiat' lacks the 'Mood' feature
+[Line 35 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'avem' lacks the 'Mood' feature
+[Line 38 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING pron-det-without-prontype] The word 'nostres' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 44 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'es' lacks the 'Mood' feature
+[Line 50 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ayan' lacks the 'Mood' feature
+[Line 51 Sent 1214-1342_Deux_1_1_1_2_1]: [L3 WARNING pron-det-without-prontype] The word 'totas' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 7484
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.552316871524065) = 0.204561804268172
+(weight=0.37037037037037) * (score{size}=0.573493934131143) = 0.212405160789312
 (weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
 (weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
 (weight=0.111111111111111) * (score{udeprels}=0.810810810810811) = 0.0900900900900901
-(TOTAL score=0.456402075912365) * (availability=1) * (validity=1) = 0.456402075912365
+(TOTAL score=0.464245432433505) * (availability=1) * (validity=1) = 0.464245432433505
 STARS = 2.5
-UD_Old_Occitan-CorAG	0.456402075912365	2.5
+UD_Old_Occitan-CorAG	0.464245432433505	2.5
